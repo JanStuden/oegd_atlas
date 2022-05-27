@@ -1,0 +1,68 @@
+
+            // var makeTippy = function(ele, text){
+			// 	var ref = ele.popperRef();
+
+			// 	// Since tippy constructor requires DOM element/elements, create a placeholder
+			// 	var dummyDomEle = document.createElement('div');
+
+			// 	var tip = tippy( dummyDomEle, {
+			// 		getReferenceClientRect: ref.getBoundingClientRect,
+			// 		trigger: 'manual', // mandatory
+			// 		// dom element inside the tippy:
+			// 		content: function(){ // function can be better for performance
+			// 			var div = document.createElement('div');
+
+			// 			div.innerHTML = text;
+
+			// 			return div;
+			// 		},
+			// 		// your own preferences:
+			// 		arrow: false,
+            //         theme: 'gradient',
+			// 		placement: 'bottom',
+			// 		hideOnClick: false,
+			// 		sticky: "reference",
+
+			// 		// if interactive:
+			// 		interactive: true,
+			// 		appendTo: document.body // or append dummyDomEle to document.body
+			// 	} );
+                
+			// 	return tip;
+			// };
+
+        // let tipArray = [];
+
+        // cy.nodes().forEach((ele) => {
+        //     let tip = makeTippy(ele, ele.data('ebene'));
+        //     tip.show();
+        //     tipArray.push(tip)
+        // });
+        
+        
+        // let hideTippies = () => {
+        //     if(cy.zoom() < 1) {
+        //         tipArray.forEach((ele) =>{
+        //             ele.hide()
+        //             console.log(cy.zoom())
+        //         })
+        //     }
+        //     else{
+        //         tipArray.forEach((ele) =>{
+        //             ele.show()
+        //             console.log(cy.zoom())
+        //         })
+        //     }
+        // }
+
+        // cy.on('pan zoom resize', hideTippies);
+
+    //     if (checkedEbenen.length > 0 ) {
+        
+    //     let nullVar = checkedEbenen[0];
+    //     let filter= cy.nodes().filter(function( ele ){
+    //         return ele.data('ebene') == nullVar;
+    //     });
+    //     filter.style('background-color','magenta')
+    // }
+    

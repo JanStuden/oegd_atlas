@@ -1,0 +1,7885 @@
+[{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa96"
+  },
+  "data": {
+    "id": "1",
+    "Gebiet": "Stadt Flensburg",
+    "Line2": "Fachbereich 2 / Gesundheitsdienste",
+    "parent": "Schleswig-Holstein",
+    "Strasse": "Norderstr. 58-60",
+    "PLZ": "24939",
+    "Ort": "Flensburg",
+    "EMail": "infektionsschutz@flensburg.de ",
+    "Tel": "0461 85-2602",
+    "Fax": "0461 85-1960",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SFF2/G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa97"
+  },
+  "data": {
+    "id": "2",
+    "Gebiet": "Landeshauptstadt Kiel",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Amt für Gesundheit",
+    "Strasse": "Fleethörn 18-24",
+    "PLZ": "24103",
+    "Ort": "Kiel",
+    "EMail": "infektionsschutz@kiel.de",
+    "Tel": "0431 901 2108",
+    "Fax": "0431 901 621 08",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKAfG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa98"
+  },
+  "data": {
+    "id": "3",
+    "Gebiet": "Hansestadt Lübeck",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Sophienstr. 2 - 8",
+    "PLZ": "23560",
+    "Ort": "Lübeck",
+    "EMail": "corona@luebeck.de",
+    "Tel": "+49 451 122-5315",
+    "Fax": "+49 451 122 5390",
+    "Ebene": "Kommune",
+    "Abkuerzung": "HLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa99"
+  },
+  "data": {
+    "id": "4",
+    "Gebiet": "Stadt Neumünster",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Meßtorffweg 8",
+    "PLZ": "24534",
+    "Ort": "Neumünster",
+    "EMail": "Infektionsschutz@neumuenster.de ",
+    "Tel": "04321 942-2810",
+    "Fax": "04321 942-2800",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa9a"
+  },
+  "data": {
+    "id": "5",
+    "Gebiet": "Kreis Dithmarschen",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Fachdienst Gesundheitsschutz",
+    "Strasse": "Esmarchstr. 50",
+    "PLZ": "25746",
+    "Ort": "Heide",
+    "EMail": "fd-gesundheitsschutz@dithmarschen.de",
+    "Tel": "0481 9749000",
+    "Fax": "0481 974931",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KDFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa9b"
+  },
+  "data": {
+    "id": "6",
+    "Gebiet": "Kreis Herzogtum Lauenburg",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Barlachstr. 4",
+    "PLZ": "23909",
+    "Ort": "Ratzeburg",
+    "EMail": "gesundheitsdienste@kreis-rz.de",
+    "Tel": "+49 4541 888-380",
+    "Fax": "+49 4541 888-259",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KHLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa9c"
+  },
+  "data": {
+    "id": "7",
+    "Gebiet": "Kreis Nordfriesland",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Fachdienst Gesundheit(Gesundheitsamt)",
+    "Strasse": "Damm 8",
+    "PLZ": "25813",
+    "Ort": "Husum",
+    "EMail": "infektionsmeldungen@nordfriesland.de",
+    "Tel": "+49 4841 67 0",
+    "Fax": "+49 4841 67 89 4431",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KNFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa9d"
+  },
+  "data": {
+    "id": "8",
+    "Gebiet": "Kreis Ostholstein",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Fachdienst Gesundheit(Gesundheitsamt)",
+    "Strasse": "Holstenstr. 52",
+    "PLZ": "23701",
+    "Ort": "Eutin",
+    "EMail": "ugs@kreis-oh.de",
+    "Tel": "04521 788-880",
+    "Fax": "04521 788-139",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KOFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa9e"
+  },
+  "data": {
+    "id": "9",
+    "Gebiet": "Kreisverwaltung Pinneberg",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Kurt-Wagener-Straße 11",
+    "PLZ": "25337",
+    "Ort": "Elmshorn",
+    "EMail": "infektionsschutz@kreis-pinneberg.de ",
+    "Tel": "+49 4121- 4502-5000",
+    "Fax": "+49 4121 4502-93510",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KPFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fa9f"
+  },
+  "data": {
+    "id": "10",
+    "Gebiet": "Kreis Plön",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Amt für Gesundheit",
+    "Strasse": "Hamburger Str. 17/18",
+    "PLZ": "24306",
+    "Ort": "Plön",
+    "EMail": "gesundheitsamt@kreis-ploen.de",
+    "Tel": "04522 743-531",
+    "Fax": "04522 743-467",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KPAfG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa0"
+  },
+  "data": {
+    "id": "11",
+    "Gebiet": "Kreis Rendsburg-Eckernförde",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Fachdienst 4.3 Gesundheitsdienste",
+    "Strasse": "Kaiserstr. 8",
+    "PLZ": "24768",
+    "Ort": "Rendsburg",
+    "EMail": "gesundheitsamt@kreis-rd.de",
+    "Tel": "04331 202-560",
+    "Fax": "04331 202-604",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KRF4G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa1"
+  },
+  "data": {
+    "id": "12",
+    "Gebiet": "Kreis Schleswig-Flensburg",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Moltkestraße 22-26",
+    "PLZ": "24837",
+    "Ort": "Schleswig",
+    "EMail": "gesundheitsamt@schleswig-flensburg.de",
+    "Tel": "+49 4621 810-0",
+    "Fax": "+49 4621 810-55",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KSFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa2"
+  },
+  "data": {
+    "id": "13",
+    "Gebiet": "Landkreis Segeberg",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Fachdienst Infektionsschutz und umweltbezogener Gesundheitsschutz",
+    "Strasse": "Hamburger Str. 30",
+    "PLZ": "23795",
+    "Ort": "Bad Segeberg",
+    "EMail": "infektionsschutz@segeberg.de ",
+    "Tel": "04551 951-9349",
+    "Fax": "04551 951-9340",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSFIuuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa3"
+  },
+  "data": {
+    "id": "14",
+    "Gebiet": "Landkreis Steinburg",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Viktoriastr. 17a",
+    "PLZ": "25524",
+    "Ort": "Itzehoe",
+    "EMail": "gesundheitsamt@steinburg.de",
+    "Tel": "04821 69-390",
+    "Fax": "04821 69-403",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa4"
+  },
+  "data": {
+    "id": "15",
+    "Gebiet": "Landkreis Stormarn",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Fachdienst Gesundheit/ Gesundheitsamt",
+    "Strasse": "Reimer-Hansen-Str. 3",
+    "PLZ": "23843",
+    "Ort": "Bad Oldesloe",
+    "EMail": "gesundheitsamt@kreis-stormarn.de",
+    "Tel": "+49 4531 160-1282",
+    "Fax": "+49 4531 160-1626",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSFGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa5"
+  },
+  "data": {
+    "id": "16",
+    "Gebiet": "Bezirksamt Hamburg-Altona",
+    "parent": "Hamburg",
+    "Line2": "Bezirksamt Altona Fachamt Gesundheit",
+    "Strasse": "Bahrenfelder Str. 254-260 ",
+    "PLZ": "22765",
+    "Ort": "Hamburg",
+    "EMail": "Infektionsschutz@altona.hamburg.de",
+    "Tel": "+49 40 428 11 2000",
+    "Fax": "+49 40 427 902 055",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BHBAFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa6"
+  },
+  "data": {
+    "id": "17",
+    "Gebiet": "Gesundheitsamt Hamburg-Bergedorf",
+    "parent": "Hamburg",
+    "Line2": "Fachamt Gesundheit",
+    "Strasse": "Herzog-Carl-Friedrich-Platz 1                     ",
+    "PLZ": "21031",
+    "Ort": "Hamburg",
+    "EMail": "gesundheit@bergedorf.hamburg.de",
+    "Tel": "+49 40 42891 2220",
+    "Fax": "+49 40 4279 06237",
+    "Ebene": "Kommune",
+    "Abkuerzung": "GHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa7"
+  },
+  "data": {
+    "id": "18",
+    "Gebiet": "Bezirksamt Hamburg-Eimsbüttel",
+    "parent": "Hamburg",
+    "Line2": "Gesundheits- und Umweltamt",
+    "Strasse": "Grindelberg 66",
+    "PLZ": "20144",
+    "Ort": "Hamburg",
+    "EMail": "infektionsschutz@eimsbuettel.hamburg.de",
+    "Tel": "+49 40 42801-3400",
+    "Fax": "+49 40 42790 3371",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BHGuU"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa8"
+  },
+  "data": {
+    "id": "19",
+    "Gebiet": "Bezirksamt Hamburg-Mitte",
+    "parent": "Hamburg",
+    "Line2": "Fachamt Gesundheit",
+    "Strasse": "Caffamacherreihe 1-3",
+    "PLZ": "20355",
+    "Ort": "Hamburg",
+    "EMail": "Gesundheitsamtmitte@hamburg-mitte.hamburg.de",
+    "Tel": "+49 40 42854-4631",
+    "Fax": "+49 40 42790-1187",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faa9"
+  },
+  "data": {
+    "id": "20",
+    "Gebiet": "Bezirksamt Hamburg-Nord",
+    "parent": "Hamburg",
+    "Line2": "Fachamt Gesundheit",
+    "Strasse": "Eppendorfer Landstraße 59",
+    "PLZ": "20249",
+    "Ort": "Hamburg",
+    "EMail": "Infektionsschutz@hamburg-nord.hamburg.de",
+    "Tel": "040 42804-2675",
+    "Fax": "040 427904-008",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faaa"
+  },
+  "data": {
+    "id": "21",
+    "Gebiet": "Freie und Hansestadt Hamburg",
+    "parent": "Hamburg",
+    "Line2": "Bezirksamt Harburg",
+    "Strasse": "Harburger Rathauspassage 2",
+    "PLZ": "21073",
+    "Ort": "Hamburg",
+    "EMail": "gesundheitsamt@harburg.hamburg.de",
+    "Tel": "",
+    "Fax": "040 427 90  7190",
+    "Ebene": "Kommune",
+    "Abkuerzung": "FuHHBH"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faab"
+  },
+  "data": {
+    "id": "22",
+    "Gebiet": "Bezirksamt Hamburg-Wandsbek",
+    "parent": "Hamburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Robert-Schumann-Brücke 8",
+    "PLZ": "22041",
+    "Ort": "Hamburg",
+    "EMail": "Infektionsschutz@wandsbek.hamburg.de",
+    "Tel": "",
+    "Fax": "+49 40 4279 054 99",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faac"
+  },
+  "data": {
+    "id": "23",
+    "Gebiet": "HPHC",
+    "parent": "Hamburg",
+    "Line2": "Hafenärztlicher Dienst ",
+    "Strasse": "",
+    "PLZ": "",
+    "Ort": "",
+    "EMail": "",
+    "Tel": "",
+    "Fax": "",
+    "Ebene": "Kommune",
+    "Abkuerzung": "HHD"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faad"
+  },
+  "data": {
+    "id": "24",
+    "Gebiet": "Stadt Braunschweig",
+    "parent": "Niedersachsen",
+    "Line2": "Fachbereich Soziales und Gesundheit",
+    "Strasse": "Hamburger Str. 226",
+    "PLZ": "38114",
+    "Ort": "Braunschweig",
+    "EMail": "Gesundheitsamt@braunschweig.de",
+    "Tel": "0531 470-7022",
+    "Fax": "0531 470-7040",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SBFSuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faae"
+  },
+  "data": {
+    "id": "25",
+    "Gebiet": "Stadt Salzgitter",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Paracelsusstr. 1-9",
+    "PLZ": "38259",
+    "Ort": "Salzgitter",
+    "EMail": "gesundheit@stadt.salzgitter.de",
+    "Tel": "05341 839-2022",
+    "Fax": "05341 839-2060",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faaf"
+  },
+  "data": {
+    "id": "26",
+    "Gebiet": "Stadt Wolfsburg",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Rosenweg 1a",
+    "PLZ": "38446",
+    "Ort": "Wolfsburg",
+    "EMail": "gesundheitsamt@stadt.wolfsburg.de",
+    "Tel": "05361 28-2020",
+    "Fax": "05361 28-2002",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab0"
+  },
+  "data": {
+    "id": "27",
+    "Gebiet": "Landkreis Gifhorn",
+    "parent": "Niedersachsen",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Allerstr. 21",
+    "PLZ": "38518",
+    "Ort": "Gifhorn",
+    "EMail": "gesundheitsamt@gifhorn.de",
+    "Tel": "05371 82-702",
+    "Fax": "05371 82-358",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab1"
+  },
+  "data": {
+    "id": "28",
+    "Gebiet": "Landkreis Goslar",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Heinrich-Pieper-Str. 9",
+    "PLZ": "38640",
+    "Ort": "Goslar",
+    "EMail": "gesundheitsamt@landkreis-goslar.de",
+    "Tel": "05321 700-800",
+    "Fax": "05321 700-880",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab2"
+  },
+  "data": {
+    "id": "29",
+    "Gebiet": "Landkreis Helmstedt",
+    "parent": "Niedersachsen",
+    "Line2": "Geschäftsbereich Gesundheit",
+    "Strasse": "Elzweg 19",
+    "PLZ": "38350",
+    "Ort": "Helmstedt",
+    "EMail": "gesundheitsamt@landkreis-helmstedt.de",
+    "Tel": "05351 121-1425",
+    "Fax": "05351 121-1614",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab3"
+  },
+  "data": {
+    "id": "30",
+    "Gebiet": "Landkreis Northeim",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitswesen",
+    "Strasse": "Wolfshof 10",
+    "PLZ": "37154",
+    "Ort": "Northeim",
+    "EMail": "gesundheitsdienste@landkreis-northeim.de",
+    "Tel": "05551 708-570",
+    "Fax": "05551-708-9538 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab4"
+  },
+  "data": {
+    "id": "31",
+    "Gebiet": "Landkreis Peine",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Maschweg 21",
+    "PLZ": "31224",
+    "Ort": "Peine",
+    "EMail": "gesundheit@landkreis-peine.de",
+    "Tel": "05171 4017001",
+    "Fax": "05171 401-7731",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LPG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab5"
+  },
+  "data": {
+    "id": "32",
+    "Gebiet": "Landkreis Wolfenbüttel",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Friedrich-Wilhelm-Str. 2a",
+    "PLZ": "38300",
+    "Ort": "Wolfenbüttel",
+    "EMail": "gesundheitsamt@lk-wf.de",
+    "Tel": "05331 84-503",
+    "Fax": "05331 84-513",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab6"
+  },
+  "data": {
+    "id": "33",
+    "Gebiet": "Stadt und Landkreis Göttingen",
+    "parent": "Niedersachsen",
+    "Line2": "Fachbereich 53 Gesundheitsamt",
+    "Strasse": "Theaterplatz 4",
+    "PLZ": "37073",
+    "Ort": "Göttingen",
+    "EMail": "gesundheitsamt@goettingen.de",
+    "Tel": "0551 400-4802",
+    "Fax": "0551 400-4930",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SuLGF5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab7"
+  },
+  "data": {
+    "id": "34",
+    "Gebiet": "Region Hannover",
+    "parent": "Niedersachsen",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Weinstr. 2",
+    "PLZ": "30171",
+    "Ort": "Hannover",
+    "EMail": "Gesundheit@region-hannover.de ",
+    "Tel": "05 11 300 34 34",
+    "Fax": "0511  616-48576",
+    "Ebene": "Kommune",
+    "Abkuerzung": "RHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab8"
+  },
+  "data": {
+    "id": "35",
+    "Gebiet": "Landkreis Diepholz",
+    "parent": "Niedersachsen",
+    "Line2": "Fachdienst 53 Gesundheitsamt",
+    "Strasse": "Wellestr. 6",
+    "PLZ": "49356",
+    "Ort": "Diepholz",
+    "EMail": "gesundheitsamt@diepholz.de",
+    "Tel": "05441 976-1801",
+    "Fax": "05441 976-1756",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDF5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fab9"
+  },
+  "data": {
+    "id": "36",
+    "Gebiet": "Landkreis Hameln-Pyrmont",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hugenottenstr. 6",
+    "PLZ": "31785",
+    "Ort": "Hameln",
+    "EMail": "gesundheit@hameln-pyrmont.de",
+    "Tel": "05151 903-5555",
+    "Fax": "05151 903-5002",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faba"
+  },
+  "data": {
+    "id": "37",
+    "Gebiet": "Landkreis Hildesheim",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Ludolfingerstr. 2",
+    "PLZ": "31132",
+    "Ort": "Hildesheim",
+    "EMail": "gesundheit@landkreishildesheim.de",
+    "Tel": "05121 309-7541",
+    "Fax": "05121 309-7809",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fabb"
+  },
+  "data": {
+    "id": "38",
+    "Gebiet": "Landkreis Holzminden",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Böntalstr. 32",
+    "PLZ": "37603",
+    "Ort": "Holzminden",
+    "EMail": "gesundheitsschutz@landkreis-holzminden.de",
+    "Tel": "+49 5531 707-372",
+    "Fax": "+49 5531 7076673",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fabc"
+  },
+  "data": {
+    "id": "39",
+    "Gebiet": "Landkreis Nienburg (Weser)",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt / Gesundheitsdienste",
+    "Strasse": "Triemerstr. 17",
+    "PLZ": "31582",
+    "Ort": "Nienburg",
+    "EMail": "Infektionsschutz@kreis-ni.de",
+    "Tel": "05021967 900",
+    "Fax": "05021967 933",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LN(G/G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fabd"
+  },
+  "data": {
+    "id": "40",
+    "Gebiet": "Landkreis Schaumburg",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Probsthäger Str. 6",
+    "PLZ": "31655",
+    "Ort": "Stadthagen",
+    "EMail": "gesundheitsamt@schaumburg.de",
+    "Tel": "+49 5721 703-2500",
+    "Fax": "+49 5721 703-2558",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fabe"
+  },
+  "data": {
+    "id": "41",
+    "Gebiet": "Landkreis Celle",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Trift 26",
+    "PLZ": "29221",
+    "Ort": "Celle",
+    "EMail": "gesundheitsamt@lkcelle.de",
+    "Tel": "05141 916-5000",
+    "Fax": "05141 916-5099",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LCG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fabf"
+  },
+  "data": {
+    "id": "42",
+    "Gebiet": "Landkreis Cuxhaven",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Vincent-Lübeck-Str. 2",
+    "PLZ": "27474",
+    "Ort": "Cuxhaven",
+    "EMail": "gesundheitsamt@Landkreis-Cuxhaven.de",
+    "Tel": "+49 4721-66 26 00",
+    "Fax": "+49 4721 66270563",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LCG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac0"
+  },
+  "data": {
+    "id": "43",
+    "Gebiet": "Landkreis Harburg",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schloßplatz 6",
+    "PLZ": "21423",
+    "Ort": "Winsen(Luhe)",
+    "EMail": "Gesundheitsamt@lkharburg.de",
+    "Tel": "04171 693-372",
+    "Fax": "04171 693-174",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac1"
+  },
+  "data": {
+    "id": "44",
+    "Gebiet": "Landkreis Lüchow- Dannenberg/",
+    "parent": "Niedersachsen",
+    "Line2": "Wendland",
+    "Strasse": "Königsberger Strasse 10",
+    "PLZ": "29439",
+    "Ort": "Lüchow/ Wendland",
+    "EMail": "gesundheit@luechow-dannenberg.de",
+    "Tel": "05841-120 850",
+    "Fax": "05841 120-479",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLDW"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac2"
+  },
+  "data": {
+    "id": "45",
+    "Gebiet": "Landkreis Lüneburg",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Graalwall 4",
+    "PLZ": "21335",
+    "Ort": "Lüneburg",
+    "EMail": "gesundheitsamt@landkreis.lueneburg.de",
+    "Tel": "+49 4131 26-1500",
+    "Fax": "+49 4131 261703",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac3"
+  },
+  "data": {
+    "id": "46",
+    "Gebiet": "Landkreis Osterholz",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Heimstraße 1-3",
+    "PLZ": "27711",
+    "Ort": "Osterholz-Scharmbeck",
+    "EMail": "gesundheitsamt@landkreis-osterholz.de",
+    "Tel": "+49 47 91  930  2900",
+    "Fax": "+49 47 91  930  2999",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac4"
+  },
+  "data": {
+    "id": "47",
+    "Gebiet": "Landkreis Rotenburg",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bahnhofstr. 15",
+    "PLZ": "27356",
+    "Ort": "Rotenburg (Wümme)",
+    "EMail": "infektionsschutz@lk-row.de",
+    "Tel": "04261 983 3203",
+    "Fax": "04261 983 3249",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac5"
+  },
+  "data": {
+    "id": "48",
+    "Gebiet": "Landkreis Heidekreis",
+    "parent": "Niedersachsen",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Dierkingstr. 19",
+    "PLZ": "29664",
+    "Ort": "Walsrode",
+    "EMail": "Gesundheitsamt@heidekreis.de",
+    "Tel": "05162-970 9110 ",
+    "Fax": "05162 - 970 9136 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac6"
+  },
+  "data": {
+    "id": "49",
+    "Gebiet": "Landkreis Stade",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Heckenweg 7",
+    "PLZ": "21680",
+    "Ort": "Stade",
+    "EMail": "gesundheitsamt@landkreis-stade.de",
+    "Tel": "04141 12-5300",
+    "Fax": "04141 12 5313",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac7"
+  },
+  "data": {
+    "id": "50",
+    "Gebiet": "Landkreis Uelzen",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt Uelzen",
+    "Strasse": "Auf dem Rahlande 15",
+    "PLZ": "29525",
+    "Ort": "Uelzen",
+    "EMail": "",
+    "Tel": "0581 82-462",
+    "Fax": "0581 82-474",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LUGU"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac8"
+  },
+  "data": {
+    "id": "51",
+    "Gebiet": "Landkreis Verden",
+    "parent": "Niedersachsen",
+    "Line2": "Fachdienst Gesundheit und Umweltmedizin",
+    "Strasse": "Lindhooper Str.67",
+    "PLZ": "27283",
+    "Ort": "Verden",
+    "EMail": "infektionsschutz@landkreis-verden.de",
+    "Tel": "04231 15-500",
+    "Fax": "04231  15-607",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LVFGuU"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fac9"
+  },
+  "data": {
+    "id": "52",
+    "Gebiet": "Stadt Delmenhorst",
+    "parent": "Niedersachsen",
+    "Line2": "Städt. Gesundheitsamt",
+    "Strasse": "Lange Str. 1A (City Center)",
+    "PLZ": "27749",
+    "Ort": "Delmenhorst",
+    "EMail": "gesundheit@delmenhorst.de",
+    "Tel": "04221 99-2616",
+    "Fax": "04221 99-1231",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SDSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faca"
+  },
+  "data": {
+    "id": "53",
+    "Gebiet": "Stadt Emden",
+    "parent": "Niedersachsen",
+    "Line2": "Fachdienst 553 - Gesundheit",
+    "Strasse": "Ysaac-Brons-Str. 16",
+    "PLZ": "26721",
+    "Ort": "Emden",
+    "EMail": "gesundheitsaufsicht@emden.de",
+    "Tel": "04921 87-1650",
+    "Fax": "04921/87 1679",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SEF5-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6facb"
+  },
+  "data": {
+    "id": "54",
+    "Gebiet": "Stadt Oldenburg",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Industriestraße 1b",
+    "PLZ": "26121",
+    "Ort": "Oldenburg",
+    "EMail": "gesundheitsamt@stadt-oldenburg.de",
+    "Tel": "0441 235-4444",
+    "Fax": "0441 235-8620",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6facc"
+  },
+  "data": {
+    "id": "55",
+    "Gebiet": "Stadt Wilhelmshaven",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Gökerstr. 68",
+    "PLZ": "26384",
+    "Ort": "Wilhelmshaven",
+    "EMail": "gesundheitsamt@wilhelmshaven.de",
+    "Tel": "04421 16-1570",
+    "Fax": "04421 16-1569",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6facd"
+  },
+  "data": {
+    "id": "56",
+    "Gebiet": "Landkreis Ammerland",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Lange Str. 36",
+    "PLZ": "26655",
+    "Ort": "Westerstede",
+    "EMail": "gesundheitsamt@ammerland.de",
+    "Tel": "04488 5653-00",
+    "Fax": "04488 56-5355",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6face"
+  },
+  "data": {
+    "id": "57",
+    "Gebiet": "Landkreis Aurich",
+    "parent": "Niedersachsen",
+    "Line2": "Amt für Gesundheitswesen",
+    "Strasse": "Extumer Weg 29",
+    "PLZ": "26603",
+    "Ort": "Aurich",
+    "EMail": "gesundheitsaufsicht@landkreis-aurich.de",
+    "Tel": "04941 16-5300",
+    "Fax": "04941 16-5349",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAAfG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6facf"
+  },
+  "data": {
+    "id": "58",
+    "Gebiet": "Landkreis Cloppenburg",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Eschstr. 29",
+    "PLZ": "49661",
+    "Ort": "Cloppenburg",
+    "EMail": "gesundheitsamt@lkclp.de",
+    "Tel": "04471 15-436 o.-248",
+    "Fax": "04471-15330",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LCG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad0"
+  },
+  "data": {
+    "id": "59",
+    "Gebiet": "Landkreis Emsland",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Ordeniederung 1",
+    "PLZ": "49716",
+    "Ort": "Meppen",
+    "EMail": "landkreis@emsland.de",
+    "Tel": "05931 44-4063",
+    "Fax": "05931 44 3733 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad1"
+  },
+  "data": {
+    "id": "60",
+    "Gebiet": "Landkreis Friesland",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schlosserplatz 3",
+    "PLZ": "26441",
+    "Ort": "Jever",
+    "EMail": "gesundheit@friesland.de",
+    "Tel": "04461 919-0",
+    "Fax": "04461 919-8820",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad2"
+  },
+  "data": {
+    "id": "61",
+    "Gebiet": "Landkreis Grafschaft Bentheim",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Bölt 27",
+    "PLZ": "48527",
+    "Ort": "Nordhorn",
+    "EMail": "gesundheitsamt@grafschaft.de",
+    "Tel": "05921 96- 1853",
+    "Fax": "05921 96-1877",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad3"
+  },
+  "data": {
+    "id": "62",
+    "Gebiet": "Landkreis Leer",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Jahnstr. 4",
+    "PLZ": "26789",
+    "Ort": "Leer",
+    "EMail": "gesundheitsaufsicht@lkleer.de",
+    "Tel": "0491 926-0",
+    "Fax": "0491 926-1140",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad4"
+  },
+  "data": {
+    "id": "63",
+    "Gebiet": "Landkreis Oldenburg",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Delmenhorster Str. 6",
+    "PLZ": "27793",
+    "Ort": "Wildeshausen",
+    "EMail": "gesundheitsamt@oldenburg-kreis.de",
+    "Tel": "04431 85-500",
+    "Fax": "04431 85-555",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad5"
+  },
+  "data": {
+    "id": "64",
+    "Gebiet": "Landkreis und Stadt Osnabrück",
+    "parent": "Niedersachsen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Am Schölerberg 1",
+    "PLZ": "49082",
+    "Ort": "Osnabrück",
+    "EMail": "gesundheit@lkos.de",
+    "Tel": "0541 501-0",
+    "Fax": "0541 501-4730",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LuSOFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad6"
+  },
+  "data": {
+    "id": "65",
+    "Gebiet": "Landkreis Vechta",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Neuer Markt 8",
+    "PLZ": "49377",
+    "Ort": "Vechta",
+    "EMail": "gesundheitsamt@landkreis-vechta.de",
+    "Tel": "04441 898-0",
+    "Fax": "04441 898-1034",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LVG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad7"
+  },
+  "data": {
+    "id": "66",
+    "Gebiet": "Landkreis Wesermarsch",
+    "parent": "Niedersachsen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Rönnelstr. 10",
+    "PLZ": "26919",
+    "Ort": "Brake",
+    "EMail": "Gesundheitsamt@lkbra.de ",
+    "Tel": "04401 927-511",
+    "Fax": "04401 4285",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad8"
+  },
+  "data": {
+    "id": "67",
+    "Gebiet": "Landkreis Wittmund",
+    "parent": "Niedersachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Dohuser Weg 12",
+    "PLZ": "26409",
+    "Ort": "Wittmund",
+    "EMail": "gesundheitsamt@lk.wittmund.de",
+    "Tel": "04462 86-01",
+    "Fax": "04462 86-1504",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fad9"
+  },
+  "data": {
+    "id": "68",
+    "Gebiet": "Stadt Bremen",
+    "parent": "Bremen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Horner Str. 60-70",
+    "PLZ": "28203",
+    "Ort": "Bremen",
+    "EMail": "infektion@gesundheitsamt.bremen.de",
+    "Tel": "+49 421 361-15113",
+    "Fax": "+49 421-49615918",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fada"
+  },
+  "data": {
+    "id": "69",
+    "Gebiet": "Stadt Bremerhaven",
+    "parent": "Bremen",
+    "Line2": "Magistrat/Gesundheitsamt",
+    "Strasse": "Wurster Str. 49",
+    "PLZ": "27580",
+    "Ort": "Bremerhaven",
+    "EMail": "gesundheitsamt@magistrat.bremerhaven.de",
+    "Tel": "0471 590-2281",
+    "Fax": "0471 590 3502382",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SBM"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fadb"
+  },
+  "data": {
+    "id": "70",
+    "Gebiet": "Stadt Düsseldorf",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Kölner Str. 180",
+    "PLZ": "40227",
+    "Ort": "Düsseldorf",
+    "EMail": "gesundheitsamt@duesseldorf.de",
+    "Tel": "0211-8992603 ",
+    "Fax": "0211 89-29651",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fadc"
+  },
+  "data": {
+    "id": "71",
+    "Gebiet": "Stadt Duisburg",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Ruhrorter Str. 195",
+    "PLZ": "47119",
+    "Ort": "Duisburg",
+    "EMail": "gesundheitsamt@stadt-duisburg.de",
+    "Tel": "0203 283-4338 ",
+    "Fax": "0203 283-4340",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fadd"
+  },
+  "data": {
+    "id": "72",
+    "Gebiet": "Stadt Essen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hindenburgstr.29",
+    "PLZ": "45127",
+    "Ort": "Essen",
+    "EMail": "aerztlicher-dienst@gesundheitsamt.essen.de",
+    "Tel": "0201 88-53000",
+    "Fax": "0201 88-53015",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fade"
+  },
+  "data": {
+    "id": "73",
+    "Gebiet": "Stadt Krefeld",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachbereich 53 Gesundheit",
+    "Strasse": "Gartenstr. 30-32",
+    "PLZ": "47798",
+    "Ort": "Krefeld",
+    "EMail": "gesundheitsamt@krefeld.de",
+    "Tel": "02151 86-3500",
+    "Fax": "02151 86-3552",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SKF5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fadf"
+  },
+  "data": {
+    "id": "74",
+    "Gebiet": "Stadt Mönchengladbach",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachbereich 53 Gesundheitsamt",
+    "Strasse": "Am Steinberg 55",
+    "PLZ": "41061",
+    "Ort": "Mönchengladbach",
+    "EMail": "gesundheitsamt-hotline@moenchengladbach.de",
+    "Tel": "+49 2161 25-6500",
+    "Fax": "+49 2161 25 6539",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SMF5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae0"
+  },
+  "data": {
+    "id": "75",
+    "Gebiet": "Stadt Mülheim",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Heinrich  Melzer-Str. 3",
+    "PLZ": "45468",
+    "Ort": "Mülheim",
+    "EMail": "gesundheitsamt@muelheim-ruhr.de",
+    "Tel": "0208 455-5300",
+    "Fax": "0208 455-5399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae1"
+  },
+  "data": {
+    "id": "76",
+    "Gebiet": "Stadt Oberhausen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": " Bereich Gesundheit",
+    "Strasse": "Tannenbergstr. 11-13",
+    "PLZ": "46045",
+    "Ort": "Oberhausen",
+    "EMail": "Bereich.Gesundheit@oberhausen.de",
+    "Tel": "0208 825-2570",
+    "Fax": "0208 825-3401",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SOBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae2"
+  },
+  "data": {
+    "id": "77",
+    "Gebiet": "Stadt Remscheid",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Hastener Str. 15",
+    "PLZ": "42855",
+    "Ort": "Remscheid",
+    "EMail": "gesundheit@remscheid.de",
+    "Tel": "02191 16-3901",
+    "Fax": "02191 16-3281",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SRFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae3"
+  },
+  "data": {
+    "id": "78",
+    "Gebiet": "Stadt Solingen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Stadtdienst Gesundheit",
+    "Strasse": "Walter Scheel-Platz 3",
+    "PLZ": "42651",
+    "Ort": "Solingen",
+    "EMail": "stadtdienst.gesundheit@solingen.de",
+    "Tel": "0212 290 2511",
+    "Fax": "0212 290-2730",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SSSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae4"
+  },
+  "data": {
+    "id": "79",
+    "Gebiet": "Stadt Wuppertal",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Willy-Brandt-Platz 19",
+    "PLZ": "42105",
+    "Ort": "Wuppertal",
+    "EMail": "infektionshygiene@stadt.wuppertal.de",
+    "Tel": "+49 202 563-2800",
+    "Fax": "+49 202 563-4724",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae5"
+  },
+  "data": {
+    "id": "80",
+    "Gebiet": "Landkreis Kleve",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Kreisgesundheitsamt",
+    "Strasse": "Nassauer Allee 16",
+    "PLZ": "47533",
+    "Ort": "Kleve",
+    "EMail": "Info@Kreis-Kleve.de",
+    "Tel": "02821 85-0 ",
+    "Fax": "02821 85-530",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKK"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae6"
+  },
+  "data": {
+    "id": "81",
+    "Gebiet": "Landkreis Mettmann",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Düsseldorfer Str. 26",
+    "PLZ": "40822",
+    "Ort": "Mettmann",
+    "EMail": "Kreisgesundheitsamt@Kreis-Mettmann.de",
+    "Tel": "02104 99-2251",
+    "Fax": "02104 99-5253",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae7"
+  },
+  "data": {
+    "id": "82",
+    "Gebiet": "Landkreis Rheinkreis Neuss",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Auf der Schanze 1",
+    "PLZ": "41515",
+    "Ort": "Grevenbroich",
+    "EMail": "gesundheitsamt@rhein-kreis-neuss.de",
+    "Tel": "02181 601-5301",
+    "Fax": "02181 601-5399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae8"
+  },
+  "data": {
+    "id": "83",
+    "Gebiet": "Landkreis Viersen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Rathausmarkt 3",
+    "PLZ": "41747",
+    "Ort": "Viersen",
+    "EMail": "gesundheitsamt@kreis-viersen.de",
+    "Tel": "02162 391756 ",
+    "Fax": "02162 391698",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LVG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fae9"
+  },
+  "data": {
+    "id": "84",
+    "Gebiet": "Landkreis Wesel",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachbereich Gesundheitswesen",
+    "Strasse": "Mühlenstr. 9-11",
+    "PLZ": "47441",
+    "Ort": "Moers",
+    "EMail": "gesundheitswesen@kreis-wesel.de",
+    "Tel": "0281 2070 ",
+    "Fax": "02841 202-1114",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faea"
+  },
+  "data": {
+    "id": "85",
+    "Gebiet": "Stadt Bonn",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Amt 53 Gesundheitsamt",
+    "Strasse": "Engeltalstr. 6",
+    "PLZ": "53111",
+    "Ort": "Bonn",
+    "EMail": "Gesundheitsaufsicht@bonn.de",
+    "Tel": "0228 77 3803",
+    "Fax": "0228 - 77 961 96 02",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SBA5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faeb"
+  },
+  "data": {
+    "id": "86",
+    "Gebiet": "Stadt Köln",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Neumarkt 15 - 21",
+    "PLZ": "50667",
+    "Ort": "Köln",
+    "EMail": "gesundheitsamt@stadt-koeln.de",
+    "Tel": "0221 221-24728",
+    "Fax": "0221 221 26500",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faec"
+  },
+  "data": {
+    "id": "87",
+    "Gebiet": "Stadt Leverkusen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachbereich 53 Medizinischer Dienst(MediLev)",
+    "Strasse": "Am Gesundheitspark 4",
+    "PLZ": "51375",
+    "Ort": "Leverkusen",
+    "EMail": "infektionsschutz@stadt.leverkusen.de",
+    "Tel": "",
+    "Fax": "0214  4065302",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SLF5MD"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faed"
+  },
+  "data": {
+    "id": "88",
+    "Gebiet": "StädteRegion Aachen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt (A53)",
+    "Strasse": "Trierer Str. 1",
+    "PLZ": "52078",
+    "Ort": "Aachen",
+    "EMail": "Gesundheitsamt@Staedteregion-Aachen.de",
+    "Tel": "+49 241 51985300",
+    "Fax": "+49 241 51985399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SAG("
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faee"
+  },
+  "data": {
+    "id": "89",
+    "Gebiet": "Kreis Düren",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bismarkstr. 16",
+    "PLZ": "52351",
+    "Ort": "Düren",
+    "EMail": "infektionserkrankungen@kreis-dueren.de",
+    "Tel": "+49 2421-221053210",
+    "Fax": "+49 2421-222232",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faef"
+  },
+  "data": {
+    "id": "90",
+    "Gebiet": "Kreisverwaltung Rhein-Erft-Kreis",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Willy-Brandt-Platz 1",
+    "PLZ": "50126",
+    "Ort": "Bergheim",
+    "EMail": "gesundheitsamt@rhein-erft-kreis.de",
+    "Tel": "+49 2271-83-15310",
+    "Fax": "+49 2271-83-25310",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf0"
+  },
+  "data": {
+    "id": "91",
+    "Gebiet": "Kreis Euskirchen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Abteilung Gesundheit",
+    "Strasse": "Jülicher Ring 32",
+    "PLZ": "53879",
+    "Ort": "Euskirchen",
+    "EMail": "infektionsschutz@kreis-euskirchen.de",
+    "Tel": "02251 15-0",
+    "Fax": "02251 15-497",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KEAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf1"
+  },
+  "data": {
+    "id": "92",
+    "Gebiet": "Kreis Heinsberg",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Valkenburger Str. 45",
+    "PLZ": "52525",
+    "Ort": "Heinsberg",
+    "EMail": "gesundheitsamt@Kreis-Heinsberg.de",
+    "Tel": "02452 13-5311",
+    "Fax": "02452 13-5395",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf2"
+  },
+  "data": {
+    "id": "93",
+    "Gebiet": "Oberbergischer Kreis",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Wiedenhof 1-3",
+    "PLZ": "51643",
+    "Ort": "Gummersbach",
+    "EMail": "amt53@obk.de",
+    "Tel": "02261 88-5305",
+    "Fax": "02261 88-5300",
+    "Ebene": "Kommune",
+    "Abkuerzung": "OKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf3"
+  },
+  "data": {
+    "id": "94",
+    "Gebiet": "Rheinisch-Bergischer Kreis",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Der Landrat",
+    "Strasse": "Am Rübezahlwald 7",
+    "PLZ": "51469",
+    "Ort": "Bergisch-Gladbach",
+    "EMail": "gesundheitsamt@rbk-online.de",
+    "Tel": "",
+    "Fax": "02202 13 102699 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "RKDL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf4"
+  },
+  "data": {
+    "id": "95",
+    "Gebiet": "Rhein-Sieg-Kreis",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Der Landrat/Gesundheitsamt",
+    "Strasse": "Kaiser-Wilhelm-Platz 1",
+    "PLZ": "53721",
+    "Ort": "Siegburg",
+    "EMail": "gesundheitsamt@rhein-sieg-kreis.de",
+    "Tel": "02241 13-3535",
+    "Fax": "02241 13-3082",
+    "Ebene": "Kommune",
+    "Abkuerzung": "RDL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf5"
+  },
+  "data": {
+    "id": "96",
+    "Gebiet": "Stadt Bottrop",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Gladbecker Str. 66",
+    "PLZ": "46236",
+    "Ort": "Bottrop",
+    "EMail": "amt53@bottrop.de",
+    "Tel": "+49 2041 70-30",
+    "Fax": "+49 2041 70-3811",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf6"
+  },
+  "data": {
+    "id": "97",
+    "Gebiet": "Stadt Gelsenkirchen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Referat Gesundheit",
+    "Strasse": "Kurt-Schumacher-Str. 4",
+    "PLZ": "45881",
+    "Ort": "Gelsenkirchen",
+    "EMail": "referat.gesundheit@gelsenkirchen.de",
+    "Tel": "",
+    "Fax": "0209 169-3505",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SGRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf7"
+  },
+  "data": {
+    "id": "98",
+    "Gebiet": "Stadt Münster",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Amt für Gesundheit, Veterinär- und Lebensmittelangelegenheiten",
+    "Strasse": "Stühmer Weg 8",
+    "PLZ": "48147",
+    "Ort": "Münster",
+    "EMail": "gesundheitsamt@stadt-muenster.de",
+    "Tel": "0251 492-5301",
+    "Fax": "0251 492-7927",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SMAfGVuL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf8"
+  },
+  "data": {
+    "id": "99",
+    "Gebiet": "Kreis Borken",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Burloer Str. 93",
+    "PLZ": "46325",
+    "Ort": "Borken",
+    "EMail": "fax.f5320@kreis-borken.de",
+    "Tel": "+49 2861 681 5809",
+    "Fax": "+49 2861 681 82 1620",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KBFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faf9"
+  },
+  "data": {
+    "id": "100",
+    "Gebiet": "Kreis Coesfeld",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schützenwall 16",
+    "PLZ": "48653",
+    "Ort": "Coesfeld",
+    "EMail": "gesundheit@kreis-coesfeld.de",
+    "Tel": "02541 18-5300",
+    "Fax": "02541 18-5499",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KCG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fafa"
+  },
+  "data": {
+    "id": "101",
+    "Gebiet": "Kreis Recklinghausen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachdienst 53 Gesundheit",
+    "Strasse": "Kurt-Schumacher-Allee 1",
+    "PLZ": "45657",
+    "Ort": "Recklinghausen",
+    "EMail": "Gesundheitsamt@kreis-recklinghausen.de",
+    "Tel": "02361 53-1",
+    "Fax": "02361 53-4623",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KRF5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fafb"
+  },
+  "data": {
+    "id": "102",
+    "Gebiet": "Kreis Steinfurt",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Tecklenburger Str. 10",
+    "PLZ": "48565",
+    "Ort": "Steinfurt",
+    "EMail": "gesundheitsamt@kreis-Steinfurt.de",
+    "Tel": "02551 692820",
+    "Fax": "02551 692801",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fafc"
+  },
+  "data": {
+    "id": "103",
+    "Gebiet": "Kreis-Warendorf",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Waldenburger Str. 2",
+    "PLZ": "48231",
+    "Ort": "Warendorf",
+    "EMail": "gesundheitsaufsicht@kreis-warendorf.de",
+    "Tel": "+49 2581 535300",
+    "Fax": "+49 2581 535399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fafd"
+  },
+  "data": {
+    "id": "104",
+    "Gebiet": "Stadt Bielefeld",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheits-, Veterinär- u. Lebensmittelüberwachungsamt",
+    "Strasse": "Nikolaus-Dürkopp-Str. 5-9",
+    "PLZ": "33602",
+    "Ort": "Bielefeld",
+    "EMail": "gesundheitsamt@bielefeld.de",
+    "Tel": "0521-516008",
+    "Fax": "0521 51-3406",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SBGVuL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fafe"
+  },
+  "data": {
+    "id": "105",
+    "Gebiet": "Kreis Gütersloh",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Abteilung Gesundheit",
+    "Strasse": "Herzebrockerstr. 140",
+    "PLZ": "33334",
+    "Ort": "Gütersloh",
+    "EMail": "infektionshygiene@kreis-guetersloh.de",
+    "Tel": "+49 5241 85 0",
+    "Fax": "+49 5241 851717",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KGAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6faff"
+  },
+  "data": {
+    "id": "106",
+    "Gebiet": "Kreis Herford",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "53.3 Abt. Gesundheit",
+    "Strasse": "Amtshausstr. 2",
+    "PLZ": "32051",
+    "Ort": "Herford",
+    "EMail": "infektionsschutz@kreis-herford.de",
+    "Tel": "05221 13-0",
+    "Fax": "05221 13-172116",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KH5AG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb00"
+  },
+  "data": {
+    "id": "107",
+    "Gebiet": "Kreisverwaltung Höxter",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheits- und Veterinärwesen",
+    "Strasse": "Moltkestr. 12",
+    "PLZ": "37671",
+    "Ort": "Höxter",
+    "EMail": "gesundheitsschutz@kreis-hoexter.de",
+    "Tel": "05271 965-2222",
+    "Fax": "05271 965-2499",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KHGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb01"
+  },
+  "data": {
+    "id": "108",
+    "Gebiet": "Gesundheitsamt Kreis Lippe",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "FG 530 Gesundheit",
+    "Strasse": "Rintelner Straße 83",
+    "PLZ": "32657",
+    "Ort": "Lemgo",
+    "EMail": "gesundheitsschutz@kreis-lippe.de",
+    "Tel": "05231 62-1100",
+    "Fax": "05231 62234",
+    "Ebene": "Kommune",
+    "Abkuerzung": "GKLF5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb02"
+  },
+  "data": {
+    "id": "109",
+    "Gebiet": "Kreis Minden-Lübbecke",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Portastr. 13",
+    "PLZ": "32423",
+    "Ort": "Minden",
+    "EMail": "gesundheitsamt@minden-luebbecke.de",
+    "Tel": "0571 807-0",
+    "Fax": "0571-80738350",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb03"
+  },
+  "data": {
+    "id": "110",
+    "Gebiet": "Kreis Paderborn",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Aldegreverstr. 10-14",
+    "PLZ": "33102",
+    "Ort": "Paderborn",
+    "EMail": "FB53@kreis-paderborn.de",
+    "Tel": "+49 5251 308-5332",
+    "Fax": "+49 5251 308-5399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KPG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb04"
+  },
+  "data": {
+    "id": "111",
+    "Gebiet": "Stadt Bochum",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Westring 28-30",
+    "PLZ": "44777",
+    "Ort": "Bochum",
+    "EMail": "gesundheitsamt@bochum.de",
+    "Tel": "0234 910-5555",
+    "Fax": "0234 910-1399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb05"
+  },
+  "data": {
+    "id": "112",
+    "Gebiet": "Stadt Dortmund",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hoher Wall 9-11",
+    "PLZ": "44137",
+    "Ort": "Dortmund",
+    "EMail": "gesundheitsamt@dortmund.de",
+    "Tel": "+49 23150-13150",
+    "Fax": "+49 231  50-2 35 92",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb06"
+  },
+  "data": {
+    "id": "113",
+    "Gebiet": "Stadt Hagen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt Rathaus II",
+    "Strasse": "Berliner Platz 22",
+    "PLZ": "58089",
+    "Ort": "Hagen",
+    "EMail": "gesundheitsamt@stadt-hagen.de",
+    "Tel": "02331 207-3555",
+    "Fax": "02331 207-2453",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SHGRI"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb07"
+  },
+  "data": {
+    "id": "114",
+    "Gebiet": "Stadt Hamm",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Heinrich-Reinköster-Str. 8",
+    "PLZ": "59065",
+    "Ort": "Hamm",
+    "EMail": "gesundheitsamt@stadt.hamm.de",
+    "Tel": "+49 2381 17-6401",
+    "Fax": "+49 2381 17-2983",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb08"
+  },
+  "data": {
+    "id": "115",
+    "Gebiet": "Stadt Herne",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Rathausstr. 6",
+    "PLZ": "44649",
+    "Ort": "Herne",
+    "EMail": "gesundheitsaufsicht@herne.de",
+    "Tel": "+49 2323 161653",
+    "Fax": "+49 2323 1612339282",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb09"
+  },
+  "data": {
+    "id": "116",
+    "Gebiet": "Landkreis Ennepe-Ruhr-Kreis",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachbereich Soziales und Gesundheit",
+    "Strasse": "Hauptstr. 92",
+    "PLZ": "58332",
+    "Ort": "Schwelm",
+    "EMail": "infektionsschutz@en-kreis.de",
+    "Tel": "+49 2336 93 2928",
+    "Fax": "+49 2336 93 2537",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEFSuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb0a"
+  },
+  "data": {
+    "id": "117",
+    "Gebiet": "Hochsauerlandkreis",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt Fachdienst 37",
+    "Strasse": "Steinstr. 27",
+    "PLZ": "59872",
+    "Ort": "Meschede",
+    "EMail": "infektionsschutz@hochsauerlandkreis.de",
+    "Tel": "0291 94-2202 ",
+    "Fax": "0291 94-1195",
+    "Ebene": "Kommune",
+    "Abkuerzung": "HGF3"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb0b"
+  },
+  "data": {
+    "id": "118",
+    "Gebiet": "Märkischer Kreis",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Heedfelder Str. 45",
+    "PLZ": "58509",
+    "Ort": "Lüdenscheid",
+    "EMail": "gesundheitstelefon@maerkischer-kreis.de",
+    "Tel": "",
+    "Fax": "02351 966 7164",
+    "Ebene": "Kommune",
+    "Abkuerzung": "MKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb0c"
+  },
+  "data": {
+    "id": "119",
+    "Gebiet": "Kreis Olpe",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Westfälische Str. 75",
+    "PLZ": "57462",
+    "Ort": "Olpe",
+    "EMail": "gesundheitsamt-meldungen@kreis-olpe.de",
+    "Tel": "02761 81-436",
+    "Fax": "02761 94503436",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KOFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb0d"
+  },
+  "data": {
+    "id": "120",
+    "Gebiet": "Kreis Siegen-Wittgenstein",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheit und Verbraucherschutz",
+    "Strasse": "St.-Johann-Str. 23",
+    "PLZ": "57074",
+    "Ort": "Siegen",
+    "EMail": "gesundheitsamt@siegen-wittgenstein.de",
+    "Tel": "0271 333-2800",
+    "Fax": "0271 333-292800",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KSGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb0e"
+  },
+  "data": {
+    "id": "121",
+    "Gebiet": "Kreis Soest",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Ordnung, Gesundheits- und Verbraucherschutz",
+    "Strasse": "Hoher Weg 1- 3",
+    "PLZ": "59494",
+    "Ort": "Soest",
+    "EMail": "infektionsschutz@kreis-soest.de",
+    "Tel": "+49 2921 30-2127",
+    "Fax": "+49 2921 30-2775",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KSOGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb0f"
+  },
+  "data": {
+    "id": "122",
+    "Gebiet": "Kreis Unna",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Gesundheit und Verbraucherschutz",
+    "Strasse": "Platanenallee 16",
+    "PLZ": "59425",
+    "Ort": "Unna",
+    "EMail": "fb53@kreis-unna.de",
+    "Tel": "+49 2303 27 0",
+    "Fax": "+49 2303 27 1299",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KUGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb10"
+  },
+  "data": {
+    "id": "123",
+    "Gebiet": "Stadt Frankfurt am Main",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Breite Gasse 28",
+    "PLZ": "60313",
+    "Ort": "Frankfurt am Main",
+    "EMail": "info.gesundheitsamt@stadt-frankfurt.de",
+    "Tel": "+49 69 212 33970",
+    "Fax": "+49 69-212 30415",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SFaMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb11"
+  },
+  "data": {
+    "id": "124",
+    "Gebiet": "Stadt Offenbach",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Berliner Strasse 60",
+    "PLZ": "63065",
+    "Ort": "Offenbach",
+    "EMail": "hit.Gesundheitsamt@offenbach.de",
+    "Tel": "069 8065-2111",
+    "Fax": "069 8065 3453",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb12"
+  },
+  "data": {
+    "id": "125",
+    "Gebiet": "Landeshauptstadt Wiesbaden",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Konradinerallee 11",
+    "PLZ": "65189",
+    "Ort": "Wiesbaden",
+    "EMail": "gesundheitsamt@wiesbaden.de",
+    "Tel": "0611 31-2817",
+    "Fax": "06 1131 39 71",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb13"
+  },
+  "data": {
+    "id": "126",
+    "Gebiet": "Kreisausschuss Kreis Bergstraße",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Kettelerstraße 29",
+    "PLZ": "64646",
+    "Ort": "Heppenheim",
+    "EMail": "gesundheit@kreis-bergstrasse.de",
+    "Tel": "+49 6252 15-5396",
+    "Fax": "+49 6252 15-5888",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KKBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb14"
+  },
+  "data": {
+    "id": "127",
+    "Gebiet": "Landkreis Darmstadt-Dieburg",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Niersteiner Str. 3",
+    "PLZ": "64295",
+    "Ort": "Darmstadt",
+    "EMail": "verwaltungsverband@gesundheitsamt-dadi.de",
+    "Tel": "06151 3309-0",
+    "Fax": "06151 319134",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb15"
+  },
+  "data": {
+    "id": "128",
+    "Gebiet": "Kreis Groß-Gerau",
+    "parent": "Hessen",
+    "Line2": "Der Kreisausschuß",
+    "Strasse": "Wilhelm-Seipp-Str. 9",
+    "PLZ": "64521",
+    "Ort": "Groß-Gerau",
+    "EMail": "gesundheitsamt@kreisgg.de",
+    "Tel": "06152 989-0",
+    "Fax": "06152 989-349",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KGDK"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb16"
+  },
+  "data": {
+    "id": "129",
+    "Gebiet": "Kreisausschuss Hochtaunuskreis",
+    "parent": "Hessen",
+    "Line2": "Fachbereich Gesundheitsdienste",
+    "Strasse": "Ludwig-Erhard-Anlage 1-4",
+    "PLZ": "61348",
+    "Ort": "Bad Homburg",
+    "EMail": "gesundheitsamt@hochtaunuskreis.de",
+    "Tel": "06172 999 0",
+    "Fax": "06172 999-9806",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb17"
+  },
+  "data": {
+    "id": "130",
+    "Gebiet": "Main-Kinzig-Kreis",
+    "parent": "Hessen",
+    "Line2": "Amt für Gesundheit und Gefahrenabwehr",
+    "Strasse": "Barbarossastrasse  24",
+    "PLZ": "63571",
+    "Ort": "Gelnhausen",
+    "EMail": "hyg.gesundheitsamt@mkk.de",
+    "Tel": "06051 851-1650",
+    "Fax": "06051 859 11677",
+    "Ebene": "Kommune",
+    "Abkuerzung": "MAfGuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb18"
+  },
+  "data": {
+    "id": "131",
+    "Gebiet": "Kreis Main-Taunus",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Kreishaus 1-5",
+    "PLZ": "65719",
+    "Ort": "Hofheim",
+    "EMail": "gesundheitsamt@mtk.org",
+    "Tel": "06192 201-1130",
+    "Fax": "06192 201-1731",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb19"
+  },
+  "data": {
+    "id": "132",
+    "Gebiet": "Kreisausschuss Odenwaldkreis",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Albert-Schweitzer-Starße 8",
+    "PLZ": "64711",
+    "Ort": "Erbach",
+    "EMail": "gesundheitsamt@odenwaldkreis.de",
+    "Tel": "06062 70-322",
+    "Fax": "06062 70-448",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb1a"
+  },
+  "data": {
+    "id": "133",
+    "Gebiet": "Kreis Offenbach",
+    "parent": "Hessen",
+    "Line2": "FD Gefahrenabwehr- und Gesundheitszentrum",
+    "Strasse": "Gottlieb-Daimler Str. 10",
+    "PLZ": "63128",
+    "Ort": "Dietzenbach",
+    "EMail": "gesundheit@kreis-offenbach.de",
+    "Tel": "06074 8180-63707",
+    "Fax": "06074 8180-1920",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KOFGuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb1b"
+  },
+  "data": {
+    "id": "134",
+    "Gebiet": "Kreisausschuss Rheingau-Taunus",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Heimbacher Str. 7",
+    "PLZ": "65307",
+    "Ort": "Bad Schwalbach",
+    "EMail": "gesundheitsamt.badschwalbach@rheingau-taunus.de",
+    "Tel": "06124 510-352",
+    "Fax": "06124 510-388",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb1c"
+  },
+  "data": {
+    "id": "135",
+    "Gebiet": "Wetteraukreis",
+    "parent": "Hessen",
+    "Line2": "Fachdienstes Gesundheit und Gefahrenabwehr",
+    "Strasse": "Europaplatz 1 Gebäude B",
+    "PLZ": "61169",
+    "Ort": "Friedberg",
+    "EMail": "gesundheitsamt@wetteraukreis.de",
+    "Tel": "",
+    "Fax": "06031 83 91 2310",
+    "Ebene": "Kommune",
+    "Abkuerzung": "WFGuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb1d"
+  },
+  "data": {
+    "id": "136",
+    "Gebiet": "Landkreis Gießen",
+    "parent": "Hessen",
+    "Line2": "Gesundheit",
+    "Strasse": "Riversplatz 1-9/ Haus D",
+    "PLZ": "35394",
+    "Ort": "Gießen",
+    "EMail": "hygiene@lkgi.de",
+    "Tel": "",
+    "Fax": "+49 641 9390-1605",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb1e"
+  },
+  "data": {
+    "id": "137",
+    "Gebiet": "Kreisausschuß des Lahn-Dill-Kreises",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schloßstraße 20",
+    "PLZ": "35745",
+    "Ort": "Herborn",
+    "EMail": "gesundheitsamt@lahn-dill-kreis.de",
+    "Tel": "06441 407-1616",
+    "Fax": "06441 407-1067",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KdLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb1f"
+  },
+  "data": {
+    "id": "138",
+    "Gebiet": "Kreisausschuss Limburg-Weilburg",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt Dienststelle Limburg",
+    "Strasse": "Schiede 43",
+    "PLZ": "65549",
+    "Ort": "Limburg/ Lahn",
+    "EMail": "60.30@limburg-weilburg.de ",
+    "Tel": "06431 296-613",
+    "Fax": "06431 296-834 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KLGDL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb20"
+  },
+  "data": {
+    "id": "139",
+    "Gebiet": "Kreisausschuss Marburg-Biedenkopf",
+    "parent": "Hessen",
+    "Line2": "Fachbereich Gesundheitsamt",
+    "Strasse": "Schwanallee 23",
+    "PLZ": "35037",
+    "Ort": "Marburg",
+    "EMail": "Gesundheitsamt@marburg-biedenkopf.de",
+    "Tel": "06421 405-40",
+    "Fax": "06421 405-4161",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KMFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb21"
+  },
+  "data": {
+    "id": "140",
+    "Gebiet": "Landkreis Vogelsbergkreis",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Gartenstraße 27 - 29",
+    "PLZ": "36341",
+    "Ort": "Lauterbach",
+    "EMail": "gesundheitsamt@vogelsbergkreis.de",
+    "Tel": "06641 977-170",
+    "Fax": "06641 977-179",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LVG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb22"
+  },
+  "data": {
+    "id": "141",
+    "Gebiet": "Stadt Kassel",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt Region Kassel",
+    "Strasse": "Wilhelmshöher Allee 19-21",
+    "PLZ": "34117",
+    "Ort": "Kassel",
+    "EMail": "gesundheitsamt@kassel.de",
+    "Tel": "0561 787 1900 ",
+    "Fax": "0561 787 1911",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SKGRK"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb23"
+  },
+  "data": {
+    "id": "142",
+    "Gebiet": "Kreisausschuss Fulda",
+    "parent": "Hessen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Otfrid-von-Weißenburg-Str. 3",
+    "PLZ": "36043",
+    "Ort": "Fulda",
+    "EMail": "gesundheitsamt@landkreis-fulda.de",
+    "Tel": "0661 6006-6076",
+    "Fax": "0661 6006-6071",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb24"
+  },
+  "data": {
+    "id": "143",
+    "Gebiet": "Kreisausschuss Hersfeld-Rotenburg",
+    "parent": "Hessen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Friedloser Str. 12",
+    "PLZ": "36251",
+    "Ort": "Bad Hersfeld",
+    "EMail": "gesundheitsamt@hef-rof.de",
+    "Tel": "06621 87-2400",
+    "Fax": "06621 87-2425",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb25"
+  },
+  "data": {
+    "id": "144",
+    "Gebiet": "Kreisausschuss des Schwalm-Eder-Kreises",
+    "parent": "Hessen",
+    "Line2": "Fachbereich 53 - Gesundheit",
+    "Strasse": "Hans-Scholl-Straße 1 Geb.5",
+    "PLZ": "34576",
+    "Ort": "Homberg (Efze)",
+    "EMail": "gesundheitswesen@schwalm-eder-kreis.de",
+    "Tel": "05681 775-654",
+    "Fax": "05681 775-653",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KdSF5-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb26"
+  },
+  "data": {
+    "id": "145",
+    "Gebiet": "Kreisausschuss des Landkreises Waldeck-Frankenberg",
+    "parent": "Hessen",
+    "Line2": "Fachdienst 5.1 Gesundheit",
+    "Strasse": "Am Kniep 50",
+    "PLZ": "34497",
+    "Ort": "Korbach",
+    "EMail": "amtsarzt@lkwafkb.de",
+    "Tel": "05631 954-462",
+    "Fax": "05631 954-490",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KdLWF5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb27"
+  },
+  "data": {
+    "id": "146",
+    "Gebiet": "Kreisausschuss Werra-Meißner",
+    "parent": "Hessen",
+    "Line2": "Fachbereich Gesundheit, Verbraucherschutz und Veterinärwesen",
+    "Strasse": "Luisenstr. 23c",
+    "PLZ": "37269",
+    "Ort": "Eschwege",
+    "EMail": "gesundheitswesen@werra-meissner-kreis.de",
+    "Tel": "05651 302-25200 ",
+    "Fax": "05651 302-25090",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KWFGVuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb28"
+  },
+  "data": {
+    "id": "147",
+    "Gebiet": "Kreisverwaltung Rhein-Lahn Kreis",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt. 7 Gesundheitswesen",
+    "Strasse": "Insel Silberau 1",
+    "PLZ": "56130",
+    "Ort": "Bad Ems",
+    "EMail": "referat72@rhein-lahn.rlp.de",
+    "Tel": "02603 972-0",
+    "Fax": "02603 972-6972",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KRKA7G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb29"
+  },
+  "data": {
+    "id": "148",
+    "Gebiet": "Kreisverwaltung Bad Kreuznach",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Amt 7: Gesundheitsamt",
+    "Strasse": "Ringstr. 4",
+    "PLZ": "55543",
+    "Ort": "Bad Kreuznach",
+    "EMail": "post@kreis-badkreuznach.de",
+    "Tel": "0671 803-1709",
+    "Fax": "0671 803-1750",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KBKA7G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb2a"
+  },
+  "data": {
+    "id": "149",
+    "Gebiet": "Kreisverwaltung Ahrweiler",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt. 2.6 - Gesundheitsamt",
+    "Strasse": "Wilhelmstr. 59",
+    "PLZ": "53474",
+    "Ort": "Bad Neuenahr - Ahrweiler",
+    "EMail": "infektionsschutz@kreis-ahrweiler.de",
+    "Tel": "02641 975-610",
+    "Fax": "02641 975-699",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KAA2-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb2b"
+  },
+  "data": {
+    "id": "150",
+    "Gebiet": "Kreisverwaltung  Eifelkreis Bitburg-Prüm",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Amt 14 Gesundheitswesen",
+    "Strasse": "Triererstr. 1",
+    "PLZ": "54634",
+    "Ort": "Bitburg",
+    "EMail": "gesundheitsamt@bitburg-pruem.de",
+    "Tel": "06561 15-4630",
+    "Fax": "06561 15-1010",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KEBA1G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb2c"
+  },
+  "data": {
+    "id": "151",
+    "Gebiet": "Kreisverwaltung Cochem-Zell",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt. Gesundheitsamt",
+    "Strasse": "Endertplatz 2-3",
+    "PLZ": "56812",
+    "Ort": "Cochem",
+    "EMail": "gesundheitsamt@cochem-zell.de",
+    "Tel": "02671 61-374",
+    "Fax": "02671 61-380",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KCAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb2d"
+  },
+  "data": {
+    "id": "152",
+    "Gebiet": "Kreisverwaltung Vulkaneifel",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Berliner Str. 2",
+    "PLZ": "54550",
+    "Ort": "Daun",
+    "EMail": "gesundheitsamt@vulkaneifel.de",
+    "Tel": "06592 933-407",
+    "Fax": "06592 933-400",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KVG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb2e"
+  },
+  "data": {
+    "id": "153",
+    "Gebiet": "Kreisverwaltung Germersheim",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "FB 43 Gesundheit, Verbraucherschutz",
+    "Strasse": "Hauptstr. 25",
+    "PLZ": "76726",
+    "Ort": "Germersheim",
+    "EMail": "kreisverwaltung@kreis-germersheim.de",
+    "Tel": "07274 53-448",
+    "Fax": "07274 53-350",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KGF4GV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb2f"
+  },
+  "data": {
+    "id": "154",
+    "Gebiet": "Kreisverwaltung Birkenfeld",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Gesundheitsamt - Abt. 5",
+    "Strasse": "Mainzer Str. 157-159",
+    "PLZ": "55743",
+    "Ort": "Idar - Oberstein",
+    "EMail": "infektionsschutz@landkreis-birkenfeld.de",
+    "Tel": "06781 2008-11",
+    "Fax": "06781 25102",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KBG-A5"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb30"
+  },
+  "data": {
+    "id": "155",
+    "Gebiet": "Kreisverwaltung Kaiserslautern",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Pfaffstr. 40-42",
+    "PLZ": "67655",
+    "Ort": "Kaiserslautern",
+    "EMail": "kontaktga@kaiserslautern-kreis.de",
+    "Tel": "0631 7105-520",
+    "Fax": "0631 7105-495",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb31"
+  },
+  "data": {
+    "id": "156",
+    "Gebiet": "Kreisverwaltung Donnersbergkreis",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt 2 - Referat Gesundheitsamt",
+    "Strasse": "Uhlandstr. 2",
+    "PLZ": "67292",
+    "Ort": "Kirchheimbolanden",
+    "EMail": "gesundheitsamt@donnersberg.de",
+    "Tel": "+49 6352 710-500",
+    "Fax": "+49 6352 710-520",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KDA2-RG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb32"
+  },
+  "data": {
+    "id": "157",
+    "Gebiet": "Kreisverwaltung Mayen-Koblenz",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt. Gesundheitsamt",
+    "Strasse": "Neversstr. 4-6",
+    "PLZ": "56068",
+    "Ort": "Koblenz",
+    "EMail": "gesundheitsamt@kvmyk.de",
+    "Tel": "0261 914807-0",
+    "Fax": "0261 914807-50",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KMAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb33"
+  },
+  "data": {
+    "id": "158",
+    "Gebiet": "Kreisverwaltung Kusel",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Trierer Str. 49-51",
+    "PLZ": "66869",
+    "Ort": "Kusel",
+    "EMail": "gesundheitsamt@kv-kus.de",
+    "Tel": "06381 424-0",
+    "Fax": "06381 424-301",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb34"
+  },
+  "data": {
+    "id": "159",
+    "Gebiet": "Landkreis Südliche Weinstraße / Landau",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Amt für Gesundheit und Soziales",
+    "Strasse": "Arzheimerstr. 1",
+    "PLZ": "76829",
+    "Ort": "Landau",
+    "EMail": "gesundheitsamt@suedliche-weinstrasse.de",
+    "Tel": "06341 940-606",
+    "Fax": "06341 940-512",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSW/LAfGuS"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb35"
+  },
+  "data": {
+    "id": "160",
+    "Gebiet": "Kreisverwaltung Rhein-Pfalz-Kreis",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Gesundheitsamt ",
+    "Strasse": "Dörrhorststr. 36",
+    "PLZ": "67059",
+    "Ort": "Ludwigshafen",
+    "EMail": "gesundheitsamt@kv-rpk.de",
+    "Tel": "0621 5909 5800",
+    "Fax": "0621 5909 7720",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb36"
+  },
+  "data": {
+    "id": "161",
+    "Gebiet": "Kreisverwaltung Mainz-Bingen",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Amt für Veterinär- und Gesundheitswesen",
+    "Strasse": "Große Langgasse 29",
+    "PLZ": "55116",
+    "Ort": "Mainz",
+    "EMail": "abt42@mainz-bingen.de",
+    "Tel": "06131 69333-0",
+    "Fax": "06131 69333-4298",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KMAfVuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb37"
+  },
+  "data": {
+    "id": "162",
+    "Gebiet": "Kreisverwaltung Westerwaldkreises ",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Peter-Altmeier-Platz 1",
+    "PLZ": "56410",
+    "Ort": "Montabaur",
+    "EMail": "",
+    "Tel": "02602 124-710",
+    "Fax": "02602 124-701",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb38"
+  },
+  "data": {
+    "id": "163",
+    "Gebiet": "Kreisverwaltung Bad Dürkheim/Neustadt",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abteilung 7: Gesundheitsamt",
+    "Strasse": "Neumayerstr. 10",
+    "PLZ": "67433",
+    "Ort": "Neustadt an der Weinstraße",
+    "EMail": "Gesundheitsamt@kreis-bad-duerkheim.de",
+    "Tel": "06322 961-7302",
+    "Fax": "06322 961-7320",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KBDA7G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb39"
+  },
+  "data": {
+    "id": "164",
+    "Gebiet": "Kreisverwaltung Neuwied",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt. 11 Gesundheitsamt",
+    "Strasse": "Ringstr. 70",
+    "PLZ": "56564",
+    "Ort": "Neuwied",
+    "EMail": "IfSG.Meldungen@kreis-neuwied.de",
+    "Tel": "02631 803-723",
+    "Fax": "02631 803-737",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KNA1G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb3a"
+  },
+  "data": {
+    "id": "165",
+    "Gebiet": "Kreisverwaltung Südwestpfalz/Pirmasens",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt. Gesundheitswesen",
+    "Strasse": "Unterer Sommerwaldweg 40-42",
+    "PLZ": "66953",
+    "Ort": "Pirmasens",
+    "EMail": "gesundheitswesen@lksuedwestpfalz.de",
+    "Tel": "06331 809-402",
+    "Fax": "06331 809-303",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KSAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb3b"
+  },
+  "data": {
+    "id": "166",
+    "Gebiet": "Kreisverwaltung Rhein-Hunsrück-Kreis/Simmern",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Fachbereich Gesundheitsamt",
+    "Strasse": "Hüllstr. 13",
+    "PLZ": "55469",
+    "Ort": "Simmern",
+    "EMail": "gesundheitsamt@rheinhunsrueck.de",
+    "Tel": "06761 82-701",
+    "Fax": "06761 82-777",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KRFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb3c"
+  },
+  "data": {
+    "id": "167",
+    "Gebiet": "Kreisverwaltung Trier-Saarburg",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt. Gesundheitsamt",
+    "Strasse": "Paulinstr. 60",
+    "PLZ": "54292",
+    "Ort": "Trier",
+    "EMail": "kv@trier-saarburg.de",
+    "Tel": "0651 715-500",
+    "Fax": "0651 715-17904",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KTAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb3d"
+  },
+  "data": {
+    "id": "168",
+    "Gebiet": "Kreisverwaltung Bernkastel-Wittlich",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "FB33 Gesundheit",
+    "Strasse": "Kurfürstenstr. 67",
+    "PLZ": "54516",
+    "Ort": "Wittlich",
+    "EMail": "gesundheitsamt@Bernkastel-Wittlich.de",
+    "Tel": "06571 14-0",
+    "Fax": "06571 14-2503",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KBFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb3e"
+  },
+  "data": {
+    "id": "169",
+    "Gebiet": "Kreisverwaltung Alzey-Worms",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Abt 8 - Referat Gesundheitsamt",
+    "Strasse": "Ernst-Ludwig-Straße 36",
+    "PLZ": "55232",
+    "Ort": "Alzey",
+    "EMail": "gesundheitsamt@alzey-worms.de",
+    "Tel": "06731 408-7038",
+    "Fax": "06731 408 87039",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KAA8-RG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb3f"
+  },
+  "data": {
+    "id": "170",
+    "Gebiet": "Kreisverwaltung Altenkirchen",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "In der Malzdürre 7",
+    "PLZ": "57610",
+    "Ort": "Altenkirchen",
+    "EMail": "gesundheitsamt@kreis-ak.de",
+    "Tel": "02681 8127-40",
+    "Fax": "02681 8127-00",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb40"
+  },
+  "data": {
+    "id": "171",
+    "Gebiet": "Landeshauptstadt Stuttgart",
+    "parent": "Baden-Württemberg",
+    "Line2": " Gesundheitsamt",
+    "Strasse": "Schloßstraße 91",
+    "PLZ": "70176",
+    "Ort": "Stuttgart",
+    "EMail": "gesundheitsamt@stuttgart.de",
+    "Tel": "+49 0711 216-59309",
+    "Fax": "+49 711 216 59318",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb41"
+  },
+  "data": {
+    "id": "172",
+    "Gebiet": "Landratsamt Böblingen",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Parkstr. 4",
+    "PLZ": "71034",
+    "Ort": "Böblingen",
+    "EMail": "gesundheitsamt@lrabb.de",
+    "Tel": "07031 663-1740",
+    "Fax": "07031 663-1754",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb42"
+  },
+  "data": {
+    "id": "173",
+    "Gebiet": "Landratsamt Esslingen",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Aussichtsturm 5",
+    "PLZ": "73207",
+    "Ort": "Plochingen",
+    "EMail": "gesundheitsamt@lra-es.de",
+    "Tel": "0711 3902 41600",
+    "Fax": "0711 3902 51600",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb43"
+  },
+  "data": {
+    "id": "174",
+    "Gebiet": "Landratsamt Göppingen",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Wilhelm-Busch-Weg 1",
+    "PLZ": "73033",
+    "Ort": "Göppingen",
+    "EMail": "gesundheitsamt@lkgp.de",
+    "Tel": "+49 7161 202-5370",
+    "Fax": "+49 7161 202-5390",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb44"
+  },
+  "data": {
+    "id": "175",
+    "Gebiet": "Landratsamt Ludwigsburg",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hindenburgstr. 20/1",
+    "PLZ": "71638",
+    "Ort": "Ludwigsburg",
+    "EMail": "Gesundheitsschutz@landkreis-ludwigsburg.de ",
+    "Tel": "+49 7141 144-2020",
+    "Fax": "+49 7141 144-59501 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb45"
+  },
+  "data": {
+    "id": "176",
+    "Gebiet": "Landratsamt Rems-Murr-Kreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Geschäftsbereich Gesundheit",
+    "Strasse": "Bahnhofstr. 1",
+    "PLZ": "71332",
+    "Ort": "Waiblingen",
+    "EMail": "gesundheit@rems-murr-kreis.de",
+    "Tel": "+49 7151 501-1608",
+    "Fax": "+49 7151 501-1634",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb46"
+  },
+  "data": {
+    "id": "177",
+    "Gebiet": "Stadt Heilbronn",
+    "parent": "Baden-Württemberg",
+    "Line2": "Städtisches Gesundheitsamt",
+    "Strasse": "Bahnhofstraße 2",
+    "PLZ": "74020",
+    "Ort": "Heilbronn",
+    "EMail": "gesundheitsamt@heilbronn.de",
+    "Tel": "+49 7131 56-3540",
+    "Fax": "+49 7131 56-3539",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SHSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb47"
+  },
+  "data": {
+    "id": "178",
+    "Gebiet": "Landratsamt Heilbronn",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Lerchenstraße 40",
+    "PLZ": "74072",
+    "Ort": "Heilbronn",
+    "EMail": "Gesundheitsamt@landratsamt-heilbronn.de",
+    "Tel": "",
+    "Fax": "07131 994-174",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb48"
+  },
+  "data": {
+    "id": "179",
+    "Gebiet": "Landratsamt Hohenlohekreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schulstr. 12",
+    "PLZ": "74653",
+    "Ort": "Künzelsau",
+    "EMail": "gesuamt@hohenlohekreis.de",
+    "Tel": "07940 18 580",
+    "Fax": "07940 18-571",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb49"
+  },
+  "data": {
+    "id": "180",
+    "Gebiet": "Landratsamt Schwäbisch Hall",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Postfach: 11 04 53",
+    "PLZ": "74507",
+    "Ort": "Schwäbisch Hall",
+    "EMail": "gesundheitsamt@LRASHA.de",
+    "Tel": "+49 791 755 6210",
+    "Fax": "+49 791 755 96211",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb4a"
+  },
+  "data": {
+    "id": "181",
+    "Gebiet": "Landratsamt Main-Tauber-Kreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Albert-Schweitzer-Str. 31",
+    "PLZ": "97941",
+    "Ort": "Tauberbischofsheim",
+    "EMail": "gesundheitsamt@main-tauber-kreis.de",
+    "Tel": "09341 82-5579",
+    "Fax": "09341 828-5560",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb4b"
+  },
+  "data": {
+    "id": "182",
+    "Gebiet": "Landratsamt Heidenheim",
+    "parent": "Baden-Württemberg",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Felsenstraße 36 Haus B",
+    "PLZ": "89518",
+    "Ort": "Heidenheim",
+    "EMail": "gesundheitsamt@landkreis-heidenheim.de",
+    "Tel": "+49 7321 321 2600",
+    "Fax": "+49 7321 321 552660",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb4c"
+  },
+  "data": {
+    "id": "183",
+    "Gebiet": "Landratsamt Ostalbkreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Julius-Bausch-Str. 12",
+    "PLZ": "73430",
+    "Ort": "Aalen",
+    "EMail": "gesundheit@ostalbkreis.de",
+    "Tel": "07361 503-1120",
+    "Fax": "07361 503-1155",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb4d"
+  },
+  "data": {
+    "id": "184",
+    "Gebiet": "Landratsamt Karlsruhe",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Beiertheimer Allee 2",
+    "PLZ": "76137",
+    "Ort": "Karlsruhe",
+    "EMail": "Gesundheitsamt@landratsamt-karlsruhe.de",
+    "Tel": "+49 721 936 81940",
+    "Fax": "+49 721 936 82 999",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb4e"
+  },
+  "data": {
+    "id": "185",
+    "Gebiet": "Landratsamt Rastatt",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Schlossplatz 5",
+    "PLZ": "76437",
+    "Ort": "Rastatt",
+    "EMail": "Amt23@Landkreis-Rastatt.de",
+    "Tel": "07222 381-2300",
+    "Fax": "07222 381-2398",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb4f"
+  },
+  "data": {
+    "id": "186",
+    "Gebiet": "Stadt Mannheim",
+    "parent": "Baden-Württemberg",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "R1 12",
+    "PLZ": "68161",
+    "Ort": "Mannheim",
+    "EMail": "",
+    "Tel": "",
+    "Fax": "0621 293-2288",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SMFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb50"
+  },
+  "data": {
+    "id": "187",
+    "Gebiet": "Landratsamt Neckar-Odenwald-Kreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Neckarelzer Strasse 7",
+    "PLZ": "74821",
+    "Ort": "Mosbach",
+    "EMail": "Gesundheitsamt@neckar-odenwald-kreis.de",
+    "Tel": "+49 6261 84 2446",
+    "Fax": "+49 6261 84 4748",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb51"
+  },
+  "data": {
+    "id": "188",
+    "Gebiet": "Landratsamt Rhein-Neckar-Kreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Kurfürstenanlage 38-40",
+    "PLZ": "69115",
+    "Ort": "Heidelberg",
+    "EMail": "infektionsschutz@rhein-neckar-kreis.de",
+    "Tel": "+49 6221 522-1817",
+    "Fax": "+49 6221 522-1899",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb52"
+  },
+  "data": {
+    "id": "189",
+    "Gebiet": "Landratsamt Calw",
+    "parent": "Baden-Württemberg",
+    "Line2": "Abt. 42 Gesundheit und Versorgung",
+    "Strasse": "Vogteistraße 42 - 46",
+    "PLZ": "75365",
+    "Ort": "Calw",
+    "EMail": "13.info@kreis-calw.de",
+    "Tel": "07051 160-931",
+    "Fax": "07051   160-949",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LCA4GuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb53"
+  },
+  "data": {
+    "id": "190",
+    "Gebiet": "Landratsamt Enzkreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bahnhofstr. 28",
+    "PLZ": "75172",
+    "Ort": "Pforzheim",
+    "EMail": "gesundheitsamt@enzkreis.de",
+    "Tel": "+49 7231 308 9732 ",
+    "Fax": "+49 7231 308-9400",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb54"
+  },
+  "data": {
+    "id": "191",
+    "Gebiet": "Landratsamt Freudenstadt",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Reichsstr. 11",
+    "PLZ": "72250",
+    "Ort": "Freudenstadt",
+    "EMail": "gafds@kreis-fds.de",
+    "Tel": "07441 920-4107",
+    "Fax": "07441 920-4199",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb55"
+  },
+  "data": {
+    "id": "192",
+    "Gebiet": "Landratsamt Breisgau-Hochschwarzwald",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Sautierstraße 28 +30",
+    "PLZ": "79104",
+    "Ort": "Freiburg",
+    "EMail": "gesundheitsschutz@lkbh.de",
+    "Tel": "+49 761 2187-3212",
+    "Fax": "+49 761 2187-3299",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb56"
+  },
+  "data": {
+    "id": "193",
+    "Gebiet": "Landratsamt Emmendingen",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Vogelsang 1",
+    "PLZ": "79312",
+    "Ort": "Emmendingen",
+    "EMail": "hygiene@landkreis-emmendingen.de",
+    "Tel": "07641 451-4300",
+    "Fax": "07641 451-4355",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb57"
+  },
+  "data": {
+    "id": "194",
+    "Gebiet": "Landratsamt Ortenaukreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Badstr. 20, Bau B",
+    "PLZ": "77652",
+    "Ort": "Offenburg",
+    "EMail": "gesundheitsamt@ortenaukreis.de",
+    "Tel": "0781 805-9700",
+    "Fax": "0781 805 1143",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb58"
+  },
+  "data": {
+    "id": "195",
+    "Gebiet": "Landratsamt Rottweil",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bismarckstr. 19",
+    "PLZ": "78628",
+    "Ort": "Rottweil",
+    "EMail": "garw@landkreis-rottweil.de",
+    "Tel": "0741 17445-0",
+    "Fax": "0741 17445-50",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb59"
+  },
+  "data": {
+    "id": "196",
+    "Gebiet": "Landratsamt Schwarzwald-Baar-Kreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Herdstraße 4",
+    "PLZ": "78050",
+    "Ort": "Villingen-Schwenningen",
+    "EMail": "Gesundheitsamt@lrasbk.de",
+    "Tel": "07721 913-7190",
+    "Fax": "07721 913-8918",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb5a"
+  },
+  "data": {
+    "id": "197",
+    "Gebiet": "Landratsamt Tuttlingen",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt (Amt 42)",
+    "Strasse": "Luginsfeldweg 15",
+    "PLZ": "78532",
+    "Ort": "Tuttlingen",
+    "EMail": "gesundheitsamt@landkreis-tuttlingen.de",
+    "Tel": "07461 926-4204",
+    "Fax": "07461 926-4286",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LTG(4"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb5b"
+  },
+  "data": {
+    "id": "198",
+    "Gebiet": "Landratsamt Konstanz",
+    "parent": "Baden-Württemberg",
+    "Line2": "Amt für Gesundheit und Versorgung",
+    "Strasse": "Scheffelstraße 15",
+    "PLZ": "78315",
+    "Ort": "Radolfzell",
+    "EMail": "gesundheitsschutz.ga@lrakn.de",
+    "Tel": "07531 8002610",
+    "Fax": "07531 8002688",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKAfGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb5c"
+  },
+  "data": {
+    "id": "199",
+    "Gebiet": "Landratsamt Lörrach",
+    "parent": "Baden-Württemberg",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Palmstr. 3   / Haus 2",
+    "PLZ": "79539",
+    "Ort": "Lörrach",
+    "EMail": "gesundheit@loerrach-landkreis.de",
+    "Tel": "+49 7621 410-2101 ",
+    "Fax": "+49 7621 410-2199",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb5d"
+  },
+  "data": {
+    "id": "200",
+    "Gebiet": "Landratsamt Waldshut",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Im Wallgraben 34",
+    "PLZ": "79761",
+    "Ort": "Waldshut-Tiengen",
+    "EMail": "infektionsschutz@landkreis-waldshut.de ",
+    "Tel": "07751 86-5101",
+    "Fax": "07751 86-5199",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb5e"
+  },
+  "data": {
+    "id": "201",
+    "Gebiet": "Landratsamt Reutlingen",
+    "parent": "Baden-Württemberg",
+    "Line2": "Kreisgesundheitsamt",
+    "Strasse": "St.-Wolfgang-Str. 13",
+    "PLZ": "72764",
+    "Ort": "Reutlingen",
+    "EMail": "gesundheitsamt@kreis-reutlingen.de",
+    "Tel": "+49 7121 480-4310",
+    "Fax": "+49 7121 480-1818",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRK"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb5f"
+  },
+  "data": {
+    "id": "202",
+    "Gebiet": "Landratsamt Tübingen",
+    "parent": "Baden-Württemberg",
+    "Line2": "Abteilung 33 Gesundheit",
+    "Strasse": "Wilhelm-Keil-Straße 50",
+    "PLZ": "72072",
+    "Ort": "Tübingen",
+    "EMail": "ifsg@kreis-tuebingen.de",
+    "Tel": "07071 2073330",
+    "Fax": "07071 207-3331",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LTA3G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb60"
+  },
+  "data": {
+    "id": "203",
+    "Gebiet": "Landratsamt Zollernalbkreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Weilheimer Straße 31",
+    "PLZ": "72379",
+    "Ort": "Hechingen",
+    "EMail": "gesundheitsamt@zollernalbkreis.de",
+    "Tel": "07471 9309-1568",
+    "Fax": "07471 9309-1669",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LZG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb61"
+  },
+  "data": {
+    "id": "204",
+    "Gebiet": "Landratsamt Alb-Donau-Kreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Schillerstr. 30",
+    "PLZ": "89077",
+    "Ort": "Ulm",
+    "EMail": "Gesundheitsamt@alb-donau-kreis.de",
+    "Tel": "0731 185-1730",
+    "Fax": "0731 185-1738",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb62"
+  },
+  "data": {
+    "id": "205",
+    "Gebiet": "Landratsamt Biberach",
+    "parent": "Baden-Württemberg",
+    "Line2": "Kreisgesundheitsamt",
+    "Strasse": "Rollinstr. 17",
+    "PLZ": "88400",
+    "Ort": "Biberach",
+    "EMail": "kreisgesundheitsamt@biberach.de",
+    "Tel": "07351 52-6151",
+    "Fax": "07351 52-5352",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBK"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb63"
+  },
+  "data": {
+    "id": "206",
+    "Gebiet": "Landratsamt Bodenseekreis",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Albrechtstr. 75",
+    "PLZ": "88045",
+    "Ort": "Friedrichshafen",
+    "EMail": "gesundheitsamt@bodenseekreis.de",
+    "Tel": "07541 204-5841",
+    "Fax": "07541 204-8806",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb64"
+  },
+  "data": {
+    "id": "207",
+    "Gebiet": "Landratsamt Ravensburg",
+    "parent": "Baden-Württemberg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Gartenstraße 107",
+    "PLZ": "88212",
+    "Ort": "Ravensburg",
+    "EMail": "ge@rv.de",
+    "Tel": "0751 85-5311",
+    "Fax": "0751 85-5306",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb65"
+  },
+  "data": {
+    "id": "208",
+    "Gebiet": "Landratsamt Sigmaringen",
+    "parent": "Baden-Württemberg",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Hohenzollernstraße 12",
+    "PLZ": "72488",
+    "Ort": "Sigmaringen",
+    "EMail": "post.gesundheit@lrasig.de",
+    "Tel": "07571 102-6401",
+    "Fax": "07571 102-6499",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb66"
+  },
+  "data": {
+    "id": "209",
+    "Gebiet": "Stadt Ingolstadt",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Esplanade 29",
+    "PLZ": "85049",
+    "Ort": "Ingolstadt",
+    "EMail": "Gesundheitsamt@ingolstadt.de",
+    "Tel": "0841 305-1461",
+    "Fax": "0841 305-1469",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SIG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb67"
+  },
+  "data": {
+    "id": "210",
+    "Gebiet": "Landeshauptstadt München",
+    "parent": "Bayern",
+    "Line2": "Referat für Gesundheit und Umwelt",
+    "Strasse": "Bayerstraße 28a",
+    "PLZ": "80335",
+    "Ort": "München",
+    "EMail": "gs-is-mw.gsr@muenchen.de ",
+    "Tel": "089 233-96300",
+    "Fax": "089 233-47814",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMRfGuU"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb68"
+  },
+  "data": {
+    "id": "211",
+    "Gebiet": "Landratsamt Altötting",
+    "parent": "Bayern",
+    "Line2": "Gesundheits- und Veterinärwesen",
+    "Strasse": "Vinzenz-von-Paul-Str. 8",
+    "PLZ": "84503",
+    "Ort": "Altötting",
+    "EMail": "Gesundheitsamt.aoe@lra-aoe.de",
+    "Tel": "+49 8671 502-900",
+    "Fax": "+49 8671 502-930",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb69"
+  },
+  "data": {
+    "id": "212",
+    "Gebiet": "Landratsamt Berchtesgadener Land",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Salzburger Str. 64",
+    "PLZ": "83435",
+    "Ort": "Bad Reichenhall",
+    "EMail": "gesundheitsamt@lra-bgl.de",
+    "Tel": "08651 773-801",
+    "Fax": "08651 773-820",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb6a"
+  },
+  "data": {
+    "id": "213",
+    "Gebiet": "Landkreis Bad Tölz - Wolfratshausen",
+    "parent": "Bayern",
+    "Line2": "Landratsamt",
+    "Strasse": "Prof.-Max-Lange-Platz 1",
+    "PLZ": "83646",
+    "Ort": "Bad Tölz",
+    "EMail": "G-Amt@lra-toelz.de",
+    "Tel": "08041 505-483",
+    "Fax": "08041 505-132",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBT-WL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb6b"
+  },
+  "data": {
+    "id": "214",
+    "Gebiet": "Landratsamt Dachau",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Dr.-Hiller-Straße 36",
+    "PLZ": "85221",
+    "Ort": "Dachau",
+    "EMail": "Gesundheitsamt@lra-dah.bayern.de",
+    "Tel": "08131 74-1413",
+    "Fax": "08131  74 11713",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb6c"
+  },
+  "data": {
+    "id": "215",
+    "Gebiet": "Landratsamt Ebersberg",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Eichthalstr. 5",
+    "PLZ": "85560",
+    "Ort": "Ebersberg",
+    "EMail": "Gesundheitsamt@lra-ebe.bayern.de",
+    "Tel": "+49 8092 823-383",
+    "Fax": "+49 8092 823-390",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb6d"
+  },
+  "data": {
+    "id": "216",
+    "Gebiet": "Landratsamt Eichstätt",
+    "parent": "Bayern",
+    "Line2": "Gesundheitswesen",
+    "Strasse": "Grabmannstr.2",
+    "PLZ": "85072",
+    "Ort": "Eichstätt",
+    "EMail": "gesundheitswesen@lra-ei.bayern.de",
+    "Tel": "08421 70-0",
+    "Fax": "08421-70532",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb6e"
+  },
+  "data": {
+    "id": "217",
+    "Gebiet": "Landratsamt Erding",
+    "parent": "Bayern",
+    "Line2": "Abteilung 5 - Gesundheitsamt",
+    "Strasse": "Lange Zeile 10",
+    "PLZ": "85435",
+    "Ort": "Erding",
+    "EMail": "gesundheitsamt@lra-ed.de",
+    "Tel": "+49 8122 58 1430",
+    "Fax": "+49 8122 58 1431",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEA5-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb6f"
+  },
+  "data": {
+    "id": "218",
+    "Gebiet": "Landratsamt Freising",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt Freising",
+    "Strasse": "Johannisstr. 8",
+    "PLZ": "85354",
+    "Ort": "Freising",
+    "EMail": "gesundheitsamt@kreis-fs.de",
+    "Tel": "08161 5374-300",
+    "Fax": "08161 5374-399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LFGF"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb70"
+  },
+  "data": {
+    "id": "219",
+    "Gebiet": "Landratsamt Fürstenfeldbruck",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hans-Sachs-Str. 9",
+    "PLZ": "82256",
+    "Ort": "Fürstenfeldbruck",
+    "EMail": "gesundheitsamt@lra-ffb.de",
+    "Tel": "08141 519-800",
+    "Fax": "08141 519-880",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb71"
+  },
+  "data": {
+    "id": "220",
+    "Gebiet": "Landratsamt Garmisch-Partenkirchen",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt Garmisch-Partenkirchen",
+    "Strasse": "Partnachstr. 26",
+    "PLZ": "82467",
+    "Ort": "Garmisch - Partenkirchen",
+    "EMail": "Gesundheitsamt@lra-gap.de",
+    "Tel": "08821 751-500",
+    "Fax": "08821 751 8406",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb72"
+  },
+  "data": {
+    "id": "221",
+    "Gebiet": "Landkreis Landsberg a.Lech",
+    "parent": "Bayern",
+    "Line2": "Landratsamt Landsberg am Lech - Außenstelle 2",
+    "Strasse": "Bürgermeister-Dr.-Hartmann-Str. 48",
+    "PLZ": "86899",
+    "Ort": "Landsberg am Lech",
+    "EMail": "Gesundheitsamt@LRA-LL.bayern.de",
+    "Tel": "08191 129-1291",
+    "Fax": "08191 129-5205",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLaL-A2"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb73"
+  },
+  "data": {
+    "id": "222",
+    "Gebiet": "Landratsamt Miesbach",
+    "parent": "Bayern",
+    "Line2": "Fachbereich 43 Gesundheitsamt",
+    "Strasse": "Wendelsteinstraße 1",
+    "PLZ": "83714",
+    "Ort": "Miesbach",
+    "EMail": "Gesundheitsamt@lra-mb.bayern.de",
+    "Tel": "08025 704-4300",
+    "Fax": "08025 704-74300",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMF4G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb74"
+  },
+  "data": {
+    "id": "223",
+    "Gebiet": "Landratsamt Mühldorf am Inn",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Töginger Str. 18b",
+    "PLZ": "84453",
+    "Ort": "Mühldorf",
+    "EMail": "Gesundheitsamt@lra-mue.de",
+    "Tel": "08631 699509",
+    "Fax": "08631 699 533",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMaIG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb75"
+  },
+  "data": {
+    "id": "224",
+    "Gebiet": "Landratsamt München",
+    "parent": "Bayern",
+    "Line2": "Abteilung 4 - Öffentliches Gesundheits- und Veterinärwesen",
+    "Strasse": "Mariahilfplatz 17",
+    "PLZ": "81541",
+    "Ort": "München",
+    "EMail": "Gesundheitswesen@lra-m.bayern.de",
+    "Tel": "089 6221-1000",
+    "Fax": "089 6221-1164",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMA4-ÖGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb76"
+  },
+  "data": {
+    "id": "225",
+    "Gebiet": "Landratsamt Neuburg-Schrobenhausen",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Müller-Gnadenegg-Weg 1",
+    "PLZ": "86633",
+    "Ort": "Neuburg an der Donau",
+    "EMail": "gesundheitsamt@lra-nd-sob.de",
+    "Tel": "08431 57500",
+    "Fax": "08431 57519",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb77"
+  },
+  "data": {
+    "id": "226",
+    "Gebiet": "Landratsamt Pfaffenhofen",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Krankenhausstr.70",
+    "PLZ": "85276",
+    "Ort": "Pfaffenhofen a.d. Ilm",
+    "EMail": "gesundheitsamt@landratsamt-paf.de",
+    "Tel": "08441 27-1400",
+    "Fax": "08441 27-1420",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LPG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb78"
+  },
+  "data": {
+    "id": "227",
+    "Gebiet": "Landratsamt Rosenheim",
+    "parent": "Bayern",
+    "Line2": "Staatliches Gesundheitsamt",
+    "Strasse": "Prinzregentenstr. 19",
+    "PLZ": "83022",
+    "Ort": "Rosenheim",
+    "EMail": "gesundheitsamt@lra-rosenheim.de",
+    "Tel": "08031 392-6002",
+    "Fax": "08031 392-9060",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb79"
+  },
+  "data": {
+    "id": "228",
+    "Gebiet": "Landratsamt Starnberg",
+    "parent": "Bayern",
+    "Line2": "Fachbereich 32 Gesundheitswesen",
+    "Strasse": "Dampfschiffstr. 2a",
+    "PLZ": "82319",
+    "Ort": "Starnberg",
+    "EMail": "gesundheitsamt@lra-starnberg.de",
+    "Tel": "08151 148-900",
+    "Fax": "08151 148-999",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSF3G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb7a"
+  },
+  "data": {
+    "id": "229",
+    "Gebiet": "Landratsamt Traunstein",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Herzog-Friedrich-Str. 6",
+    "PLZ": "83278",
+    "Ort": "Traunstein",
+    "EMail": "gesundheitsamt@traunstein.bayern",
+    "Tel": "0861/58-147 ",
+    "Fax": "0861 58-9150",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LTG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb7b"
+  },
+  "data": {
+    "id": "230",
+    "Gebiet": "Landratsamt Weilheim-Schongau",
+    "parent": "Bayern",
+    "Line2": "Abteilung 6 - Gesundheitsamt",
+    "Strasse": "Eisenkramergasse 11",
+    "PLZ": "82362",
+    "Ort": "Weilheim i.OB",
+    "EMail": "gesundheitsamt@lra-wm.bayern.de",
+    "Tel": "0881 681-1600",
+    "Fax": "0881 681 2699",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWA6-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb7c"
+  },
+  "data": {
+    "id": "231",
+    "Gebiet": "Landratsamt Deggendorf",
+    "parent": "Bayern",
+    "Line2": "Gesundheitswesen",
+    "Strasse": "Herrenstraße 18",
+    "PLZ": "94469",
+    "Ort": "Deggendorf",
+    "EMail": "gesundheitsamt@lra-deg.bayern.de",
+    "Tel": "0991 3100-150",
+    "Fax": "0991 3100-160",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb7d"
+  },
+  "data": {
+    "id": "232",
+    "Gebiet": "Landratsamt Freyung-Grafenau",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Erlenhain 6",
+    "PLZ": "94065",
+    "Ort": "Waldkirchen",
+    "EMail": "gesundheitsamt@landkreis-frg.de",
+    "Tel": "08551 57-400",
+    "Fax": "08551 57-419",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb7e"
+  },
+  "data": {
+    "id": "233",
+    "Gebiet": "Landratsamt Kelheim",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsabteilung",
+    "Strasse": "Hemauerstr. 48 a",
+    "PLZ": "93309",
+    "Ort": "Kelheim",
+    "EMail": "gesundheitsabteilung@landkreis-kelheim.de",
+    "Tel": "09441 207-6015",
+    "Fax": "09441 207-6050",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb7f"
+  },
+  "data": {
+    "id": "234",
+    "Gebiet": "Landratsamt Landshut",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Veldener Straße 15",
+    "PLZ": "84036",
+    "Ort": "Landshut",
+    "EMail": "gesundheit@landkreis-landshut.de",
+    "Tel": "0871 408-5000",
+    "Fax": "0871 408-1002",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb80"
+  },
+  "data": {
+    "id": "235",
+    "Gebiet": "Landratsamt Passau",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Passauer Str. 33",
+    "PLZ": "94081",
+    "Ort": "Fürstenzell",
+    "EMail": "gesundheitsamt@landkreis-passau.de",
+    "Tel": "+49 851 397-800",
+    "Fax": "+ 49 851 397 90801",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LPG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb81"
+  },
+  "data": {
+    "id": "236",
+    "Gebiet": "Landratsamt Regen",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Poschetsrieder Straße 16",
+    "PLZ": "94209",
+    "Ort": "Regen",
+    "EMail": "Gesundheitswesen@lra.landkreis-regen.de",
+    "Tel": "+49 9921 601-420",
+    "Fax": "+49 9921 97002450",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb82"
+  },
+  "data": {
+    "id": "237",
+    "Gebiet": "Landratsamt Rottal-Inn",
+    "parent": "Bayern",
+    "Line2": "Abt. 4 Gesundheits-und Veterinärwesen",
+    "Strasse": "Ringstr. 4-7",
+    "PLZ": "84347",
+    "Ort": "Pfarrkirchen",
+    "EMail": "gesundheitsamt@rottal-inn.de",
+    "Tel": "+49 8561 20 419",
+    "Fax": "+49 8561 20 436",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRA4GV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb83"
+  },
+  "data": {
+    "id": "238",
+    "Gebiet": "Landratsamt Straubing-Bogen",
+    "parent": "Bayern",
+    "Line2": "Abteilung Gesundheitswesen",
+    "Strasse": "Leutnerstraße 15",
+    "PLZ": "94315",
+    "Ort": "Straubing",
+    "EMail": "gesundheitsamt@landkreis-straubing-bogen.de",
+    "Tel": "09421 973 360",
+    "Fax": "09421 973 411",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb84"
+  },
+  "data": {
+    "id": "239",
+    "Gebiet": "Landratsamt Dingolfing-Landau",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Obere Stadt 1",
+    "PLZ": "84130",
+    "Ort": "Dingolfing",
+    "EMail": "gesundheitsamt@landkreis-dingolfing-landau.de",
+    "Tel": "08731 87 245",
+    "Fax": "08731 87725",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb85"
+  },
+  "data": {
+    "id": "240",
+    "Gebiet": "Landratsamt Amberg-Sulzbach",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hockermühlstr. 53",
+    "PLZ": "92224",
+    "Ort": "Amberg",
+    "EMail": "gesundheitsamt@amberg-sulzbach.de",
+    "Tel": "09621 39 669",
+    "Fax": "09621 37605 366 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb86"
+  },
+  "data": {
+    "id": "241",
+    "Gebiet": "Landratsamt Cham",
+    "parent": "Bayern",
+    "Line2": "Gesundheitswesen",
+    "Strasse": "Altenstadter Str. 7 ",
+    "PLZ": "93413",
+    "Ort": "Cham",
+    "EMail": "gesundheitsamt@lra.landkreis-cham.de",
+    "Tel": "09971 78-450",
+    "Fax": "09971 78-466",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LCG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb87"
+  },
+  "data": {
+    "id": "242",
+    "Gebiet": "Landratsamt Neumarkt i.d.Oberpfalz",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Dr. Grundler -Str. 1",
+    "PLZ": "92318",
+    "Ort": "Neumarkt i.d.OPf.",
+    "EMail": "gesundheitsamt@landkreis-neumarkt.de",
+    "Tel": "09181 470-1512",
+    "Fax": "09181 470-1500",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNiG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb88"
+  },
+  "data": {
+    "id": "243",
+    "Gebiet": "Landratsamt Neustadt a. d. Waldnaab/ Weiden",
+    "parent": "Bayern",
+    "Line2": "Abteilung Gesundheitswesen",
+    "Strasse": "Maistrasse 7-9",
+    "PLZ": "92637",
+    "Ort": "Weiden i. d. Oberpfalz",
+    "EMail": "gesundheitsamt@neustadt.de",
+    "Tel": "09602 79-6000",
+    "Fax": "09602 79-6055",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNadWWAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb89"
+  },
+  "data": {
+    "id": "244",
+    "Gebiet": "Landratsamt Regensburg",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Altmühlstraße 3",
+    "PLZ": "93059",
+    "Ort": "Regensburg",
+    "EMail": "gesundheitsamt@landratsamt-regensburg.de",
+    "Tel": "0941 4009-0",
+    "Fax": "0941 4009-764",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb8a"
+  },
+  "data": {
+    "id": "245",
+    "Gebiet": "Landratsamt Schwandorf",
+    "parent": "Bayern",
+    "Line2": "Sgb. 5.0 - Gesundheitsamt",
+    "Strasse": "Wackersdorfer Str. 78a",
+    "PLZ": "92421",
+    "Ort": "Schwandorf",
+    "EMail": "gesundheitsamt@landkreis-schwandorf.de",
+    "Tel": "09431 471 600",
+    "Fax": "09431 471 634",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSS5-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb8b"
+  },
+  "data": {
+    "id": "246",
+    "Gebiet": "Landratsamt Tirschenreuth",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "St.-Peter-Str. 33",
+    "PLZ": "95643",
+    "Ort": "Tirschenreuth",
+    "EMail": "Gesundheitsamt@tirschenreuth.de",
+    "Tel": "09631 7076-0",
+    "Fax": "09631 7076-20",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LTG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb8c"
+  },
+  "data": {
+    "id": "247",
+    "Gebiet": "Landratsamt Bamberg",
+    "parent": "Bayern",
+    "Line2": "Fachbereich 23 Gesundheitswesen",
+    "Strasse": "Ludwigstr. 25",
+    "PLZ": "96052",
+    "Ort": "Bamberg",
+    "EMail": "gesundheitsamt@lra-ba.bayern.de",
+    "Tel": "0951 85-651",
+    "Fax": "0951 85-699",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBF2G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb8d"
+  },
+  "data": {
+    "id": "248",
+    "Gebiet": "Landratsamt Bayreuth",
+    "parent": "Bayern",
+    "Line2": "Abteilung Gesundheitswesen",
+    "Strasse": "Markgrafenallee 5",
+    "PLZ": "95448",
+    "Ort": "Bayreuth",
+    "EMail": "renate.rieger@lra-bt.bayern.de",
+    "Tel": "0921 728-227",
+    "Fax": "0921 728 88 227",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb8e"
+  },
+  "data": {
+    "id": "249",
+    "Gebiet": "Landratsamt Coburg",
+    "parent": "Bayern",
+    "Line2": "FB 32 Gesundheit",
+    "Strasse": "Lauterer Straße 60",
+    "PLZ": "96450",
+    "Ort": "Coburg",
+    "EMail": "gesundheitsamt@landkreis-coburg.de",
+    "Tel": "09561 514-3201",
+    "Fax": "09561 514-3299",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LCF3G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb8f"
+  },
+  "data": {
+    "id": "250",
+    "Gebiet": "Landratsamt Forchheim",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Streckerplatz 3",
+    "PLZ": "91301",
+    "Ort": "Forchheim",
+    "EMail": "Gesundheitsamt@lra-fo.de",
+    "Tel": "09191 86-3504",
+    "Fax": "09191 86-3508",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb90"
+  },
+  "data": {
+    "id": "251",
+    "Gebiet": "Landratsamt Hof",
+    "parent": "Bayern",
+    "Line2": "Abt. 7 Gesundheitswesen",
+    "Strasse": "Theaterstr. 8",
+    "PLZ": "95028",
+    "Ort": "Hof/Saale",
+    "EMail": "gesundheit@landkreis-hof.de",
+    "Tel": "09281 721-0",
+    "Fax": "09281 16873",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHA7G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb91"
+  },
+  "data": {
+    "id": "252",
+    "Gebiet": "Landratsamt Kronach",
+    "parent": "Bayern",
+    "Line2": "Sachgebiet  42 - Gesundheitsamt",
+    "Strasse": "Güterstrasse 18",
+    "PLZ": "96317",
+    "Ort": "Kronach",
+    "EMail": "gesundheitsamt@lra-kc.bayern.de",
+    "Tel": "09261 678-227",
+    "Fax": " 09261 678-415",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKS4-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb92"
+  },
+  "data": {
+    "id": "253",
+    "Gebiet": "Landratsamt Kulmbach",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Konrad-Adenauer-Str. 2",
+    "PLZ": "95326",
+    "Ort": "Kulmbach",
+    "EMail": "hygiene@landkreis-kulmbach.de",
+    "Tel": "+49 9221 707 600",
+    "Fax": "+49 9221 707 606",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb93"
+  },
+  "data": {
+    "id": "254",
+    "Gebiet": "Landratsamt Lichtenfels",
+    "parent": "Bayern",
+    "Line2": "Sachgebiet Gesundheit",
+    "Strasse": "Gabelsbergerstraße 24",
+    "PLZ": "96215",
+    "Ort": "Lichtenfels",
+    "EMail": "gesundheitswesen@landkreis-lichtenfels.de",
+    "Tel": "09571 18-556",
+    "Fax": "09571 18-500",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb94"
+  },
+  "data": {
+    "id": "255",
+    "Gebiet": "Landratsamt Wunsiedel i.Fichtelgeb.",
+    "parent": "Bayern",
+    "Line2": "Fachbereich Gesundheitswesen",
+    "Strasse": "Jean-Paul-Str. 9",
+    "PLZ": "95632",
+    "Ort": "Wunsiedel",
+    "EMail": "gesundheitswesen@landkreis-wunsiedel.de",
+    "Tel": "09232 80107",
+    "Fax": "09232 809107",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWiFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb95"
+  },
+  "data": {
+    "id": "256",
+    "Gebiet": "Landratsamt Ansbach",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Crailsheimstraße 64",
+    "PLZ": "91522",
+    "Ort": "Ansbach",
+    "EMail": "Gesundheitsamt@landratsamt-ansbach.de",
+    "Tel": "+49 981 468-7003",
+    "Fax": "+49 981 468-7019",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb96"
+  },
+  "data": {
+    "id": "257",
+    "Gebiet": "Stadt Nürnberg",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Burgstraße 4",
+    "PLZ": "90403",
+    "Ort": "Nürnberg",
+    "EMail": "gh-v-inf@stadt.nuernberg.de",
+    "Tel": "+49 911 231-0",
+    "Fax": "+49 911 231-4660",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb97"
+  },
+  "data": {
+    "id": "258",
+    "Gebiet": "Landratsamt Erlangen-Höchstadt",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Nägelsbachstr. 1",
+    "PLZ": "91052",
+    "Ort": "Erlangen",
+    "EMail": "gesundheitsamt@erlangen-hoechstadt.de",
+    "Tel": "+49 9131 803-2200",
+    "Fax": "+49 9131 803-492200",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb98"
+  },
+  "data": {
+    "id": "259",
+    "Gebiet": "Landratsamt Fürth",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Im Pinderpark 2 (Postadresse) Im Pinderpark 4 (Dienstgebäude)",
+    "PLZ": "90513",
+    "Ort": "Zirndorf",
+    "EMail": "gesundheitsamt@lra-fue.bayern.de",
+    "Tel": "0911 9773-1806",
+    "Fax": "0911 9773-1803",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb99"
+  },
+  "data": {
+    "id": "260",
+    "Gebiet": "Landratsamt Nürnberger Land",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Waldluststr. 3",
+    "PLZ": "91207",
+    "Ort": "Lauf a.d. Pegnitz",
+    "EMail": "Gesundheitsamt@nuernberger-land.de",
+    "Tel": "09123 950-6550",
+    "Fax": "09123 950-8024",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb9a"
+  },
+  "data": {
+    "id": "261",
+    "Gebiet": "Landratsamt Neustadt a.d.Aisch-Bad Windsheim",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Konrad-Adenauer-Str. 2",
+    "PLZ": "91413",
+    "Ort": "Neustadt an der Aisch",
+    "EMail": "Gesundheitsamt@kreis-nea.de",
+    "Tel": "09161 92-5305",
+    "Fax": "09161 92-90500",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNaWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb9b"
+  },
+  "data": {
+    "id": "262",
+    "Gebiet": "Landratsamt Roth",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Westring 36",
+    "PLZ": "91154",
+    "Ort": "Roth",
+    "EMail": "Gesundheitsamt@Landratsamt-Roth.de",
+    "Tel": "+49 9171 81-1601",
+    "Fax": "+49 9171 81971601 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb9c"
+  },
+  "data": {
+    "id": "263",
+    "Gebiet": "Landratsamt Weißenburg-Gunzenhausen",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Niederhofener Str. 3",
+    "PLZ": "91781",
+    "Ort": "Weißenburg",
+    "EMail": "Gesundheitsamt.Lra@Landkreis-WUG.de",
+    "Tel": "09141 902-401",
+    "Fax": "09141 902-419",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb9d"
+  },
+  "data": {
+    "id": "264",
+    "Gebiet": "Landratsamt Aschaffenburg",
+    "parent": "Bayern",
+    "Line2": "Abteilung 5 - Gesundheitsamt",
+    "Strasse": "Merlostr.1-3",
+    "PLZ": "63741",
+    "Ort": "Aschaffenburg",
+    "EMail": "gesundheitsamt@lra-ab.bayern.de",
+    "Tel": "06021 394 100",
+    "Fax": "06021 394-980",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAA5-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb9e"
+  },
+  "data": {
+    "id": "265",
+    "Gebiet": "Landkreis Bad Kissingen",
+    "parent": "Bayern",
+    "Line2": "Staatliches Gesundheitsamt",
+    "Strasse": "Salinenstr.1",
+    "PLZ": "97688",
+    "Ort": "Bad Kissingen",
+    "EMail": "Gesundheitsamt@landkreis-badkissingen.de",
+    "Tel": "+49 971 7165-0",
+    "Fax": "+49 971 8018 133",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBKSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fb9f"
+  },
+  "data": {
+    "id": "266",
+    "Gebiet": "Landkreis Rhön-Grabfeld",
+    "parent": "Bayern",
+    "Line2": "SG 3.4 - Gesundheitsamt",
+    "Strasse": "Spörleinstr. 11",
+    "PLZ": "97616",
+    "Ort": "Bad Neustadt",
+    "EMail": "gesundheitsamt@rhoen-grabfeld.de",
+    "Tel": "09771 94-560",
+    "Fax": "09771 94-500",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRS3-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba0"
+  },
+  "data": {
+    "id": "267",
+    "Gebiet": "Landratsamt Hassberge",
+    "parent": "Bayern",
+    "Line2": "Fachabteilung II/A",
+    "Strasse": "Zwerchmaingasse 14",
+    "PLZ": "97437",
+    "Ort": "Haßfurt",
+    "EMail": "Gesundheitsamt@landratsamt-hassberge.de",
+    "Tel": "09521 27-400",
+    "Fax": "09521 27-406",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHFI"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba1"
+  },
+  "data": {
+    "id": "268",
+    "Gebiet": "Landratsamt Kitzingen",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Kaiserstraße 4",
+    "PLZ": "97318",
+    "Ort": "Kitzingen",
+    "EMail": "gesundheitsamt@kitzingen.de",
+    "Tel": "09321 928 3304",
+    "Fax": "09321 928 3399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba2"
+  },
+  "data": {
+    "id": "269",
+    "Gebiet": "Landratsamt Miltenberg",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Brückenstr. 2",
+    "PLZ": "63897",
+    "Ort": "Miltenberg",
+    "EMail": "Gesundheitsamt@lra-mil.de",
+    "Tel": "09371 501-523",
+    "Fax": "09371 501-524",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba3"
+  },
+  "data": {
+    "id": "270",
+    "Gebiet": "Landratsamt Main-Spessart",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Rudolph-Glauber-Str. 28",
+    "PLZ": "97753",
+    "Ort": "Karlstadt",
+    "EMail": "gesundheitsamt@lramsp.de",
+    "Tel": "09353   793-1600",
+    "Fax": "09353   793-7600",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba4"
+  },
+  "data": {
+    "id": "271",
+    "Gebiet": "Landratsamt Schweinfurt",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schrammstr. 1",
+    "PLZ": "97421",
+    "Ort": "Schweinfurt",
+    "EMail": "ga-anmeldung@lrasw.de",
+    "Tel": "09721 55-745",
+    "Fax": "09721 55-737",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba5"
+  },
+  "data": {
+    "id": "272",
+    "Gebiet": "Landratsamt Würzburg",
+    "parent": "Bayern",
+    "Line2": "Fachbereich 34",
+    "Strasse": "Zeppelinstraße 15",
+    "PLZ": "97074",
+    "Ort": "Würzburg",
+    "EMail": "Gesundheitsamt@lra-wue.bayern.de",
+    "Tel": "+49 931 8003-0",
+    "Fax": "+49 931 8003-5940",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWF3"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba6"
+  },
+  "data": {
+    "id": "273",
+    "Gebiet": "Stadt Augsburg",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hoher Weg 8",
+    "PLZ": "86152",
+    "Ort": "Augsburg",
+    "EMail": "hygiene.gesundheitsamt@augsburg.de",
+    "Tel": "+49 821 324-2029",
+    "Fax": "+49 821 324-2060",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba7"
+  },
+  "data": {
+    "id": "274",
+    "Gebiet": "Stadt Memmingen",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Buxacher Str. 16",
+    "PLZ": "87700",
+    "Ort": "Memmingen",
+    "EMail": "gesundheitsamt@memmingen.de",
+    "Tel": " +49 8331 850-940",
+    "Fax": "+49 8331 850-949",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba8"
+  },
+  "data": {
+    "id": "275",
+    "Gebiet": "Landratsamt Aichach-Friedberg",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Krankenhausstraße 9",
+    "PLZ": "86551",
+    "Ort": "Aichach",
+    "EMail": "gesundheitsamt@lra-aic-fdb.de",
+    "Tel": "+49 8251 92 431",
+    "Fax": "+49 8251-8197101",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fba9"
+  },
+  "data": {
+    "id": "276",
+    "Gebiet": "Landratsamt Augsburg",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Prinzregenten Platz 4",
+    "PLZ": "86150",
+    "Ort": "Augsburg",
+    "EMail": "Gesundheitsamt@lra-a.bayern.de",
+    "Tel": "0821 3102-2101",
+    "Fax": "0821 3102 1101",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbaa"
+  },
+  "data": {
+    "id": "277",
+    "Gebiet": "Landratsamt Dillingen",
+    "parent": "Bayern",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Große Allee 24",
+    "PLZ": "89407",
+    "Ort": "Dillingen a. d. Donau",
+    "EMail": "gesundheit@landratsamt.dillingen.de",
+    "Tel": "09071 51-0 ",
+    "Fax": "09071 51-4870",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbab"
+  },
+  "data": {
+    "id": "278",
+    "Gebiet": "Landratsamt Günzburg",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "An der Kapuzinermauer 1",
+    "PLZ": "89312",
+    "Ort": "Günzburg",
+    "EMail": "Gesundheitsamt@landkreis-guenzburg.de",
+    "Tel": "+49 8221 95-722",
+    "Fax": "+49 8221 95-770",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbac"
+  },
+  "data": {
+    "id": "279",
+    "Gebiet": "Landratsamt Neu-Ulm",
+    "parent": "Bayern",
+    "Line2": "Öffentlicher Gesundheitsdienst",
+    "Strasse": "Kantstr. 8",
+    "PLZ": "89231",
+    "Ort": "Neu-Ulm",
+    "EMail": "gesundheitsdienst@lra.neu-ulm.de",
+    "Tel": "0731 7040-1280",
+    "Fax": "0731 7040-5099",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNÖG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbad"
+  },
+  "data": {
+    "id": "280",
+    "Gebiet": "Landratsamt Lindau",
+    "parent": "Bayern",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Bregenzer Straße 35",
+    "PLZ": "88131",
+    "Ort": "Lindau",
+    "EMail": "Gesundheitsamt@landkreis-lindau.de",
+    "Tel": "08382 270-620",
+    "Fax": "08382 270-633",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbae"
+  },
+  "data": {
+    "id": "281",
+    "Gebiet": "Landkreis Ostallgäu",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schwabenstraße 11",
+    "PLZ": "87616",
+    "Ort": "Marktoberdorf",
+    "EMail": "Gesundheitsamt@lra-oal.bayern.de",
+    "Tel": "08342 911-623",
+    "Fax": "08342 911-650",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbaf"
+  },
+  "data": {
+    "id": "282",
+    "Gebiet": "Landratsamt Unterallgäu",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bad Wörishofer Str. 33",
+    "PLZ": "87719",
+    "Ort": "Mindelheim",
+    "EMail": "gesundheitsamt@lra.unterallgaeu.de",
+    "Tel": "08261 995-407",
+    "Fax": "08261 995 10 444",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LUG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb0"
+  },
+  "data": {
+    "id": "283",
+    "Gebiet": "Landratsamt Donau-Ries",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Pflegstr. 2",
+    "PLZ": "86609",
+    "Ort": "Donauwörth",
+    "EMail": "Gesundheitswesen@lra-donau-ries.de",
+    "Tel": "0906 74-407",
+    "Fax": "0906 74-415",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb1"
+  },
+  "data": {
+    "id": "284",
+    "Gebiet": "Landratsamt Oberallgäu",
+    "parent": "Bayern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Oberallgäuer Platz 2",
+    "PLZ": "87527",
+    "Ort": "Sonthofen",
+    "EMail": "Gesundheitsamt@lra-oa.bayern.de",
+    "Tel": "08321 612-520",
+    "Fax": "08321 612-521",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb2"
+  },
+  "data": {
+    "id": "285",
+    "Gebiet": "Regionalverbandes Saarbrücken",
+    "parent": "Saarland",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Stengelstraße 10-12",
+    "PLZ": "66117",
+    "Ort": "Saarbrücken",
+    "EMail": "gesundheitsamtsbr@rvsbr.de",
+    "Tel": "0681 506-5305",
+    "Fax": "0681 506-5390",
+    "Ebene": "Kommune",
+    "Abkuerzung": "RSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb3"
+  },
+  "data": {
+    "id": "286",
+    "Gebiet": "Landkreis Merzig-Wadern",
+    "parent": "Saarland",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hochwaldstr. 44",
+    "PLZ": "66663",
+    "Ort": "Merzig",
+    "EMail": "gesundheitsamt@merzig-wadern.de",
+    "Tel": "06861 80420",
+    "Fax": "06861 80-414",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb4"
+  },
+  "data": {
+    "id": "287",
+    "Gebiet": "Landkreis Neunkirchen",
+    "parent": "Saarland",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Lindenallee 13",
+    "PLZ": "66538",
+    "Ort": "Neunkirchen",
+    "EMail": "gesundheitsamt@landkreis-neunkirchen.de",
+    "Tel": "06824 906-8830",
+    "Fax": "06824 906-8824",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb5"
+  },
+  "data": {
+    "id": "288",
+    "Gebiet": "Landkreis Saarlouis",
+    "parent": "Saarland",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Choisyring 5",
+    "PLZ": "66740",
+    "Ort": "Saarlouis",
+    "EMail": "gesundheitsamt@kreis-saarlouis.de",
+    "Tel": "06831 444-700",
+    "Fax": "06831-444-722",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb6"
+  },
+  "data": {
+    "id": "289",
+    "Gebiet": "Saarpfalz-Kreis",
+    "parent": "Saarland",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Forum 1",
+    "PLZ": "66424",
+    "Ort": "Homburg",
+    "EMail": "gesundheitsamt@saarpfalz-kreis.de",
+    "Tel": "06841 104 7170",
+    "Fax": "06841 104-7501",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb7"
+  },
+  "data": {
+    "id": "290",
+    "Gebiet": "Landkreis St. Wendel",
+    "parent": "Saarland",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Werschweilerstr 40",
+    "PLZ": "66606",
+    "Ort": "St. Wendel",
+    "EMail": "gesundheitsamt@lkwnd.de",
+    "Tel": "06851 801-5300",
+    "Fax": "06851 801-5390",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb8"
+  },
+  "data": {
+    "id": "291",
+    "Gebiet": "Bezirksamt Mitte von Berlin ",
+    "parent": "Berlin",
+    "Line2": "Abt. Stadtentwicklung, Soziales und Gesundheit",
+    "Strasse": "Kapweg 3",
+    "PLZ": "13405",
+    "Ort": "Berlin",
+    "EMail": "hygiene-umwelt@ba-mitte.berlin.de",
+    "Tel": "+49 30 9018-33208",
+    "Fax": "+49 30 9018 33254 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BMvBASSuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbb9"
+  },
+  "data": {
+    "id": "292",
+    "Gebiet": "Bezirksamt Friedrichshain-Kreuzberg von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Urbanstr. 24",
+    "PLZ": "10967",
+    "Ort": "Berlin",
+    "EMail": "hygiene@ba-fk.berlin.de",
+    "Tel": "+49 30 90298-8328",
+    "Fax": "030 902983033",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BFvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbba"
+  },
+  "data": {
+    "id": "293",
+    "Gebiet": "Bezirksamt Pankow von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Grunowstraße 8-11",
+    "PLZ": "13187",
+    "Ort": "Berlin",
+    "EMail": "",
+    "Tel": "030 9029-52869",
+    "Fax": "030 90295-2901",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BPvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbbb"
+  },
+  "data": {
+    "id": "294",
+    "Gebiet": "Bezirksamt Charlottenburg-Wilmersdorf von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hohenzollerndamm 174-177",
+    "PLZ": "10713",
+    "Ort": "Berlin",
+    "EMail": "Hygiene@charlottenburg-wilmersdorf.de",
+    "Tel": "+49 30 9029 16047",
+    "Fax": "+49 30 9029 16050",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BCvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbbc"
+  },
+  "data": {
+    "id": "295",
+    "Gebiet": "Bezirksamt Spandau von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Carl-Schurz-Str. 2-6",
+    "PLZ": "13597",
+    "Ort": "Berlin",
+    "EMail": "Ges2@ba-spandau.berlin.de",
+    "Tel": "+49 30 90279-4031",
+    "Fax": "+49 30 90279-4085",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BSvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbbd"
+  },
+  "data": {
+    "id": "296",
+    "Gebiet": "Bezirksamt Steglitz-Zehlendorf von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Robert-Lück-Straße 5",
+    "PLZ": "12169",
+    "Ort": "Berlin",
+    "EMail": "hygiene@ba-sz.berlin.de",
+    "Tel": "+49 30 90299 3624",
+    "Fax": "+49 30 90299 3373",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BSvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbbe"
+  },
+  "data": {
+    "id": "297",
+    "Gebiet": "Bezirksamt Tempelhof-Schöneberg von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Rathausstr. 27",
+    "PLZ": "12105",
+    "Ort": "Berlin",
+    "EMail": "hygiene@ba-ts.berlin.de",
+    "Tel": "+49 30 90277-7351",
+    "Fax": "+49 30 90277-7504",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BTvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbbf"
+  },
+  "data": {
+    "id": "298",
+    "Gebiet": "Bezirksamt Neukölln von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Blaschkoallee 32",
+    "PLZ": "12040",
+    "Ort": "Berlin",
+    "EMail": "geshyg@bezirksamt-neukoelln.de",
+    "Tel": "+49 30 90239-2254",
+    "Fax": "+49 30 90239-3743",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BNvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc0"
+  },
+  "data": {
+    "id": "299",
+    "Gebiet": "Bezirksamt Treptow-Köpenick von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Hans-Schmidt-Str. 16",
+    "PLZ": "12414",
+    "Ort": "Berlin",
+    "EMail": "geshum@ba-tk.berlin.de",
+    "Tel": "030 90297-4773",
+    "Fax": "030 90297-4774",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BTvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc1"
+  },
+  "data": {
+    "id": "300",
+    "Gebiet": "Bezirksamt Marzahn-Hellersdorf von Berlin",
+    "parent": "Berlin",
+    "Line2": "Abteilung Gesundheit und Soziales",
+    "Strasse": "Janusz-Korczak-Str.32",
+    "PLZ": "12627",
+    "Ort": "Berlin",
+    "EMail": "Hygiene-MH@ba-mh.berlin.de",
+    "Tel": "+49 30 90293-3639",
+    "Fax": "+ 49 30 90293-3628",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BMvBAGuS"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc2"
+  },
+  "data": {
+    "id": "301",
+    "Gebiet": "Bezirksamt Lichtenberg von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Alfred-Kowalke-Straße 24",
+    "PLZ": "10360",
+    "Ort": "Berlin",
+    "EMail": "hygiene@lichtenberg.berlin.de",
+    "Tel": "+49 30 90 296-7552",
+    "Fax": "+49 30 90 296-7553",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BLvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc3"
+  },
+  "data": {
+    "id": "302",
+    "Gebiet": "Zentrum für tuberkulosekranke und -gefährdete Menschen, Berlin ",
+    "parent": "Berlin",
+    "Line2": " Gesundheitsamt Lichtenberg ",
+    "Strasse": "Deutschmeisterstr.",
+    "PLZ": "10367",
+    "Ort": "Berlin",
+    "EMail": "",
+    "Tel": "030 5504-2433",
+    "Fax": "030 5504-4159",
+    "Ebene": "Kommune",
+    "Abkuerzung": "Zftu-MBGL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc4"
+  },
+  "data": {
+    "id": "303",
+    "Gebiet": "Bezirksamt Reinickendorf von Berlin",
+    "parent": "Berlin",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Teichstr. 65",
+    "PLZ": "13407",
+    "Ort": "Berlin",
+    "EMail": "gesundheitsamt@reinickendorf.berlin.de",
+    "Tel": "+49 30 90294-2253",
+    "Fax": "+49 30 90294-5049",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BRvBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc5"
+  },
+  "data": {
+    "id": "304",
+    "Gebiet": "Stadtverwaltung Brandenburg",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheits-, Veterinär- und Lebensmittelüberwachungsamt",
+    "Strasse": "Klosterstrasse 14",
+    "PLZ": "14770",
+    "Ort": "Brandenburg a. d. Havel",
+    "EMail": "Gesundheitsamt@Stadt-Brandenburg.de",
+    "Tel": "03381 58-5301/-5300",
+    "Fax": "03381 58-5304",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SBGVuL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc6"
+  },
+  "data": {
+    "id": "305",
+    "Gebiet": "Stadt Cottbus/S",
+    "parent": "Brandenburg",
+    "Line2": "Fachbereich 53 Gesundheit",
+    "Strasse": "Puschkinpromenade 25 (Spreegalerie)",
+    "PLZ": "3044",
+    "Ort": "Cottbus",
+    "EMail": "gesundheitsamt@cottbus.de",
+    "Tel": "0355 612 3210",
+    "Fax": "0355 612 133504",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SCF5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc7"
+  },
+  "data": {
+    "id": "306",
+    "Gebiet": "Stadt Frankfurt/Oder",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Logenstraße 6",
+    "PLZ": "15203",
+    "Ort": "Frankfurt/Oder",
+    "EMail": "infektionsschutz@frankfurt-oder.de",
+    "Tel": "",
+    "Fax": "0335 5525382",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc8"
+  },
+  "data": {
+    "id": "307",
+    "Gebiet": "Landeshauptstadt Potsdam",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Berliner Straße 150a",
+    "PLZ": "14469",
+    "Ort": "Potsdam",
+    "EMail": "Gesundheitsamt@Rathaus.Potsdam.de",
+    "Tel": "0331/289-0",
+    "Fax": "0331 289-2353",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LPG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbc9"
+  },
+  "data": {
+    "id": "308",
+    "Gebiet": "Landkreis Barnim",
+    "parent": "Brandenburg",
+    "Line2": "Dienstleistungs- und Verwaltungszentrum/ Paul Wunderlich Haus",
+    "Strasse": "Am Markt 1",
+    "PLZ": "16225",
+    "Ort": "Eberswalde",
+    "EMail": "gesundheitsamt@kvbarnim.de",
+    "Tel": "03334 214-1601",
+    "Fax": "03334 214-2601",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBDuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbca"
+  },
+  "data": {
+    "id": "309",
+    "Gebiet": "Landkreis Dahme- Spreewald",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schulweg 1B",
+    "PLZ": "15711",
+    "Ort": "Königs Wusterhausen",
+    "EMail": "Gesundheitsamt@dahme-spreewald.de",
+    "Tel": "03375 26-2145",
+    "Fax": "03375 26-2176",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbcb"
+  },
+  "data": {
+    "id": "310",
+    "Gebiet": "Landkreis Elbe-Elster",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Grochwitzer Str. 20",
+    "PLZ": "4916",
+    "Ort": "Herzberg/Elster",
+    "EMail": "gesundheitsamt@lkee.de",
+    "Tel": "03535 463101",
+    "Fax": "03535 46-3122",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbcc"
+  },
+  "data": {
+    "id": "311",
+    "Gebiet": "Landkreis Havelland",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Forststraße 45 a",
+    "PLZ": "14712",
+    "Ort": "Rathenow",
+    "EMail": "gesundheitsamt@havelland.de",
+    "Tel": "03385 551-7101",
+    "Fax": "03385 551-7100",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbcd"
+  },
+  "data": {
+    "id": "312",
+    "Gebiet": "Landkreis Märkisch- Oderland",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt FB II",
+    "Strasse": "Puschkinplatz 12",
+    "PLZ": "15306",
+    "Ort": "Seelow",
+    "EMail": "gesundheitsamt@landkreismol.de",
+    "Tel": "03346 850-6701",
+    "Fax": "03346 850-6709",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMOGFI"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbce"
+  },
+  "data": {
+    "id": "313",
+    "Gebiet": "Landkreis Oberhavel",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Havelstr. 29",
+    "PLZ": "16515",
+    "Ort": "Oranienburg",
+    "EMail": "FB-Gesundheit@oberhavel.de",
+    "Tel": "03301 6013751",
+    "Fax": "03301 601 3750",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbcf"
+  },
+  "data": {
+    "id": "314",
+    "Gebiet": "Landkreis Oberspreewald- Lausitz",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Großenhainer Str. 62",
+    "PLZ": "1968",
+    "Ort": "Senftenberg",
+    "EMail": "gesundheitsamt@osl-online.de",
+    "Tel": "+49 3573 87043-01",
+    "Fax": "+49 3573 8704310",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd0"
+  },
+  "data": {
+    "id": "315",
+    "Gebiet": "Landkreis Oder- Spree",
+    "Line2": "Gesundheitsamt",
+    "parent": "Brandenburg",
+    "Strasse": "Breitscheidstraße 7",
+    "PLZ": "15848",
+    "Ort": "Beeskow",
+    "EMail": "hygiene@l-os.de",
+    "Tel": "03366 35-2201",
+    "Fax": "03366 352298",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LOSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd1"
+  },
+  "data": {
+    "id": "316",
+    "Gebiet": "Kreisverwaltung Ostprignitz- Ruppin",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Neustädter Str. 44",
+    "PLZ": "16816",
+    "Ort": "Neuruppin",
+    "EMail": "gesundheitsamt@opr.de ",
+    "Tel": "03391 688-5300",
+    "Fax": "03391 6885302",
+    "Ebene": "Kommune",
+    "Abkuerzung": "KORG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd2"
+  },
+  "data": {
+    "id": "317",
+    "Gebiet": "Landkreis Potsdam-Mittelmark",
+    "parent": "Brandenburg",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Niemöllerstraße 1",
+    "PLZ": "14806",
+    "Ort": "Bad Belzig",
+    "EMail": "gesundheitsamt@potsdam-mittelmark.de",
+    "Tel": "0049 33841 91-297",
+    "Fax": "0049 33841 91-377",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LPFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd3"
+  },
+  "data": {
+    "id": "318",
+    "Gebiet": "Landkreis Prignitz",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bergstraße 49",
+    "PLZ": "19348",
+    "Ort": "Perleberg",
+    "EMail": "gsa@lkprignitz.de",
+    "Tel": "03876-713 500",
+    "Fax": "03876 713 550",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LPG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd4"
+  },
+  "data": {
+    "id": "319",
+    "Gebiet": "Landkreis Spree-Neiße",
+    "parent": "Brandenburg",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Heinrich- Heine- Str.1",
+    "PLZ": "3149",
+    "Ort": "Forst (Lausitz)",
+    "EMail": "gesundheitsamt@lkspn.de",
+    "Tel": "03562 986-0/-15301",
+    "Fax": "03562 986-15388",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd5"
+  },
+  "data": {
+    "id": "320",
+    "Gebiet": "Landkreis Teltow-Fläming",
+    "parent": "Brandenburg",
+    "Line2": "Dezernat II Gesundheitsamt",
+    "Strasse": "Am Nuthefließ 2",
+    "PLZ": "14943",
+    "Ort": "Luckenwalde",
+    "EMail": "gesundheitsamt@teltow-flaeming.de",
+    "Tel": "03371 608-3800",
+    "Fax": "03371 608-9050",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LTDIG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd6"
+  },
+  "data": {
+    "id": "321",
+    "Gebiet": "Landkreis Uckermark",
+    "parent": "Brandenburg",
+    "Line2": "Gesundheits- und Veterinäramt",
+    "Strasse": "Karl-Marx-Str.1",
+    "PLZ": "17291",
+    "Ort": "Prenzlau",
+    "EMail": "infektionsschutz@uckermark.de",
+    "Tel": "03984 70 1153",
+    "Fax": "03984 70 3453",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LUGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd7"
+  },
+  "data": {
+    "id": "322",
+    "Gebiet": "Stadt Rostock",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Paulstraße 22",
+    "PLZ": "18055",
+    "Ort": "Rostock",
+    "EMail": "ga.infektionsschutz@rostock.de",
+    "Tel": "0381 381-5301",
+    "Fax": "0381 381-9552",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SRG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd8"
+  },
+  "data": {
+    "id": "323",
+    "Gebiet": "Landeshauptstadt Schwerin",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Am Packhof 2-6",
+    "PLZ": "19053",
+    "Ort": "Schwerin",
+    "EMail": "gesundheitsamt@schwerin.de",
+    "Tel": "0385 545-2820",
+    "Fax": "0385 545-2829",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbd9"
+  },
+  "data": {
+    "id": "324",
+    "Gebiet": "Landkreis Mecklenburgische Seenplatte",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Platanenstraße 43",
+    "PLZ": "17033",
+    "Ort": "Neubrandenburg",
+    "EMail": "gesundheitsamt@lk-seenplatte.de",
+    "Tel": "+49 395 57087 3147",
+    "Fax": "+49 395 57087 65952",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbda"
+  },
+  "data": {
+    "id": "325",
+    "Gebiet": "Landkreis Rostock",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "der Landrat",
+    "Strasse": "Am Wall 3 - 5",
+    "PLZ": "18273",
+    "Ort": "Güstrow",
+    "EMail": "infektionsschutz@lkros.de",
+    "Tel": "03843 755 53999",
+    "Fax": "03843 755 53804",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LRdL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbdb"
+  },
+  "data": {
+    "id": "326",
+    "Gebiet": "Landkreis Vorpommern-Rügen",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Carl-Heydemann-Ring 67",
+    "PLZ": "18437",
+    "Ort": "Stralsund",
+    "EMail": " FD33@lk-vr.de",
+    "Tel": "0049 3831 357 2301",
+    "Fax": "0049 3831 357 442383",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LVFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbdc"
+  },
+  "data": {
+    "id": "327",
+    "Gebiet": "Landkreis Nordwestmecklenburg ",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "Fachdienst Öffentlicher Gesundheitsdienst",
+    "Strasse": "Rostocker Straße 76",
+    "PLZ": "23970",
+    "Ort": "Wismar",
+    "EMail": "ga@nordwestmecklenburg.de",
+    "Tel": "03841 3040-5301",
+    "Fax": "03841 3040-5399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNFÖG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbdd"
+  },
+  "data": {
+    "id": "328",
+    "Gebiet": "Landkreis Vorpommern Greifswald",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "53 Gesundheitsamt",
+    "Strasse": "Feldstraße 85a",
+    "PLZ": "17489",
+    "Ort": "Greifswald",
+    "EMail": "gesundheitsamt@kreis-vg.de",
+    "Tel": "03834 8760 2401",
+    "Fax": "03834 8760 9033",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LV5G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbde"
+  },
+  "data": {
+    "id": "329",
+    "Gebiet": "Landkreis Ludwigslust-Parchim",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "",
+    "PLZ": "19362",
+    "Ort": "Parchim",
+    "EMail": "fd53@kreis-lup.de",
+    "Tel": "03871 722-5300",
+    "Fax": "03871  722 77 5377",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbdf"
+  },
+  "data": {
+    "id": "330",
+    "Gebiet": "Stadt Chemnitz",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Am Rathaus 8",
+    "PLZ": "9111",
+    "Ort": "Chemnitz",
+    "EMail": "gesundheitsamt@stadt-chemnitz.de",
+    "Tel": "0371 488-5301",
+    "Fax": "0371 488-5399",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SCG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe0"
+  },
+  "data": {
+    "id": "331",
+    "Gebiet": "Landkreis Erzgebirgskreis",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Klosterstraße 7",
+    "PLZ": "9456",
+    "Ort": "Annaberg-Buchholz",
+    "EMail": "gsa.ifs@kreis-erz.de ",
+    "Tel": "+49 3733 831-3008",
+    "Fax": " +49 3771 277 3212",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe1"
+  },
+  "data": {
+    "id": "332",
+    "Gebiet": "Landkreis Mittelsachsen",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Frauensteiner Straße 43",
+    "PLZ": "9599",
+    "Ort": "Freiberg",
+    "EMail": "gesundheit@landkreis-mittelsachsen.de",
+    "Tel": "+49 3731 799-6249",
+    "Fax": "+49 3731 799-6822",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe2"
+  },
+  "data": {
+    "id": "333",
+    "Gebiet": "Landkreis Vogtlandkreis",
+    "parent": "Sachsen",
+    "Line2": "Landratsamt - Gesundheitsamt",
+    "Strasse": "Postplatz 5",
+    "PLZ": "8523",
+    "Ort": "Plauen",
+    "EMail": "gesundheitsamt@vogtlandkreis.de",
+    "Tel": "03741 300 3501",
+    "Fax": "03741 300 - 4071",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LVL-G"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe3"
+  },
+  "data": {
+    "id": "334",
+    "Gebiet": "Landkreis Zwickau",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Werdauer Str. 62",
+    "PLZ": "8056",
+    "Ort": "Zwickau",
+    "EMail": "gesundheitsamt@landkreis-zwickau.de",
+    "Tel": "0375 4402-22401",
+    "Fax": "0375 4402-22409",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LZG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe4"
+  },
+  "data": {
+    "id": "335",
+    "Gebiet": "Landeshauptstadt Dresden",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Ostra-Allee 9",
+    "PLZ": "1067",
+    "Ort": "Dresden",
+    "EMail": "gesundheitsamt@dresden.de",
+    "Tel": "0351 4885301",
+    "Fax": "0351 4 885303",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LDG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe5"
+  },
+  "data": {
+    "id": "336",
+    "Gebiet": "Landratsamt Bautzen",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bahnhofstr. 9",
+    "PLZ": "2625",
+    "Ort": "Bautzen",
+    "EMail": "gesundheitsamt@lra-bautzen.de",
+    "Tel": "03591 5251-53213",
+    "Fax": "03591 5251-53299",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe6"
+  },
+  "data": {
+    "id": "337",
+    "Gebiet": "Landkreis Görlitz",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Reichertstr.112",
+    "PLZ": "2826",
+    "Ort": "Görlitz",
+    "EMail": "gesundheitsamt@kreis-gr.de ",
+    "Tel": "03581 663 2601",
+    "Fax": "03581 663 627 77",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe7"
+  },
+  "data": {
+    "id": "338",
+    "Gebiet": "Landkreis Meißen",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Dresdner Str. 25",
+    "PLZ": "1662",
+    "Ort": "Meißen",
+    "EMail": "ga.infektionsschutz@kreis-meissen.de",
+    "Tel": "+49 3521  725 3455",
+    "Fax": "+49 3521  725 88054",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe8"
+  },
+  "data": {
+    "id": "339",
+    "Gebiet": "Landkreis Sächsische Schweiz - Osterzgebirge",
+    "parent": "Sachsen",
+    "Line2": "Abteilung Gesundheit",
+    "Strasse": "Schloßhof 2/4",
+    "PLZ": "1796",
+    "Ort": "Pirna",
+    "EMail": "gesundheit.infektionsschutz@landratsamt-pirna.de",
+    "Tel": "03501  515 2318",
+    "Fax": "03501  515 2309",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSS-OAG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbe9"
+  },
+  "data": {
+    "id": "340",
+    "Gebiet": "Stadt Leipzig",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Friedrich-Ebert-Str. 19a",
+    "PLZ": "4109",
+    "Ort": "Leipzig",
+    "EMail": "hygiene@leipzig.de",
+    "Tel": "0341 123-6809",
+    "Fax": "0341 123 6805",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbea"
+  },
+  "data": {
+    "id": "341",
+    "Gebiet": "Landratsamt Landkreis Leipzig",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt (Hauptsitz)",
+    "Strasse": "Stauffenbergstraße 4",
+    "PLZ": "4552",
+    "Ort": "Borna",
+    "EMail": "gesundheitsamt@lk-l.de",
+    "Tel": "+49 3433 241-2401",
+    "Fax": "+49 3433 241-7036",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LLLG("
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbeb"
+  },
+  "data": {
+    "id": "342",
+    "Gebiet": "Landratsamt Nordsachsen",
+    "parent": "Sachsen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schlosstraße 27",
+    "PLZ": "4860",
+    "Ort": "Torgau",
+    "EMail": "Infektionsmeldungen@lra-nordsachsen.de",
+    "Tel": "03421 758-6301",
+    "Fax": "03421  758 85 63 10",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbec"
+  },
+  "data": {
+    "id": "343",
+    "Gebiet": "Stadt Dessau-Roßlau",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt/Veterinärwesen und Verbaucherschutz",
+    "Strasse": "Gustav-Bergt-Straße 3",
+    "PLZ": "6862",
+    "Ort": "Dessau-Roßlau",
+    "EMail": "gesundheitsamt@dessau-rosslau.de",
+    "Tel": "0340 204-2053",
+    "Fax": "0340 204 2692590",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SDGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbed"
+  },
+  "data": {
+    "id": "344",
+    "Gebiet": "Stadt Halle (Saale)",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Fachbereich Gesundheit",
+    "Strasse": "Niemeyerstr. 1/2",
+    "PLZ": "6110",
+    "Ort": "Halle",
+    "EMail": "gesundheitsamt@halle.de",
+    "Tel": "0345 221-3220",
+    "Fax": "0345 221-3222",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SH(FG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbee"
+  },
+  "data": {
+    "id": "345",
+    "Gebiet": "Landeshauptstadt Magdeburg",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheits- und Veterinäramt",
+    "Strasse": "Lübecker Str. 32",
+    "PLZ": "39124",
+    "Ort": "Magdeburg",
+    "EMail": "gesundheitswesen@magdeburg.de",
+    "Tel": "0391 540-6001",
+    "Fax": "0391 540-6006",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMGuV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbef"
+  },
+  "data": {
+    "id": "346",
+    "Gebiet": "Altmarkkreis Salzwedel",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Karl-Marx-Str. 32",
+    "PLZ": "29410",
+    "Ort": "Salzwedel",
+    "EMail": "Gesundheitsamt@altmarkkreis-salzwedel.de ",
+    "Tel": "03901 840 570 ",
+    "Fax": "03901 840 585",
+    "Ebene": "Kommune",
+    "Abkuerzung": "ASG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf0"
+  },
+  "data": {
+    "id": "347",
+    "Gebiet": "Landkreis Anhalt- Bitterfeld",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt - Köthen (Anhalt)",
+    "Strasse": "Am Flugplatz 1",
+    "PLZ": "6366",
+    "Ort": "Köthen",
+    "EMail": "amt53@landkreis.digital",
+    "Tel": "034 96  60 17 51",
+    "Fax": "034 96  60 17 52",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LABG-K("
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf1"
+  },
+  "data": {
+    "id": "348",
+    "Gebiet": "Landkreis Börde",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Bornsche Straße 2",
+    "PLZ": "39340",
+    "Ort": "Haldensleben",
+    "EMail": "gesundheit@landkreis-boerde.de",
+    "Tel": "03904 7240-2551",
+    "Fax": "03904 7240-52667",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LBFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf2"
+  },
+  "data": {
+    "id": "349",
+    "Gebiet": "Burgenlandkreis",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schönburger Str.41",
+    "PLZ": "6618",
+    "Ort": "Naumburg",
+    "EMail": "gesundheitsamt@blk.de",
+    "Tel": "03445 731673",
+    "Fax": "03445 731675",
+    "Ebene": "Kommune",
+    "Abkuerzung": "BG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf3"
+  },
+  "data": {
+    "id": "350",
+    "Gebiet": "Landkreis Harz",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt ",
+    "Strasse": "Friedrich-Ebert-Str. 42",
+    "PLZ": "38820",
+    "Ort": "Halberstadt",
+    "EMail": "gesundheitsamt@kreis-hz.de",
+    "Tel": "03941 5970 2302",
+    "Fax": "03941 59 70-2300",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf4"
+  },
+  "data": {
+    "id": "351",
+    "Gebiet": "Landkreis Jerichower Land",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Brandenburger Str. 100",
+    "PLZ": "39307",
+    "Ort": "Genthin",
+    "EMail": "gesundheitsamt@lkjl.de",
+    "Tel": "03921 949-5300",
+    "Fax": "03921 949-9653",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LJLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf5"
+  },
+  "data": {
+    "id": "352",
+    "Gebiet": "Landkreis Mansfeld-Südharz",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Rudolf-Breitscheid-Str. 20-22",
+    "PLZ": "6526",
+    "Ort": "Sangerhausen",
+    "EMail": "",
+    "Tel": "03464 535-4400",
+    "Fax": "03464 535-4490",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LMG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf6"
+  },
+  "data": {
+    "id": "353",
+    "Gebiet": "Landkreis Saalekreis",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt SG Hygiene",
+    "Strasse": "Oberaltenburg 4b",
+    "PLZ": "6217",
+    "Ort": "Merseburg",
+    "EMail": "Gesundheitsamt@saalekreis.de",
+    "Tel": "03461 40 1700",
+    "Fax": "03461 40 1702",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSGSH"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf7"
+  },
+  "data": {
+    "id": "354",
+    "Gebiet": "Salzlandkreis",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "34 Fachdienst Gesundheit",
+    "Strasse": "",
+    "PLZ": "6400",
+    "Ort": "Bernburg ( Saale)",
+    "EMail": "gesundheit@kreis-slk.de",
+    "Tel": "03471 684-1471",
+    "Fax": "03471 684-551470",
+    "Ebene": "Kommune",
+    "Abkuerzung": "S3FG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf8"
+  },
+  "data": {
+    "id": "355",
+    "Gebiet": "Landkreis Stendal",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Wendstraße 30",
+    "PLZ": "39576",
+    "Ort": "Stendal, Hansestadt",
+    "EMail": "Gesundheitsamt@landkreis-stendal.de",
+    "Tel": "03931 607-900",
+    "Fax": "03931 607-902",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbf9"
+  },
+  "data": {
+    "id": "356",
+    "Gebiet": "Landkreis Wittenberg",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Breitscheidstraße 4",
+    "PLZ": "6886",
+    "Ort": "Luth. Wittenberg",
+    "EMail": "gesundheitsamt@landkreis-wittenberg.de",
+    "Tel": "03491 479-348",
+    "Fax": "03491 479-351",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbfa"
+  },
+  "data": {
+    "id": "357",
+    "Gebiet": "Landeshauptstadt Erfurt",
+    "parent": "Thüringen",
+    "Line2": "Amt für Soziales und Gesundheit",
+    "Strasse": "Juri-Gagarin-Ring 150",
+    "PLZ": "99084",
+    "Ort": "Erfurt",
+    "EMail": "infektionsschutz@erfurt.de",
+    "Tel": "0361 655-4201",
+    "Fax": "0361 655-4259",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEAfSuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbfb"
+  },
+  "data": {
+    "id": "358",
+    "Gebiet": "Stadt Gera",
+    "parent": "Thüringen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Gagarinstraße 68",
+    "PLZ": "7545",
+    "Ort": "Gera",
+    "EMail": "gesundheit@gera.de",
+    "Tel": "0365 838 3501",
+    "Fax": "0365 838 3505",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SGFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbfc"
+  },
+  "data": {
+    "id": "359",
+    "Gebiet": "Stadtverwaltung Jena",
+    "parent": "Thüringen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Lutherplatz 3",
+    "PLZ": "7743",
+    "Ort": "Jena",
+    "EMail": "gesundheitsamt@jena.de",
+    "Tel": "03641 493-136",
+    "Fax": "03641 493-127",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SJFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbfd"
+  },
+  "data": {
+    "id": "360",
+    "Gebiet": "Stadtverwaltung Suhl",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Friedrich-König-Str. 5",
+    "PLZ": "98527",
+    "Ort": "Suhl",
+    "EMail": "gesundheitsamt@stadtsuhl.de",
+    "Tel": "03681 742-815",
+    "Fax": "03681 742-843",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbfe"
+  },
+  "data": {
+    "id": "361",
+    "Gebiet": "Stadtverwaltung Weimar",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Markt 13/14",
+    "PLZ": "99423",
+    "Ort": "Weimar",
+    "EMail": "gesundheitsamt@stadtweimar.de",
+    "Tel": "03643 762-752",
+    "Fax": "03643 762-755",
+    "Ebene": "Kommune",
+    "Abkuerzung": "SWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fbff"
+  },
+  "data": {
+    "id": "362",
+    "Gebiet": "Landkreis Eichsfeld",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Aegidienstr. 24",
+    "PLZ": "37308",
+    "Ort": "Heilbad Heiligenstadt",
+    "EMail": "gesundheitsamt@kreis-eic.de",
+    "Tel": "03606 650-5300",
+    "Fax": "03606 650-9022",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LEG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc00"
+  },
+  "data": {
+    "id": "363",
+    "Gebiet": "Landratsamt Nordhausen",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Behringstr. 3",
+    "PLZ": "99734",
+    "Ort": "Nordhausen",
+    "EMail": "gesundheitswesen@LRANDH.THUERINGEN.de",
+    "Tel": "03631 911 5400",
+    "Fax": "03631 911 5449",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LNG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc01"
+  },
+  "data": {
+    "id": "364",
+    "Gebiet": "Landratsamt Wartburgkreis",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Erzberger Allee 14",
+    "PLZ": "36433",
+    "Ort": "Bad Salzungen",
+    "EMail": "gesundheitsamt@wartburgkreis.de",
+    "Tel": "03695 617410",
+    "Fax": "03695 617499 ",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc02"
+  },
+  "data": {
+    "id": "365",
+    "Gebiet": "Landratsamt Unstrut-Hainich-Kreis",
+    "parent": "Thüringen",
+    "Line2": "FD Gesundheit",
+    "Strasse": "Lindenbühl 28/29",
+    "PLZ": "99974",
+    "Ort": "Mühlhausen",
+    "EMail": "gesundheitsamt@lrauh.thueringen.de",
+    "Tel": "03601 802-382",
+    "Fax": "03601 802-383",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LUFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc03"
+  },
+  "data": {
+    "id": "366",
+    "Gebiet": "Landratsamt Kyffhäuserkreis",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Edmund-König-Platz 7",
+    "PLZ": "99706",
+    "Ort": "Sondershausen",
+    "EMail": "gsa@kyffhaeuser.de",
+    "Tel": "03632 741-471",
+    "Fax": "03632 741-472",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LKG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc04"
+  },
+  "data": {
+    "id": "367",
+    "Gebiet": "Landratsamt Schmalkalden-Meiningen",
+    "parent": "Thüringen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Obertshäuser Platz 1",
+    "PLZ": "98617",
+    "Ort": "Meiningen",
+    "EMail": "hygiene@lra-sm.de",
+    "Tel": "+49 3693 485 8739",
+    "Fax": "+49 3693 485 8273",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc05"
+  },
+  "data": {
+    "id": "368",
+    "Gebiet": "Landratsamt Gotha",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Schützenallee 31",
+    "PLZ": "99867",
+    "Ort": "Gotha",
+    "EMail": "Gesundheit@kreis-gth.de",
+    "Tel": "03621 214-634",
+    "Fax": "03621 214-665",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc06"
+  },
+  "data": {
+    "id": "369",
+    "Gebiet": "Landratsamt Sömmerda",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Wielandstr. 4",
+    "PLZ": "99610",
+    "Ort": "Sömmerda",
+    "EMail": "gesundheitsamt@lra-soemmerda.de",
+    "Tel": "03634 354-781",
+    "Fax": "03634 354-780",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc07"
+  },
+  "data": {
+    "id": "370",
+    "Gebiet": "Landratsamt Hildburghausen",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Wiesenstr. 18",
+    "PLZ": "98646",
+    "Ort": "Hildburghausen",
+    "EMail": "Hygiene@lrahbn.thueringen.de",
+    "Tel": "03685 445-416",
+    "Fax": "03685 445-501",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LHG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc08"
+  },
+  "data": {
+    "id": "371",
+    "Gebiet": "Landratsamt Ilm-Kreis",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Ritterstr. 14",
+    "PLZ": "99310",
+    "Ort": "Arnstadt",
+    "EMail": "ges@ilm-kreis.de",
+    "Tel": "03628 738-501",
+    "Fax": "03628 738-503",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LIG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc09"
+  },
+  "data": {
+    "id": "372",
+    "Gebiet": "Landratsamt Weimarer Land",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bahnhofstr. 28",
+    "PLZ": "99510",
+    "Ort": "Apolda",
+    "EMail": "post.gesundheitsamt@wl.thueringen.de",
+    "Tel": "03644 540-580",
+    "Fax": "03644 540-589",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LWLG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc0a"
+  },
+  "data": {
+    "id": "373",
+    "Gebiet": "Landratsamt Sonneberg",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Bahnhofstr. 66",
+    "PLZ": "96515",
+    "Ort": "Sonneberg",
+    "EMail": "gesundheitsamt@lkson.de",
+    "Tel": "03675 871 247",
+    "Fax": "03675 871 457",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc0b"
+  },
+  "data": {
+    "id": "374",
+    "Gebiet": "Landratsamt Saalfeld-Rudolstadt",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Rainweg 81",
+    "PLZ": "7318",
+    "Ort": "Saalfeld",
+    "EMail": "gesundheitsamt@kreis-slf.de",
+    "Tel": "03671 823-674",
+    "Fax": "03671 823-688",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc0c"
+  },
+  "data": {
+    "id": "375",
+    "Gebiet": "Landratsamt Saale-Holzland-Kreis",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Postfach 13 10",
+    "PLZ": "7602",
+    "Ort": "Eisenberg",
+    "EMail": "ga@lrashk.thueringen.de",
+    "Tel": "036691 70-833",
+    "Fax": "036691 70-753",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc0d"
+  },
+  "data": {
+    "id": "376",
+    "Gebiet": "Landratsamt Saale-Orla-Kreis",
+    "parent": "Thüringen",
+    "Line2": "Fachdienst Amtsärztlicher Dienst",
+    "Strasse": "Oschitzer Str. 4",
+    "PLZ": "7907",
+    "Ort": "Schleiz",
+    "EMail": "gesundheit@lrasok.thueringen.de",
+    "Tel": "03663 488-590",
+    "Fax": "03663 488.491",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LSFAD"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc0e"
+  },
+  "data": {
+    "id": "377",
+    "Gebiet": "Landratsamt Greiz",
+    "parent": "Thüringen",
+    "Line2": "Gesundheitsamt",
+    "Strasse": "Dr.-Rathenau-Platz 11",
+    "PLZ": "7973",
+    "Ort": "Greiz",
+    "EMail": "hygiene@landkreis-greiz.de",
+    "Tel": "+49 3661 876-500",
+    "Fax": "+49 3661 876-77500",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc0f"
+  },
+  "data": {
+    "id": "378",
+    "Gebiet": "Landratsamt Altenburger Land",
+    "parent": "Thüringen",
+    "Line2": "Fachdienst Gesundheit",
+    "Strasse": "Lindenaustr. 31",
+    "PLZ": "4600",
+    "Ort": "Altenburg",
+    "EMail": "gesundheit@altenburgerland.de",
+    "Tel": "+49 3447 586-822",
+    "Fax": "+49 3447 586-844",
+    "Ebene": "Kommune",
+    "Abkuerzung": "LALFG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc10"
+  },
+  "data": {
+    "id": "379",
+    "Gebiet": "Brandenburg",
+    "parent": "Brandenburg",
+    "Line2": "Landesamt für Arbeitsschutz, Verbraucherschutz und Gesundheit",
+    "Strasse": "Großbeerenstr. 181-183",
+    "PLZ": "14482",
+    "Ort": "Potsdam",
+    "EMail": "gesundheit.office@lavg.brandenburg.de",
+    "Tel": "+49 331 8683 - 800",
+    "Fax": "+49 331 27548-1835",
+    "Ebene": "Land",
+    "Abkuerzung": "LAVG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc11"
+  },
+  "data": {
+    "id": "383",
+    "Gebiet": "Brandenburg",
+    "parent": "Brandenburg",
+    "Line2": "Ministerium für Soziales, Gesundheit, Integration und Verbraucherschutz des Landes Brandenburg",
+    "Strasse": "Henning-von-Tresckow-Straße 2-13",
+    "PLZ": "14467",
+    "Ort": "Potsdam",
+    "EMail": "poststelle@msgiv.brandenburg.de",
+    "Tel": "+49 331 866-0",
+    "Fax": "+49 331 866-5108",
+    "Ebene": "Land",
+    "Abkuerzung": "MSGIV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc12"
+  },
+  "data": {
+    "id": "380",
+    "Gebiet": "Berlin",
+    "parent": "Berlin",
+    "Line2": "Landesamt für Gesundheit und Soziales",
+    "Strasse": "Turmstr. 21",
+    "PLZ": "10559",
+    "Ort": "Berlin",
+    "EMail": "poststelle@lageso.berlin.de",
+    "Tel": "(030) 90229-0",
+    "Fax": "/",
+    "Ebene": "Land",
+    "Abkuerzung": "LAGESO"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc13"
+  },
+  "data": {
+    "id": "384",
+    "Gebiet": "Berlin",
+    "parent": "Berlin",
+    "Line2": "Senatsverwaltung für Wissenschaft, Gesundheit, Pflege und Gleichstellung",
+    "Strasse": "Oranienstraße 106",
+    "PLZ": "10969",
+    "Ort": "Berlin",
+    "EMail": "poststelle@lageso.berlin.de",
+    "Tel": "(030) 9028-0",
+    "Fax": "(030) 9028-3102",
+    "Ebene": "Land",
+    "Abkuerzung": "SfWGPuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc14"
+  },
+  "data": {
+    "id": "381",
+    "Gebiet": "Mecklenburg-Vorpommern",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "Landesamt für Gesundheit und Soziales",
+    "Strasse": "Gertrudenstr. 11",
+    "PLZ": "18057",
+    "Ort": "Rostock",
+    "EMail": "poststelle.zentral@lagus.mv-regierung.de",
+    "Tel": "0381 331-59000",
+    "Fax": "0381 33159045",
+    "Ebene": "Land",
+    "Abkuerzung": "LAGUS"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc15"
+  },
+  "data": {
+    "id": "385",
+    "Gebiet": "Mecklenburg-Vorpommern",
+    "parent": "Mecklenburg-Vorpommern",
+    "Line2": "Ministerium für Soziales, Gesundheit und Sport",
+    "Strasse": "Werderstraße 124",
+    "PLZ": "19055",
+    "Ort": "Schwerin",
+    "EMail": "poststelle@sm.mv-regierung.de",
+    "Tel": "0385-588 0",
+    "Fax": "0385-588 9709",
+    "Ebene": "Land",
+    "Abkuerzung": "MfSGS"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc16"
+  },
+  "data": {
+    "id": "382",
+    "Gebiet": "Schleswig-Holstein",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Ministerium für Soziales, Gesundheit, Jugend, Familie und Senioren",
+    "Strasse": "Adolf-Westphal-Str. 4",
+    "PLZ": "24143",
+    "Ort": "Kiel",
+    "EMail": "Poststelle@sozmi.landsh.de",
+    "Tel": "0431 988-0",
+    "Fax": "0431 988-5416",
+    "Ebene": "Land",
+    "Abkuerzung": "LAGUS"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc17"
+  },
+  "data": {
+    "id": "386",
+    "Gebiet": "Schleswig-Holstein",
+    "parent": "Schleswig-Holstein",
+    "Line2": "Landesamt für soziale Dienste",
+    "Strasse": "Steinmetzstraße 1-11",
+    "PLZ": "24534",
+    "Ort": "Neumünster",
+    "EMail": "post.nms@lasd.landsh.de",
+    "Tel": "04321 913-5",
+    "Fax": "04321 13338",
+    "Ebene": "Land",
+    "Abkuerzung": "LfsD"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc18"
+  },
+  "data": {
+    "id": "387",
+    "Gebiet": "Hamburg",
+    "parent": "Hamburg",
+    "Line2": "Behörde für Arbeit, Gesundheit, Soziales, Familie und Integration",
+    "Strasse": "Steinmetzstraße 1-11",
+    "PLZ": "24534",
+    "Ort": "Neumünster",
+    "EMail": "poststelle@soziales.hamburg.de",
+    "Tel": "(040) 42863-0",
+    "Fax": "(040) 4279-63030",
+    "Ebene": "Land",
+    "Abkuerzung": "BfAGSFuI"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc19"
+  },
+  "data": {
+    "id": "388",
+    "Gebiet": "Niedersachsen",
+    "parent": "Niedersachsen",
+    "Line2": "Ministerium für Soziales, Gesundheit und Gleichstellung",
+    "Strasse": "Hannah-Arendt-Platz 2",
+    "PLZ": "30159",
+    "Ort": "Hannover",
+    "EMail": "office@gesundheit.bremen.de",
+    "Tel": "(0511) 120-0",
+    "Fax": "(0511) 120-4296",
+    "Ebene": "Land",
+    "Abkuerzung": "MfSGuG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc1a"
+  },
+  "data": {
+    "id": "389",
+    "Gebiet": "Niedersachsen",
+    "parent": "Niedersachsen",
+    "Line2": "Niedersächsisches Landesgesundheitsamt Standort Hannover",
+    "Strasse": "Roesebeckstr. 4-6",
+    "PLZ": "30449",
+    "Ort": "Hannover",
+    "EMail": "/",
+    "Tel": "0511/4505-0",
+    "Fax": "0511/4505-140",
+    "Ebene": "Land",
+    "Abkuerzung": "NLGA"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc1b"
+  },
+  "data": {
+    "id": "390",
+    "Gebiet": "Niedersachsen",
+    "parent": "Niedersachsen",
+    "Line2": "Niedersächsisches Landesgesundheitsamt Standort Aurich",
+    "Strasse": "Lüchtenburger Weg 24",
+    "PLZ": "26603",
+    "Ort": "Aurich",
+    "EMail": "poststelle.aurich@nlga.niedersachsen.de",
+    "Tel": "04941/9171-0",
+    "Fax": "04941/9171-10",
+    "Ebene": "Land",
+    "Abkuerzung": "NLGA"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc1c"
+  },
+  "data": {
+    "id": "391",
+    "Gebiet": "Nordrhein-Westfalen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Ministerium für Arbeit Gesundheit und Soziales",
+    "Strasse": "Fürstenwall 25",
+    "PLZ": "40219",
+    "Ort": "Düsseldorf",
+    "EMail": "https://www.mags.nrw/kontakt",
+    "Tel": "(02 11) 85 55",
+    "Fax": "/",
+    "Ebene": "Land",
+    "Abkuerzung": "MAGS"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc1d"
+  },
+  "data": {
+    "id": "392",
+    "Gebiet": "Nordrhein-Westfalen",
+    "parent": "Nordrhein-Westfalen",
+    "Line2": "Landeszentrum Gesundheit Nordrhein-Westfalen",
+    "Strasse": "Gesundheitscampus 10",
+    "PLZ": "44801",
+    "Ort": "Bochum",
+    "EMail": "https://www.lzg.nrw.de/service/ansprech/index.html",
+    "Tel": "0234 91535-0",
+    "Fax": "0234 91535-1694",
+    "Ebene": "Land",
+    "Abkuerzung": "MAGS"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc1e"
+  },
+  "data": {
+    "id": "393",
+    "Gebiet": "Saarland",
+    "parent": "Saarland",
+    "Line2": "Ministerium für Soziales, Gesundheit, Frauen und Familie",
+    "Strasse": "Franz-Josef-Röder-Straße 23",
+    "PLZ": "66119",
+    "Ort": "Saarbrücken",
+    "EMail": "buergerbeauftragte@soziales.saarland.de",
+    "Tel": "+49 681 501-3410",
+    "Fax": "/",
+    "Ebene": "Land",
+    "Abkuerzung": "MSGFF"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc1f"
+  },
+  "data": {
+    "id": "394",
+    "Gebiet": "Rheinland-Pfalz",
+    "parent": "Rheinland-Pfalz",
+    "Line2": "Landesamt für Soziales, Jugend und Versorgung ",
+    "Strasse": "Mittlere Bleiche 61",
+    "PLZ": "55116",
+    "Ort": "Mainz",
+    "EMail": "poststelle(at)mwg.rlp.de",
+    "Tel": "06131 16-0",
+    "Fax": "06131 16-29 97",
+    "Ebene": "Land",
+    "Abkuerzung": "MWG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc20"
+  },
+  "data": {
+    "id": "395",
+    "Gebiet": "Hessen",
+    "parent": "Hessen",
+    "Line2": "Ministerium für Soziales und Integration",
+    "Strasse": "Sonnenberger Str. 2/2a",
+    "PLZ": "65193",
+    "Ort": "Wiesbaden",
+    "EMail": "https://soziales.hessen.de/kontakt",
+    "Tel": "0611-3219 - 0",
+    "Fax": "/",
+    "Ebene": "Land",
+    "Abkuerzung": "LSJV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc21"
+  },
+  "data": {
+    "id": "395",
+    "Gebiet": "Thüringen",
+    "parent": "Thüringen",
+    "Line2": "Ministerium für Arbeit, Soziales, Gesundheit, Frauen und Familie",
+    "Strasse": "Werner-Seelenbinder-Straße 6",
+    "PLZ": "99096",
+    "Ort": "Erfurt",
+    "EMail": "poststelle@tmasgff.thueringen.de",
+    "Tel": "0361 57100",
+    "Fax": "0361 573811800",
+    "Ebene": "Land",
+    "Abkuerzung": "TSMASGFF"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc22"
+  },
+  "data": {
+    "id": "396",
+    "Gebiet": "Thüringen",
+    "parent": "Thüringen",
+    "Line2": "Landesamt für Verbraucherschutz",
+    "Strasse": "Tennstedter Str. 8/9",
+    "PLZ": "99947",
+    "Ort": "Bad Langensalza",
+    "EMail": "Poststelle@tlv.thueringen.de",
+    "Tel": "0361 57-3815000",
+    "Fax": "0361 57-3815010",
+    "Ebene": "Land",
+    "Abkuerzung": "TLLV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc23"
+  },
+  "data": {
+    "id": "397",
+    "Gebiet": "Sachsen-Anhalt",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Ministium für Arbeit, Soziales, Gesundheit und Gleichstellung",
+    "Strasse": "Turmschanzenstraße 25",
+    "PLZ": "39114",
+    "Ort": "Magdeburg",
+    "EMail": "ms-presse@ms.sachsen-anhalt.de",
+    "Tel": "0391/567-4612",
+    "Fax": "0391/567-4622",
+    "Ebene": "Land",
+    "Abkuerzung": "MAZGG"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc24"
+  },
+  "data": {
+    "id": "398",
+    "Gebiet": "Sachsen-Anhalt",
+    "parent": "Sachsen-Anhalt",
+    "Line2": "Landesamt für Verbraucherschutz",
+    "Strasse": "Kühnauer Str. 70",
+    "PLZ": "39114",
+    "Ort": "Dessau-Roßlau",
+    "EMail": "LAV-Poststelle@sachsen-anhalt.de",
+    "Tel": "(0340) 6501-150",
+    "Fax": "(0340) 6501-294",
+    "Ebene": "Land",
+    "Abkuerzung": "LAV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc25"
+  },
+  "data": {
+    "id": "399",
+    "Gebiet": "Sachsen",
+    "parent": "Sachsen",
+    "Line2": "Staatsministerium für Soziales und Gesellschaftlichen Zusammenhalt",
+    "Strasse": "Albertstraße 10",
+    "PLZ": "01097",
+    "Ort": "Dresden",
+    "EMail": "poststelle@sms.sachsen.de",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "Land",
+    "Abkuerzung": "SSGZ"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc26"
+  },
+  "data": {
+    "id": "3991",
+    "Gebiet": "Sachsen",
+    "parent": "Sachsen",
+    "Line2": "Landesuntersuchungsanstalt für das Gesundheits- und Veterinärwesen",
+    "Strasse": "Jägerstraße 8/10",
+    "PLZ": "01099",
+    "Ort": "Dresden",
+    "EMail": "poststelle@sms.sachsen.de",
+    "Tel": "(0351) 8 14 40",
+    "Fax": "(0351) 81 44 10 20",
+    "Ebene": "Land",
+    "Abkuerzung": "LUA"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc27"
+  },
+  "data": {
+    "id": "400",
+    "Gebiet": "Baden-Württemberg",
+    "parent": "Baden-Württemberg",
+    "Line2": "Ministerium für Soziales, Gesundheit und Integration",
+    "Strasse": "Else-Josenhans-Straße 6",
+    "PLZ": "70173",
+    "Ort": "Stuttgart",
+    "EMail": "poststelle@sm.bwl.de",
+    "Tel": "0711 123-0",
+    "Fax": "/",
+    "Ebene": "Land",
+    "Abkuerzung": "SM"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc28"
+  },
+  "data": {
+    "id": "401",
+    "Gebiet": "Baden-Württemberg",
+    "parent": "Baden-Württemberg",
+    "Line2": "Landesgesundheitsamt Baden-Württemberg",
+    "Strasse": "Nordbahnhofstr. 135",
+    "PLZ": "70191",
+    "Ort": "Stuttgart",
+    "EMail": "/",
+    "Tel": "+49 711 904-35000",
+    "Fax": "+49 711 904-35010",
+    "Ebene": "Land",
+    "Abkuerzung": "LGA"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc29"
+  },
+  "data": {
+    "id": "402",
+    "Gebiet": "Bayern",
+    "parent": "Bayern",
+    "Line2": "Bayerisches Staatsministerium für Gesundheit und Pflege",
+    "Strasse": "Haidenaupl. 1",
+    "PLZ": "81667",
+    "Ort": "München",
+    "EMail": "poststelle@stmgp.bayern.de",
+    "Tel": "+49 89 540233-0",
+    "Fax": "/",
+    "Ebene": "Land",
+    "Abkuerzung": "STMGP"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc2a"
+  },
+  "data": {
+    "id": "4022",
+    "Gebiet": "Bayern",
+    "parent": "Bayern",
+    "Line2": "Bayerische Landesamt für Gesundheit und Lebensmittelsicherheit",
+    "Strasse": "Eggenreuther Weg 43",
+    "PLZ": "91058",
+    "Ort": "Erlangen",
+    "EMail": "poststelle@lgl.bayern.de",
+    "Tel": "09131 6808-0",
+    "Fax": "09131 6808-2102",
+    "Ebene": "Land",
+    "Abkuerzung": "LGL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc2b"
+  },
+  "data": {
+    "id": "4023",
+    "Gebiet": "Bayern",
+    "parent": "Bayern",
+    "Line2": " Akademie für Gesundheit und Lebensmittelsicherheit",
+    "Strasse": "Eggenreuther Weg 43",
+    "PLZ": "91058",
+    "Ort": "Erlangen",
+    "EMail": "poststelle@lgl.bayern.de",
+    "Tel": "09131 6808-0",
+    "Fax": "09131 6808-2102",
+    "Ebene": "Land",
+    "Abkuerzung": "LGL"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc2c"
+  },
+  "data": {
+    "id": "403",
+    "Gebiet": "Deutschland",
+    "parent": "Bund",
+    "Line2": "Bundesinstitut für Impfstoffe und biomedizinische Arzneimittel",
+    "Strasse": "Paul-Ehrlich-Str. 51-59",
+    "PLZ": "63225",
+    "Ort": "Langen",
+    "EMail": "pei@pei.de",
+    "Tel": "+49 6103 77 0",
+    "Fax": "030/18441-4900",
+    "Ebene": "Bund",
+    "Abkuerzung": "PEI"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc2d"
+  },
+  "data": {
+    "id": "404",
+    "Gebiet": "Deutschland",
+    "parent": "Bund",
+    "Line2": "Robert Koch Institut",
+    "Strasse": "Nordufer 20",
+    "PLZ": "13353",
+    "Ort": "Berlin",
+    "EMail": "https://www.rki.de/SiteGlobals/Forms/Zentrale/ZentraleIntegrator.html",
+    "Tel": "030 18754 0",
+    "Fax": "030 18754 2328",
+    "Ebene": "Bund",
+    "Abkuerzung": "RKI"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc2e"
+  },
+  "data": {
+    "id": "405",
+    "Gebiet": "Deutschland",
+    "parent": "Bund",
+    "Line2": "Bundesministerium für Gesundheit",
+    "Strasse": "Friedrichstraße 108",
+    "PLZ": "10117",
+    "Ort": "Berlin",
+    "EMail": "poststelle@bmg.bund.de",
+    "Tel": "030/18441-0",
+    "Fax": "030/18441-4900",
+    "Ebene": "Bund",
+    "Abkuerzung": "RKI"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc2f"
+  },
+  "data": {
+    "id": "406",
+    "Gebiet": "Deutschland",
+    "parent": "Bund",
+    "Line2": "Bundesinstitut für Arzneimittel und Medizinprodukte",
+    "Strasse": "Kurt-Georg-Kiesinger-Allee 3",
+    "PLZ": "53175",
+    "Ort": "Bonn",
+    "EMail": "poststelle@bfarm.de",
+    "Tel": "+49 (0)228 99 307-0",
+    "Fax": "+49 (0)228 99 307-5207",
+    "Ebene": "Bund",
+    "Abkuerzung": "BfArM"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc31"
+  },
+  "data": {
+    "id": "407",
+    "Gebiet": "Deutschland",
+    "parent": "Bund",
+    "Line2": "Bundeszentrale für gesundheitliche Aufklärung",
+    "Strasse": "Maarweg 149-161",
+    "PLZ": "50825",
+    "Ort": "Köln",
+    "EMail": "poststelle@bzga.de",
+    "Tel": "0221  8992-0",
+    "Fax": "0221  8992-300",
+    "Ebene": "Bund",
+    "Abkuerzung": "BZGA"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc32"
+  },
+  "data": {
+    "id": "408",
+    "Gebiet": "Bremen",
+    "parent": "Bremen",
+    "Line2": "Senatorin für Gesundheit, Frauen, Verbraucherschutz",
+    "Strasse": "Contrescarpe 72",
+    "PLZ": "28195",
+    "Ort": "Bremen",
+    "EMail": "office@gesundheit.bremen.de",
+    "Tel": "+49 421 361 0",
+    "Fax": "/",
+    "Ebene": "Land",
+    "Abkuerzung": "SfGFV"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc33"
+  },
+  "data": {
+    "id": "Brandenburg",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc34"
+  },
+  "data": {
+    "id": "Berlin",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc35"
+  },
+  "data": {
+    "id": "Schleswig-Holstein",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc36"
+  },
+  "data": {
+    "id": "Hamburg",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc37"
+  },
+  "data": {
+    "id": "Niedersachsen",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc38"
+  },
+  "data": {
+    "id": "Bremen",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc39"
+  },
+  "data": {
+    "id": "Nordrhein-Westfalen",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc3a"
+  },
+  "data": {
+    "id": "Hessen",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc3b"
+  },
+  "data": {
+    "id": "Rheinland-Pfalz",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc3c"
+  },
+  "data": {
+    "id": "Baden-Württemberg",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc3d"
+  },
+  "data": {
+    "id": "Bayern",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc3e"
+  },
+  "data": {
+    "id": "Saarland",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc3f"
+  },
+  "data": {
+    "id": "Mecklenburg-Vorpommern",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc40"
+  },
+  "data": {
+    "id": "Sachsen",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc41"
+  },
+  "data": {
+    "id": "Sachsen-Anhalt",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc42"
+  },
+  "data": {
+    "id": "Thüringen",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "625d3854dd0420dfb2f6fc43"
+  },
+  "data": {
+    "id": "Bund",
+    "Gebiet": "/",
+    "parent": "/",
+    "Line2": "/",
+    "Strasse": "/",
+    "PLZ": "/",
+    "Ort": "/",
+    "EMail": "/",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "/",
+    "Abkuerzung": "/"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b955"
+  },
+  "data": {
+    "id": "409",
+    "Gebiet": "Deutschland",
+    "Line2": "Bundesministerium für Ernährung und Landwirtschaft",
+    "parent": "Bund",
+    "Strasse": "Rochusstraße 1",
+    "PLZ": "53123",
+    "Ort": "Bonn",
+    "EMail": "poststelle@bmel.bund.de",
+    "Tel": "0228/99529-0",
+    "Fax": "0228/99529-4262",
+    "Ebene": "Bund",
+    "Abkuerzung": "BMEL"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b956"
+  },
+  "data": {
+    "id": "410",
+    "Gebiet": "Deutschland",
+    "Line2": "Bundesministerium des Inneren und für Heimat",
+    "parent": "Bund",
+    "Strasse": "Alt-Moabit 140",
+    "PLZ": "10557",
+    "Ort": "Berlin",
+    "EMail": "/",
+    "Tel": "0228 99681-0",
+    "Fax": "/",
+    "Ebene": "Bund",
+    "Abkuerzung": "BMI"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b957"
+  },
+  "data": {
+    "id": "411",
+    "Gebiet": "Deutschland",
+    "Line2": "Bundesministerium für Arbeit und Soziales",
+    "parent": "Bund",
+    "Strasse": "Wilhelmstraße 49",
+    "PLZ": "10117",
+    "Ort": "Berlin",
+    "EMail": "info@bmas.bund.de",
+    "Tel": "03018 5270",
+    "Fax": "03018 5271830",
+    "Ebene": "Bund",
+    "Abkuerzung": "BMAS"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b958"
+  },
+  "data": {
+    "id": "412",
+    "Gebiet": "Deutschland",
+    "Line2": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+    "parent": "Bund",
+    "Strasse": "Stresemannstraße 128-130",
+    "PLZ": "10117",
+    "Ort": "Berlin",
+    "EMail": "poststelle@bmuv.bund.de",
+    "Tel": "03018305-0",
+    "Fax": "022899305-3225",
+    "Ebene": "Bund",
+    "Abkuerzung": "BMUV"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b959"
+  },
+  "data": {
+    "id": "412",
+    "Gebiet": "Deutschland",
+    "Line2": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+    "parent": "Bund",
+    "Strasse": "Stresemannstraße 128-130",
+    "PLZ": "10117",
+    "Ort": "Berlin",
+    "EMail": "poststelle@bmuv.bund.de",
+    "Tel": "03018305-0",
+    "Fax": "022899305-3225",
+    "Ebene": "Bund",
+    "Abkuerzung": "BMUV"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b95a"
+  },
+  "data": {
+    "id": "413",
+    "Gebiet": "Deutschland",
+    "Line2": "Bundesamt für Risikobewertung",
+    "parent": "Bund",
+    "Strasse": "Max-Dohrn-Str. 8-10",
+    "PLZ": "10589",
+    "Ort": "Berlin",
+    "EMail": "bfr@bfr.bund.de",
+    "Tel": "/",
+    "Fax": "/",
+    "Ebene": "Bund",
+    "Abkuerzung": "BfR"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b95b"
+  },
+  "data": {
+    "id": "414",
+    "Gebiet": "Deutschland",
+    "Line2": "Bundesamt für Bevölkerungsschutz und Katastrophenschutz",
+    "parent": "Bund",
+    "Strasse": "Provinzialstraße 93",
+    "PLZ": "53127",
+    "Ort": "Bonn",
+    "EMail": "bfr@bfr.bund.de",
+    "Tel": "0228 99 550-0",
+    "Fax": "/",
+    "Ebene": "Bund",
+    "Abkuerzung": "BBK"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b95c"
+  },
+  "data": {
+    "id": "415",
+    "Gebiet": "Deutschland",
+    "Line2": "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
+    "parent": "Bund",
+    "Strasse": "Friedrich-Henkel-Weg 1-25",
+    "PLZ": "44149",
+    "Ort": "Dortmund",
+    "EMail": "poststelle@baua.bund.de",
+    "Tel": "+49(0)2319071-0",
+    "Fax": "+49(0)2319071-2454",
+    "Ebene": "Bund",
+    "Abkuerzung": "BAuA"
+  }
+},{
+  "_id": {
+    "$oid": "627e2e3686d093faa695b95d"
+  },
+  "data": {
+    "id": "416",
+    "Gebiet": "Deutschland",
+    "Line2": "Umweltbundesamt",
+    "parent": "Bund",
+    "Strasse": "Wörlitzer Platz 1",
+    "PLZ": "06844",
+    "Ort": "Dessau-Roßlau",
+    "EMail": "buergerservice@uba.de",
+    "Tel": "+49-340-2103-2416",
+    "Fax": "/",
+    "Ebene": "Bund",
+    "Abkuerzung": "UBA"
+  }
+}]

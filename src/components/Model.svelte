@@ -12,8 +12,10 @@
     export let allGebiete = []
     let selectedNode
     let collectionCompoundNodes;
-    let urlEdges = 'http://localhost:5001/api/fullEdgeList';
-    let urlNodes = 'http://localhost:5001/api/fullList'
+    // let urlEdges = 'http://localhost:5001/api/fullEdgeList';
+    // let urlNodes = 'http://localhost:5001/api/fullList'
+    let urlEdges = 'https://oegdatlas.herokuapp.com/api/fullEdgeList';
+    let urlNodes = 'https://oegdatlas.herokuapp.com/api/fullList'
     
     
         let items = [
@@ -452,7 +454,8 @@
 
         (async () => {
             let edge= { "data": { "id": id1, "source": event.detail.data_node1['data']['id'], "target":  event.detail.data_node2['data']['id'] } }
-            const rawResponse = await fetch('http://localhost:5001/api/post-edge', {
+            //const rawResponse = await fetch('http://localhost:5001/api/post-edge', {
+            const rawResponse = await fetch('https://oegdatlas.herokuapp.com/api/post-edge', {    
                 method: 'POST',
                 headers: {
                 'Content-Type': 'application/json',
@@ -471,7 +474,8 @@
         let ele
         if(selectedNode != null){
             console.log(selectedNode)
-            let theUrl =`http://localhost:5001/api/fetch-by-name/?line2=${selectedNode[0]}&gebiet=${selectedNode[1]}`
+            //let theUrl =`http://localhost:5001/api/fetch-by-name/?line2=${selectedNode[0]}&gebiet=${selectedNode[1]}`
+            let theUrl =`https://oegdatlas.herokuapp.com/api/fetch-by-name/?line2=${selectedNode[0]}&gebiet=${selectedNode[1]}`
             fetch(theUrl).then(function(response) {
             return response.json();
             }).then(function(data) {

@@ -14,8 +14,11 @@
   const { close } = getContext('simple-modal');
     
   let updateNewEdge = () => {
-    let theUrl1 =`http://localhost:5001/api/fetch-by-name/?line2=${valueStandard[0]}&gebiet=${valueStandard[1]}`
-    let theUrl2 =`http://localhost:5001/api/fetch-by-name/?line2=${valueStandard2[0]}&gebiet=${valueStandard2[1]}`
+    // let theUrl1 =`http://localhost:5001/api/fetch-by-name/?line2=${valueStandard[0]}&gebiet=${valueStandard[1]}`
+    // let theUrl2 =`http://localhost:5001/api/fetch-by-name/?line2=${valueStandard2[0]}&gebiet=${valueStandard2[1]}`
+    let theUrl1 =`https://oegdatlas.herokuapp.com/api/fetch-by-name/?line2=${valueStandard[0]}&gebiet=${valueStandard[1]}`
+    let theUrl2 =`https://oegdatlas.herokuapp.com/api/fetch-by-name/?line2=${valueStandard2[0]}&gebiet=${valueStandard2[1]}`
+    
     fetch(theUrl1).then(function(response) {
       return response.json();
     }).then(function(data) {

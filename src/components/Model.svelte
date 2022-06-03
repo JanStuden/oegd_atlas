@@ -7,11 +7,18 @@
     import Button, { Label } from '@smui/button';
     import Modal from 'svelte-simple-modal';
     import { v4 as uuidv4 } from 'uuid';
-    import AutoComplete from "simple-svelte-autocomplete"
+    import AutoComplete from "simple-svelte-autocomplete";
+    import Icon from "svelte-material-icons/Tune.svelte";
+    import Search from "svelte-material-icons/Magnify.svelte";
+
  
-    export let allGebiete = []
-    let selectedNode
+    export let allGebiete = [];
+
+    let searchListStrings = [];
+    let alleProjekte = [];
+    let selectedNode;
     let collectionCompoundNodes;
+    let projekteElements;
     // let urlEdges = 'http://localhost:5001/api/fullEdgeList';
     // let urlNodes = 'http://localhost:5001/api/fullList'
     let urlEdges = 'https://oegdatlas.herokuapp.com/api/fullEdgeList';
@@ -20,12 +27,24 @@
     
         let items = [
             { value: 'Ebene', label: 'Ebene' },
-            { value: 'Region', label: 'Region' }
+            { value: 'Region', label: 'Region' },
+            { value: 'Projekte', label: 'Projekte' }
         ];
 
+        let projekte = [
+            { value: 'Affenpocken', label: 'Affenpocken' },
+            { value: 'UkraineSchutzimpfung', label: 'Ukraine Schutzimpfung' },
+        ];
+    
+    let search_Result;
     let valueSelected= { value: 'Region', label: 'Region' };
+    let projectSelected= { value: 'Affenpocken', label: 'Affenpocken' };
 
-	let show=false;
+	let showEbenen=false;
+
+    
+
+    let showProjekte=false;
 
     let ebenenChecks = [
 		'Bund',
@@ -157,6 +176,7 @@
             }    
             ]);
             
+
             collectionCompoundNodes = cy.collection();
             let arrayOfParents = [ 'Bayern','Baden-Württemberg','Berlin','Brandenburg','Bremen','Hamburg','Hessen','Mecklenburg-Vorpommern','Niedersachsen','Nordrhein-Westfalen','Rheinland-Pfalz',
              'Saarland','Sachsen', 'Sachsen-Anhalt','Schleswig-Holstein','Thüringen', 'Bund'];
@@ -164,6 +184,7 @@
                 let compoundNode = cy.getElementById(element)
                 collectionCompoundNodes = collectionCompoundNodes.union(compoundNode)
             })
+
 
             // let index=1;
             // const fahnen=[,'data:image/png;base64,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','https://i.ebayimg.com/images/g/0PsAAOSwSWZerCbx/s-l300.jpg',
@@ -386,8 +407,23 @@
 
     allNodes.forEach((node) => { 
             allGebiete.push([node['data']['Line2'], node['data']['Gebiet']])
+            searchListStrings.push(`${node['data']['Line2']} ${node['data']['Gebiet']}`)
         })
+    console.log(allGebiete[0][0])
+    allNodes.forEach((node) => {
+        if(node['data']['Projekte']!=null){
+            let arr= node['data']['Projekte']
+            arr.forEach((p) => {
+                if(!alleProjekte.includes(p))
+                alleProjekte.push(p)
+            })
+        } 
+        })
+    
     })
+
+    
+    
 
     function handleChange(){
 
@@ -417,18 +453,24 @@
     }
 
     function handleSelect(event){
-        //console.log(event.detail.value)
         if(event.detail.value=='Ebene'){
-            show = true;
+            showEbenen = true;
+            showProjekte=false;
             //console.log(show)
         }
+        else if(event.detail.value=='Projekte'){
+            showProjekte = true;
+            showEbenen=false;
+        }
         else{
-            show=false
+            showEbenen=false;
+            showProjekte=false;
+            //showProjekte=false
         }
     }
 
     function handleClear(){
-        show=false;
+        showEbenen=false;
     }
 
     function handleClick(){
@@ -469,9 +511,10 @@
         })();
     }
 
-    const highlightSelected = () => {
+    const highlightSelected = (event) => {
 
-        let ele
+        let ele;
+        selectedNode=allGebiete[searchListStrings.indexOf(event.detail.value)]
         if(selectedNode != null){
             console.log(selectedNode)
             //let theUrl =`http://localhost:5001/api/fetch-by-name/?line2=${selectedNode[0]}&gebiet=${selectedNode[1]}`
@@ -480,13 +523,37 @@
             return response.json();
             }).then(function(data) {
              ele = cy.getElementById(data['data']['id'])
+             console.log(ele)
              ele.style('background-color', '#61bffc' )
              cy.nodes().difference(ele).style('background-color', 'grey')   
              collectionCompoundNodes.style('background-color', 'white');
             }).catch(function() {
             console.log("Fetch_error");
             });
+        }
+    }
 
+    const handleProjectPicked = (event) => {
+        alleProjekte.filter(n => n)
+        let ele;
+        let eles=cy.collection();
+        if(event.detail.value!=null){
+            console.log(event.detail.value)
+            let theUrl =`https://oegdatlas.herokuapp.com/api/fetch-by-projekt/?projekt=${event.detail.value}`
+            fetch(theUrl).then(function(response) {
+            return response.json();
+            }).then(function(data) {
+                data.forEach((element) => {
+                    ele = cy.getElementById(element['data']['id'])
+                    eles=eles.union(ele)
+                })
+             console.log(eles.size())
+             eles.style('background-color', '#61bffc' )
+             cy.nodes().difference(eles).style('background-color', 'grey')   
+             collectionCompoundNodes.style('background-color', 'white');    
+            }).catch(function() {
+            console.log("Fetch_error");
+            });
         }
     }
 
@@ -495,41 +562,89 @@
 <!-- <main> -->
 <div class="wrapper">
 
-<h1 class="flex_item">ÖGD-Atlas</h1>
+<h1 class="flex_item justify-start">ÖGD-Atlas</h1>
+<div class="flex_item select flexible_width"> 
+    <!-- <AutoComplete placeholder="Suche" items={allGebiete} bind:selectedItem={selectedNode} onChange={highlightSelected}>
+    </AutoComplete> -->
+    <Select Icon={Search} listAutoWidth=true items={searchListStrings} value={search_Result} on:select={highlightSelected} />
+</div>
 <Modal class="flex_item"> 
     <ButtonContent on:add_Edge={add_Edge} searchList={allGebiete}></ButtonContent>
 </Modal>
-<div class="flex_item"> 
-    <AutoComplete placeholder="Suche" items={allGebiete} bind:selectedItem={selectedNode} onChange={highlightSelected}/>
-</div>
 </div>    
-        <div>
+        <div class="wrapper1">
             <!-- <button on:click={handleClick}>
                 Click me
-            </button> -->          
-            <Select {items} {valueSelected} on:select={handleSelect} on:clear={handleClear}></Select>
-            {#if show}
-                {#each ebenenChecks as checkedEbene}
-                    <label>
-                        <input type=checkbox bind:group={checkedEbenen} name="ebeneChecks" value={checkedEbene} on:change={handleChange}>
-                        {checkedEbene}
-                    </label>
-                {/each}
-            {/if}
+            </button> -->  
+            <div class="flex_item1 select constant_width">
+            <Select Icon={Icon} items={items} {valueSelected}  on:select={handleSelect} on:clear={handleClear}></Select>
+            </div>     
+            <div class="flex_item1 select constant_width">   
+                {#if showEbenen}
+                    {#each ebenenChecks as checkedEbene}
+                        <label>
+                            <input type=checkbox bind:group={checkedEbenen} name="ebeneChecks" value={checkedEbene} on:change={handleChange}>
+                            {checkedEbene}
+                        </label>
+                    {/each}
+                {/if}
+                {#if showProjekte}
+                    <Select  items={alleProjekte}  on:select={handleProjectPicked}></Select>
+                {/if}
+            </div>
         </div>
         
         <div id="cy">
-        </div>
+</div>
         
        
 <!-- </main> --> 
 <style> 
  .wrapper{
      display: flex;
-     
-    
+     justify-content: flex-end;
+     align-items: center; 
+ }
+
+ .wrapper1{
+     display: flex;
+     justify-content: flex-start;
+     align-items: center; 
  }
  .flex_item{
-    margin: auto;
+     margin-right: 100px;
+     margin-left: 10px;
  }
+ .flex_item1{
+     margin-right: 80px;
+     margin-left: 10px;
+ }
+
+ .justify-start{
+    margin-right:auto;
+    font-family: Arial; 
+ }
+
+ .select{
+     --borderRadius: 0px;
+     --border:1px solid black;
+     --borderHoverColor: black;
+     --inputFontSize: 15px; 
+     --height: 31px;
+     --groupTitleFontSize: 500000px;
+     --itemPadding: 1px 1px 1px 1px;
+     
+     font-family: Arial;  
+    --selectedItemPadding: 0 10px 0 8px;
+	--inputPadding: 0 10px 0 40px;
+ }
+
+ .flexible_width{
+    min-width:20%;  
+ }
+
+ .constant_width{
+     width: 20%;
+ }
+
 </style>

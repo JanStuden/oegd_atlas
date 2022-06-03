@@ -78,6 +78,28 @@
     <div class="col-2" >{item.Ebene}</div>
     {/if}
  </li>
+ <li class="flex">
+  {#if edit}
+  <div class="col-1" >Projekte:</div>
+  <div class="col-2" >
+    <Textfield variant="outlined" bind:value={item.Projekte} label="Eingabe">
+    </Textfield></div>
+  {:else}  
+  <div class="col-1" >Projekte:</div>
+  <div class="col-2" >{item.Projekte}</div>
+  {/if}
+</li>
+<li class="flex">
+  {#if edit}
+  <div class="col-1" >Projektbeschreibung:</div>
+  <div class="col-2-adj" >
+    <Textfield variant="outlined" bind:value={item.Projektbeschreibung} label="Eingabe">
+    </Textfield></div>
+  {:else}  
+  <div class="col-1" >Projektbeschreibung:</div>
+  <div class="col-2-adj" >{item.Projektbeschreibung}</div>
+  {/if}
+</li>
 </ul>
 {#if edit}
 <Button on:click={showSurprise} class="submitButton"><Label>Änderung vorschlagen</Label></Button>
@@ -103,14 +125,15 @@
 .overlay-content {
  
  width: 30%;
- height: 100%;
+ /* height: 100%; */
  background-color: #EDF1EA;
  color: #080808;
  align-content: center;
- overflow: hidden;
- position: absolute; 
+ /* overflow: hidden;
+ position: absolute;  */
  transition: 0.6s;
- top: 0%;
+ top: 0;
+ bottom: 0;
  left: 100%;
  opacity: 1;
  margin-left: auto;
@@ -118,8 +141,9 @@
  padding-top: 50px;
  opacity: 1;
  position: fixed;
-
+ overflow-y: scroll
 }
+
 .overlay-content {
  transform: translateX(-100%);
 }
@@ -166,8 +190,14 @@ h1{
    flex-basis: 10%;
  }
 .col-2 {
-   flex-basis: 25%;
+   /* flex-basis: 45%; */
+   flex-basis: 45%; 
  }
+
+.col-2-adj{
+   flex-basis: 45%
+ }
+
  * :global(.close){
  position: absolute;
  top: 10px;
@@ -197,7 +227,7 @@ h1{
 
   @media screen and (max-width: 1500px) {
     .overlay-content{
-      width:100%
+      width:100%;
     }
     
  }

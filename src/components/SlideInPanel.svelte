@@ -39,8 +39,8 @@
   <IconButton class="material-icons close" on:click size="mini">close</IconButton>
  <!-- <button class="edit" on:click={handleClick}>Edit</button> -->
  <IconButton class="material-icons edit" on:click={handleClick} size="button" toggle bind:pressed={initialOff}>
-  <Icon class="material-icons" on>edit</Icon>
-  <Icon class="material-icons">edit_off</Icon>
+  <Icon class="material-icons" on>edit_off</Icon>
+  <Icon class="material-icons">edit</Icon>
 </IconButton>
  <h1>{item.Line2} {item.Gebiet}</h1>
  <ul>
@@ -201,14 +201,14 @@ h1{
  * :global(.close){
  position: absolute;
  top: 10px;
- left: 15px;
+ right: 5px;
  border: none;
  cursor: pointer;
 }
 * :global(.edit){
  position: absolute;
  top: 10px;
- right: 15px;
+ right: 50px;
  border: none;
  cursor: pointer;
 }

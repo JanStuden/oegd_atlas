@@ -18,7 +18,7 @@
     let alleProjekte = [];
     let selectedNode;
     let collectionCompoundNodes;
-    let projekteElements;
+    let projektPicked=false;
     // let urlEdges = 'http://localhost:5001/api/fullEdgeList';
     // let urlNodes = 'http://localhost:5001/api/fullList'
     let urlEdges = 'https://oegdatlas.herokuapp.com/api/fullEdgeList';
@@ -363,15 +363,16 @@
             cy.on('mouseover', 'node', (e) => { 
                 
                 //console.log( e.target.data())
-                hovered = e.target.data();
-                neighborsOfHoverd = cy.$('#'+hovered.id).neighborhood();
-                neighborsOfHoverd=neighborsOfHoverd.union('#'+hovered.id);
-                noDirectNeighbors=cy.nodes().difference(neighborsOfHoverd);
-                neighborsOfHoverd.style('background-color', '#61bffc' )
-                noDirectNeighbors.style('background-color', 'grey');
-                neighborsOfHoverd.style('line-color', '#61bffc')
-                collectionCompoundNodes.style('background-color', 'white');
-            
+                if(projektPicked==false){
+                    hovered = e.target.data();
+                    neighborsOfHoverd = cy.$('#'+hovered.id).neighborhood();
+                    neighborsOfHoverd=neighborsOfHoverd.union('#'+hovered.id);
+                    noDirectNeighbors=cy.nodes().difference(neighborsOfHoverd);
+                    neighborsOfHoverd.style('background-color', '#61bffc' )
+                    noDirectNeighbors.style('background-color', 'grey');
+                    neighborsOfHoverd.style('line-color', '#61bffc')
+                    collectionCompoundNodes.style('background-color', 'white');
+                }
             })
 
             
@@ -379,9 +380,11 @@
 
             cy.on('mouseout', 'node', (e) => { 
                 // noDirectNeighbors.style('background-color','#61bffc')
+                if(projektPicked==false){
                 handleChange();
                 neighborsOfHoverd.style('line-color', 'grey')
                 collectionCompoundNodes.style('background-color', 'white');
+                }
             })
 
     // cy.resize()
@@ -409,7 +412,7 @@
             allGebiete.push([node['data']['Line2'], node['data']['Gebiet']])
             searchListStrings.push(`${node['data']['Line2']} ${node['data']['Gebiet']}`)
         })
-    console.log(allGebiete[0][0])
+
     allNodes.forEach((node) => {
         if(node['data']['Projekte']!=null){
             let arr= node['data']['Projekte']
@@ -486,29 +489,31 @@
     
     const add_Edge = (event) => {
         
-        let id1 = uuidv4();
-        // conosole.log(id)
-        console.log("node1:", event.detail.data_node1['data'], "node2", event.detail.data_node2['data'])
-        cy.add([
-            { group: 'edges', data: { id: id1 , source: event.detail.data_node1['data']['id'], target: event.detail.data_node2['data']['id'] } }
-        ]); 
-        //window.location.reload();
 
-        (async () => {
-            let edge= { "data": { "id": id1, "source": event.detail.data_node1['data']['id'], "target":  event.detail.data_node2['data']['id'] } }
-            //const rawResponse = await fetch('http://localhost:5001/api/post-edge', {
-            const rawResponse = await fetch('https://oegdatlas.herokuapp.com/api/post-edge', {    
-                method: 'POST',
-                headers: {
-                'Content-Type': 'application/json',
-                'Accept': 'application/json'
-                },  
-                body: JSON.stringify(edge)
-            });
-            const content = await rawResponse.json();
+        // -> add Edge in DB
+        // let id1 = uuidv4();
+        // // conosole.log(id)
+        // console.log("node1:", event.detail.data_node1['data'], "node2", event.detail.data_node2['data'])
+        // cy.add([
+        //     { group: 'edges', data: { id: id1 , source: event.detail.data_node1['data']['id'], target: event.detail.data_node2['data']['id'] } }
+        // ]); 
+        // //window.location.reload();
 
-            console.log(content);
-        })();
+        // (async () => {
+        //     let edge= { "data": { "id": id1, "source": event.detail.data_node1['data']['id'], "target":  event.detail.data_node2['data']['id'] } }
+        //     //const rawResponse = await fetch('http://localhost:5001/api/post-edge', {
+        //     const rawResponse = await fetch('https://oegdatlas.herokuapp.com/api/post-edge', {    
+        //         method: 'POST',
+        //         headers: {
+        //         'Content-Type': 'application/json',
+        //         'Accept': 'application/json'
+        //         },  
+        //         body: JSON.stringify(edge)
+        //     });
+        //     const content = await rawResponse.json();
+
+        //     console.log(content);
+        // })();
     }
 
     const highlightSelected = (event) => {
@@ -537,6 +542,7 @@
         alleProjekte.filter(n => n)
         let ele;
         let eles=cy.collection();
+        projektPicked=true;
         if(event.detail.value!=null){
             console.log(event.detail.value)
             let theUrl =`https://oegdatlas.herokuapp.com/api/fetch-by-projekt/?projekt=${event.detail.value}`
@@ -555,6 +561,11 @@
             console.log("Fetch_error");
             });
         }
+    }
+
+    const handleProjektClear = (event) => {
+        projektPicked=false;
+        console.log("ausgelöst")
     }
 
 </script>
@@ -583,13 +594,13 @@
                 {#if showEbenen}
                     {#each ebenenChecks as checkedEbene}
                         <label>
-                            <input type=checkbox bind:group={checkedEbenen} name="ebeneChecks" value={checkedEbene} on:change={handleChange}>
+                            <input type=checkbox bind:group={checkedEbenen} name="ebeneChecks" value={checkedEbene} on:change={handleChange} >
                             {checkedEbene}
                         </label>
                     {/each}
                 {/if}
                 {#if showProjekte}
-                    <Select  items={alleProjekte}  on:select={handleProjectPicked}></Select>
+                    <Select  items={alleProjekte}  on:select={handleProjectPicked} on:clear={handleProjektClear}></Select>
                 {/if}
             </div>
         </div>

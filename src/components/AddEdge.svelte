@@ -2,6 +2,10 @@
   import Button, { Label } from '@smui/button';
   import { getContext } from 'svelte';
   import AutoComplete from "simple-svelte-autocomplete"
+  import Dialog from './Dialog.svelte';
+    
+  const { open } = getContext('simple-modal'); 
+  const showSurprise = () => open(Dialog);
 
   let valueStandard="";
   let valueStandard2="";
@@ -51,7 +55,9 @@
     <p>{valueStandard2}</p>
   </div>
   <div class="button">
-  <Button on:click={updateNewEdge}>Änderung absenden</Button>
+  <!-- nächste Zeile kann genutzt werden, damit kante in model hinzugefügt werden kann -> dann noch in model.svelte "addEgde" entkommentieren  -->
+  <!-- <Button on:click={updateNewEdge}>Änderung absenden</Button> -->
+  <Button on:click={showSurprise}>Änderung absenden</Button>
   </div>
 
   <style>

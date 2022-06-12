@@ -456,6 +456,7 @@
     }
 
     function handleSelect(event){
+        projektPicked=false;
         if(event.detail.value=='Ebene'){
             showEbenen = true;
             showProjekte=false;
@@ -473,7 +474,9 @@
     }
 
     function handleClear(){
+        projektPicked=false;
         showEbenen=false;
+        showProjekte=false;
     }
 
     function handleClick(){
@@ -577,7 +580,7 @@
 <div class="flex_item select flexible_width"> 
     <!-- <AutoComplete placeholder="Suche" items={allGebiete} bind:selectedItem={selectedNode} onChange={highlightSelected}>
     </AutoComplete> -->
-    <Select Icon={Search} listAutoWidth=true items={searchListStrings} value={search_Result} on:select={highlightSelected} />
+    <Select Icon={Search} listAutoWidth=true items={searchListStrings} value={search_Result} placeholder="Suche" on:select={highlightSelected} />
 </div>
 <Modal class="flex_item"> 
     <ButtonContent on:add_Edge={add_Edge} searchList={allGebiete}></ButtonContent>
@@ -588,19 +591,19 @@
                 Click me
             </button> -->  
             <div class="flex_item1 select constant_width">
-            <Select Icon={Icon} items={items} {valueSelected}  on:select={handleSelect} on:clear={handleClear}></Select>
+            <Select Icon={Icon} items={items} {valueSelected}  placeholder="Auswahl" on:select={handleSelect} on:clear={handleClear}></Select>
             </div>     
             <div class="flex_item1 select constant_width">   
                 {#if showEbenen}
                     {#each ebenenChecks as checkedEbene}
                         <label>
-                            <input type=checkbox bind:group={checkedEbenen} name="ebeneChecks" value={checkedEbene} on:change={handleChange} >
+                            <input type=checkbox bind:group={checkedEbenen} name="ebeneChecks" value={checkedEbene}  on:change={handleChange} >
                             {checkedEbene}
                         </label>
                     {/each}
                 {/if}
                 {#if showProjekte}
-                    <Select  items={alleProjekte}  on:select={handleProjectPicked} on:clear={handleProjektClear}></Select>
+                    <Select  items={alleProjekte} placeholder="Auswahl Projekte" on:select={handleProjectPicked} on:clear={handleProjektClear}></Select>
                 {/if}
             </div>
         </div>
